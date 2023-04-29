@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "fce8f0c05695a4bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a940949cb55bda6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79d6731749e747bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlr/Home/Calculus/Calculus Master Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9f62bae4e9f1e3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bad1eef2ec6cf3df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e732b784fb5083d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6bd7dc54e9a31f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2010d3a7d45a574",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9583448fb3926dc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "054709bfb8892d60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93f95e5669954f11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettlr/Home/Calculus/Calculus Master Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df67c6d5df939dbe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettlr/Home/Calculus/Calculus Master Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2cd9f86e997fa652",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb19eebc044c9b1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zettlr/Home/Calculus/Calculus Master Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "79d6731749e747bc",
+  "lastOpenFiles": [
+    "Zettlr/Home/Calculus/Pasted image 20230428202915.png",
+    "Zettlr/Home/Calculus/Calculus Master Notes.md",
+    "Zettlr/Home/Biology/Campbell/Ch26 - Phylogeny and the Tree of Life.md"
+  ]
+}
