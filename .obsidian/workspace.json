@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7a940949cb55bda6",
+        "id": "525c2bba4633f991",
         "type": "tabs",
         "children": [
           {
-            "id": "79d6731749e747bc",
+            "id": "9f46e9c8f208ff8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlr/Home/Calculus/Calculus Master Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlr/Home/Calculus/Calculus Master Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlr/Home/Calculus/Calculus Master Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Zettlr/Home/Calculus/Calculus Master Notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79d6731749e747bc",
+  "active": "e732b784fb5083d3",
   "lastOpenFiles": [
-    "Zettlr/Home/Calculus/Pasted image 20230428202915.png",
+    "Temp/Chinese.md",
+    "Temp",
+    "School/IGS/Topic 4.md",
+    "School/IGS/Topic 3.md",
+    "School/IGS/Topic 2.md",
+    "School/IGS/Topic 1.md",
+    "School/IGS",
+    "School",
+    "Home/Biology/Campbell/ff7e5a6dee052d5d8d9a5da1281022ce.png",
+    "Home/Biology/Campbell/cae84866b2e3f42c03a550a6b5b0c2b6.png",
+    "Home/Biology/Campbell/c644c1c518129222d8d3396156a87a13.png",
+    "Home/Biology/Campbell/Hardy-Weinberg Problems.md",
+    "Home/Biology/Campbell/Ch26 - Phylogeny and the Tree of Life.md",
+    "Home/Biology/Campbell/81b1d2563c558987857e6c2c438a3ced.png",
+    "Home/Biology/Campbell/5e9de9853f0a58654194c0263f35b4f0.png",
+    "Home/Biology/Campbell/5bb4147daacd97963d75e531250fe83e.png",
+    "Home/Biology/Campbell/3aa32ddaf906ef6176011ffccfe7f57c.png",
+    "Home/Calculus/Pasted image 20230428202915.png",
+    "Home/Calculus/Calculus Master Notes.md",
+    "Home/Biology/Campbell",
+    "Home/Calculus",
+    "Home/Biology",
+    "Home",
     "Zettlr/Home/Calculus/Calculus Master Notes.md",
+    "Zettlr/Home/Calculus/Pasted image 20230428202915.png",
     "Zettlr/Home/Biology/Campbell/Ch26 - Phylogeny and the Tree of Life.md"
   ]
 }
