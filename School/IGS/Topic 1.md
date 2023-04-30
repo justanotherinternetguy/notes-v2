@@ -37,7 +37,6 @@
 - Implementing low-tech solutions [3]
 - Enacting and enforcing trade rules, procurement standards, and border adjustments with strong labor and environmental protections [3]
 - Supporting traditionally marginalized individuals, such as migrant, indigenous, and racially diverse communities [2]
-- 
 
 [1] https://www.nytimes.com/2019/02/21/climate/green-new-deal-questions-answers.html
 [2] https://www.investopedia.com/the-green-new-deal-explained-4588463
@@ -98,6 +97,15 @@ To make the Green New Deal happen, the following would need to be done:
 Obstacles that could prevent the Green New Deal from happening include:
 - The cost of implementing the Green New Deal, which has been estimated to be in the trillions of dollars [2]
 - The potential for the Green New Deal to slow down the economy and require a lot of overhaul and government oversight [2]
+
+The Green New Deal is a non-binding resolution that aims to create public and political discourse on climate change, jobs, income inequality, health care, housing, and more[1](https://knowledge.wharton.upenn.edu/article/the-green-new-deal-explained/). The resolution calls for the conversion of all U.S. power to clean, renewable energy, and the reduction of methane and nitrous oxide emissions from agriculture and industry[2](https://news.stanford.edu/2019/03/28/strengths-weaknesses-green-new-deal/). The Green New Deal is sparking an important and necessary conversation around the urgency of climate change, but it faces obstacles in securing political support and implementing specific proposals[1](https://knowledge.wharton.upenn.edu/article/the-green-new-deal-explained/)[3](https://www.politico.com/magazine/story/2019/01/15/the-trouble-with-the-green-new-deal-223977). One obstacle is determining the substantive details of the Green New Deal, which is already exposing political divisions[3](https://www.politico.com/magazine/story/2019/01/15/the-trouble-with-the-green-new-deal-223977). Some see it as a vehicle to address the climate emergency and root out inequality, while others are concerned about its impact on the economy[3](https://www.politico.com/magazine/story/2019/01/15/the-trouble-with-the-green-new-deal-223977). Another obstacle is the practical problems that the Green New Deal fails to address, such as the fact that renewable energy sources only compete in 40% of the total energy demand market[4](https://www.forbes.com/sites/judeclemente/2019/04/29/five-practical-problems-for-the-green-new-deal/). Additionally, the Green New Deal would reduce global temperatures by only 0.083 to 0.173 degrees, according to a study by the American Enterprise Institute[5](https://www.liberty.edu/champion/2021/04/the-green-new-deal-would-harm-americans-not-help-them/). To make the Green New Deal happen, political support and public discourse are necessary. The Green New Deal is a framework proposal that needs to be developed into a detailed plan with specific outcomes[1](https://knowledge.wharton.upenn.edu/article/the-green-new-deal-explained/). It is important to address the concerns of those who are skeptical of the Green New Deal's impact on the economy and to find ways to address the practical problems that it fails to address. The urgency and importance of the issue of climate change cannot be ignored, and the Green New Deal is a catalyst for a plan that will put us on an accelerated path to decarbonization[2](https://news.stanford.edu/2019/03/28/strengths-weaknesses-green-new-deal/).
+
+[1] https://knowledge.wharton.upenn.edu/podcast/knowledge-at-wharton-podcast/the-green-new-deal-explained/
+[2] https://news.stanford.edu/2019/03/28/strengths-weaknesses-green-new-deal/
+[3] https://www.politico.com/magazine/story/2019/01/15/the-trouble-with-the-green-new-deal-223977/
+[4] https://www.forbes.com/sites/judeclemente/2019/04/29/five-practical-problems-for-the-green-new-deal/?sh=2c18e0463e8a
+[5] https://www.liberty.edu/champion/2021/04/the-green-new-deal-would-harm-americans-not-help-them/
+
 ## Benefits for the people
 - Guaranteed job with fair pay, family and medical leave, paid vacations and retirement security
 

@@ -3,5 +3,6 @@
   "interfaceFontFamily": "Iosevka Nerd Font",
   "textFontFamily": "Iosevka Nerd Font",
   "monospaceFontFamily": "Iosevka Nerd Font",
-  "cssTheme": "Wombat"
+  "cssTheme": "Wombat",
+  "baseFontSize": 14
 }
