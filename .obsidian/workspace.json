@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "525c2bba4633f991",
+        "id": "ee60e5049d4c1b3a",
         "type": "tabs",
         "children": [
           {
-            "id": "9f46e9c8f208ff8b",
+            "id": "7da878be84cf8db1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School/IGS/Topic 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9583448fb3926dc4",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/IGS/Topic 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/IGS/Topic 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School/IGS/Topic 1.md"
+              }
             }
           }
         ]
@@ -138,14 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e732b784fb5083d3",
+  "active": "7da878be84cf8db1",
   "lastOpenFiles": [
+    "School/IGS/Topic 1.md",
     "Temp/Chinese.md",
     "Temp",
     "School/IGS/Topic 4.md",
     "School/IGS/Topic 3.md",
     "School/IGS/Topic 2.md",
-    "School/IGS/Topic 1.md",
     "School/IGS",
     "School",
     "Home/Biology/Campbell/ff7e5a6dee052d5d8d9a5da1281022ce.png",
