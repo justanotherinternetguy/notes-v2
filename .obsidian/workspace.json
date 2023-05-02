@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "20f92fd854ea29c7",
+        "id": "26e5b2e660714fc7",
         "type": "tabs",
         "children": [
           {
-            "id": "c5788f366ffb121b",
+            "id": "6e9f395646f1af95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/IGS/Topic 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1773e81e73414f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/IGS/Topic 5.md",
+                "file": "School/IGS/Unit 10 Notes + SG.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IGS/Topic 5.md",
+                "file": "School/IGS/Unit 10 Notes + SG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IGS/Topic 5.md",
+                "file": "School/IGS/Unit 10 Notes + SG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/IGS/Topic 5.md"
+                "file": "School/IGS/Unit 10 Notes + SG.md"
               }
             }
           }
@@ -159,34 +146,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1773e81e73414f8",
+  "active": "6e9f395646f1af95",
   "lastOpenFiles": [
-    "School/IGS/Topic 4.md",
-    "School/IGS/Topic 5.md",
-    "School/IGS/Topic 3.md",
-    "School/IGS/Topic 2.md",
-    "School/IGS/Topic 1.md",
+    "School/Spanish/Grammar.md",
+    "School/Spanish/Pasted image 20230501155204.png",
+    "School/Spanish/Pasted image 20230501155059.png",
+    "School/Spanish/Pasted image 20230501155051.png",
+    "School/Spanish/Pasted image 20230501155035.png",
+    "School/Spanish/Pasted image 20230501155009.png",
+    "School/Spanish/Pasted image 20230501153843.png",
+    "School/Spanish/Pasted image 20230501153826.png",
+    "School/Spanish/Pasted image 20230501154836.png",
+    "School/Spanish/Pasted image 20230501154829.png",
+    "School/Spanish/Pasted image 20230501154818.png",
+    "School/IGS/Unit 10 Notes + SG.md",
+    "School/Spanish",
+    "School/IGS/Unit 10 Fishbowl/Topic 5.md",
+    "School/IGS/Unit 10 Fishbowl",
+    "School/IGS/Unit 10 Fishbowl/Topic 4.md",
+    "School/IGS/Unit 10 Fishbowl/Topic 3.md",
+    "School/IGS/Unit 10 Fishbowl/Topic 2.md",
+    "School/IGS/Unit 10 Fishbowl/Topic 1.md",
     "Temp/Chinese.md",
     "Temp",
     "School/IGS",
     "School",
-    "Home/Biology/Campbell/ff7e5a6dee052d5d8d9a5da1281022ce.png",
-    "Home/Biology/Campbell/cae84866b2e3f42c03a550a6b5b0c2b6.png",
-    "Home/Biology/Campbell/c644c1c518129222d8d3396156a87a13.png",
     "Home/Biology/Campbell/Hardy-Weinberg Problems.md",
     "Home/Biology/Campbell/Ch26 - Phylogeny and the Tree of Life.md",
-    "Home/Biology/Campbell/81b1d2563c558987857e6c2c438a3ced.png",
-    "Home/Biology/Campbell/5e9de9853f0a58654194c0263f35b4f0.png",
-    "Home/Biology/Campbell/5bb4147daacd97963d75e531250fe83e.png",
-    "Home/Biology/Campbell/3aa32ddaf906ef6176011ffccfe7f57c.png",
-    "Home/Calculus/Pasted image 20230428202915.png",
     "Home/Calculus/Calculus Master Notes.md",
     "Home/Biology/Campbell",
     "Home/Calculus",
     "Home/Biology",
     "Home",
     "Zettlr/Home/Calculus/Calculus Master Notes.md",
-    "Zettlr/Home/Calculus/Pasted image 20230428202915.png",
     "Zettlr/Home/Biology/Campbell/Ch26 - Phylogeny and the Tree of Life.md"
   ]
 }
