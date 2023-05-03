@@ -55,4 +55,16 @@
 - You yu shi chang shang maide qi pao da duo sh ian zhao da zhong hua de shen cai he ti xing zhi zuo de, suo yi mai dao he shi de qi pao bu shi yi jian rong yi de shi,
 - you yu mei ge ren de shen cai dou bu yi yang, guo mai qi pao qian bi xu zhun que de liang chu zi ji de xiong wei, yao wei he tun wei
 - ling wai, hai yao kan ling zi, yi shen, xiu zi de chang duan yu fei shou shi fou he shi
-- 
+
+
+# Zodiac Signs
+- 12 Sheng Xiao (shu, long, hu, yang, deng deng)
+- dui zhong guo wen hua hen zhong yao
+- wo shi chu sheng zai 2008, shi shu(3) nian
+- 12 sheng xiao de di yi ge dong wu
+- wan pi, huo po
+- yi ge chuang tong gu shi
+	- 12 ge dongwu zai yi ge bi sai li, shei ying le bisai jiu neng shi di yi ge sheng xiao
+	- lao shu zhi dao ta man...
+	- suo yi, ta jiu yong ta de xiao sheng cai, zuo zai qi ta dong wu de sheng ti shang
+	- zui hou, ta tiao xia lai, ying li bi sai
