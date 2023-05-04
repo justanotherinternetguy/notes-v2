@@ -1,6 +1,9 @@
 {
-  "vimMode": false,
+  "vimMode": true,
   "useMarkdownLinks": true,
   "attachmentFolderPath": "./",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "showFrontmatter": true,
+  "strictLineBreaks": true,
+  "showLineNumber": true
 }
