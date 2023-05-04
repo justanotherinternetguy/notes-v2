@@ -11,8 +11,12 @@
             "id": "f890d8fc581bfc52",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home/Physics/Physics Master Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home/Physics/Physics Master Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home/Physics/Physics Master Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home/Physics/Physics Master Notes.md"
+              }
             }
           }
         ]
@@ -148,11 +156,13 @@
   },
   "active": "e732b784fb5083d3",
   "lastOpenFiles": [
+    "Home/Chemistry/Chemistry Master Notes.md",
+    "Home/Physics/Physics Master Notes.md",
+    "Home/Untitled.md",
     "Home/MiscScience",
     "Home/Chemistry",
     "Home/Physics",
     "Home/Calculus/Calculus Master Notes.md",
-    "Home/Untitled.md",
     "School/IGS/Unit 10 Fishbowl/Topic 6.md",
     "School/IGS/Unit 10 Fishbowl/Topic 4.md",
     "School/IGS/Unit 10 Fishbowl/Topic 3.md",
@@ -183,7 +193,6 @@
     "School",
     "Home/Biology/Campbell/Hardy-Weinberg Problems.md",
     "Home/Biology/Campbell/Ch26 - Phylogeny and the Tree of Life.md",
-    "Home/Biology/Campbell",
     "Zettlr/Home/Calculus/Calculus Master Notes.md",
     "Zettlr/Home/Biology/Campbell/Ch26 - Phylogeny and the Tree of Life.md"
   ]
