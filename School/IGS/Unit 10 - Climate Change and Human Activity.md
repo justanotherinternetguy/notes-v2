@@ -1,3 +1,43 @@
+# 10a - Sources of Alternative Energy
+- **Traditional Electricity**
+	- Burning fossil fuels (coal, oil, nat. gas)
+		- $\approx$ 63% of electricity in the US (non-renewable)
+	- Chemical energy is stored in the bonds of **hydrocarbons**
+		- When combusted w/ $O_2$, produces alot of heat/water/$CO_2$
+- Non-renewable vs. renewable
+	- Non-renewable
+		- Fossil fuels = dead plants and animals that have been buried/heated/pressurized
+		- Solid = Coal
+		- Liquid = Crude oil/petroleum
+		- Gas = Natural Gas
+		- **Solar energy** is stored in fossil fuels
+		- **Nuclear energy** = NON-renewable
+	- **Alternative Energy** = Sources energy other than fossil fuels
+		- Geothermal
+		- Solar
+			- Passive
+			- Active
+		- Hydrogen
+		- Hydroelectric
+		- Tidal
+		- Wind
+		- Biomass
+		- Nuclear
+			- Fission
+			- Fusion
+	- Sun powers most of the energy sources
+- **Why should we care?**
+	- Nonhuman consequences of using fossil fuels include mass extinction, loss of habitat, flooding, etc
+	- 50% of coral reefs have been lost in the last 30 years and it is expected that we will lose **90%** in the next century
+	- Fossil fuels will **run out**
+- **Geothermal energy**
+	- Natural heat from Earth's crust to heat buildings and generate electricity
+	- Common in **volcanically active areas**
+	- Tapping naturally into "hydrothermal convection" systems in the **Earth's crust**
+		- Cooler water seeps into the crust, heated, rises to surface as steam
+		- Steam is captured and use to drive turbines for electricity generation
+	- Very limited range b/c you need strong volcanic activitty nearby (Iceland)
+
 # 10.3a - Energy Balance and the Greenhouse Effect
 - **Climate** = long-term average of the world's temperature, pressure, precipitation, and other weather events
 	- **Temperature** is one of the most important because temperature determines the rate of evaporation, controls how clouds form and a difference in temperature creates winds
