@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1f2f529ea0a3a56f",
+        "id": "cfb4ec5c3aefa40a",
         "type": "tabs",
         "children": [
           {
-            "id": "f4d88c9d862b049e",
+            "id": "f890d8fc581bfc52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/IGS/Unit 10 Fishbowl/Topic 6.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -154,7 +150,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4d88c9d862b049e",
+  "active": "e732b784fb5083d3",
   "lastOpenFiles": [
     "School/IGS/Unit 10 Fishbowl/Topic 4.md",
     "School/IGS/Unit 10 Fishbowl/Topic 3.md",
