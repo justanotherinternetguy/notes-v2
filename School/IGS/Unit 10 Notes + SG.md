@@ -1,4 +1,4 @@
-# 10.3 - Energy Balance and the Greenhouse Effect
+# 10.3a - Energy Balance and the Greenhouse Effect
 - **Climate** = long-term average of the world's temperature, pressure, precipitation, and other weather events
 	- **Temperature** is one of the most important because temperature determines the rate of evaporation, controls how clouds form and a difference in temperature creates winds
 	- Driven by the energy of the sun but involves interaction with the atmosphere, oceans, biomass, rocks, and ice
@@ -11,4 +11,52 @@
 	3. Eccentricity of Earth's orbit
 - Amount of heat the earth will release depends on...
 	1. How much heat the atmosphere can absorb
+		- Sunlight is absorbed by $O_2$ and $O_3$ molecules
+		- $O_2$ content has been **constant**
+		- The ozone layer has been **depleted** in the  **stratosphere** but the amount of ozone in the **troposphere** has **increased (smog)**
+			- Cancels out, nothing has really changed
 	2. **Albedo**
+		- Darker color = more energy absorbed
+		- Earth's albedo is **30%**
+			- **30%** of incoming light is **reflected** back into space
+			- **70%** of incoming light is **absorbed**
+1. **Greenhouse Gases**
+	- Gases that **trap** rather than re-radiate heat
+		- Warm day inside car
+		- Once light enters the Earth's atmosphere, they cannot be re-radiated into space. **Instead**, they warm the planet
+		- Act like glass panes in a greenhouse
+			- The panes allow visible light to pass through but **trap in the thermal radiation** (**longer wavelength**, **smaller frequency**, and therefore less energy than visible light!)
+	- $CO_2, CH_4, H_2O$
+		- Absorb long-wavelength radiation (infared)
+	- 3 Steps:
+		- Atmosphere allows 50% of Sun's energy to reach surface
+		- 30% is reflected back into space
+		- 20% is absorbed by G.G.
+	- Satellite monitoring has shown that thermal radiation **leaving** the Earth has **decreased** while the amount of G.G in the atmosphere has **increased**
+2. **Atmospheric Circulation and Global Climate**
+	- Factors that drive circulation of the atmosphere
+		- Earth is heated unevenly
+			- More energy falls on equator than on poles
+			- Distribution generates winds that carry heat from equator to poles, then from the surface to the upper atmosphere
+		- Coriolis effect
+			- How fluids (air/water) move on rotating sphere
+3. **Role of oceans in global climate**
+	- Oceans can store alot of heat energy
+	- 1000x the amount of hear-per-gram as the atmosphere
+	- Water = universal solvent
+		- Dissolve $CO_2$
+	- Ocean holds more carbon than all other sources on Earth
+	- "Conveyor Belt" of $CO_2$
+
+
+# 10.3b - The Role of the Ocean in Our Global Climate
+1. Oceans as a heat sink
+	- All oceans basins have been warming since 20th century
+	- Oceans have been warming 10x more than atmosphere
+	- Where is the heat gained and how is it distributed?
+2. The Ocean Conveyor Belt
+	- 1800, Count Rumford
+		- Examined ocean temperature data, confused at the lower temperatures found deep in tropical water
+		- He theorized that there was a system of currents running through the oceans
+	- Convection
+		- **NOTE: Diffusion is NOT possible b/c too slow** 
