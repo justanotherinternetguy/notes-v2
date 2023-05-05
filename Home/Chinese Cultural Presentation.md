@@ -68,3 +68,21 @@
 	- lao shu zhi dao ta man...
 	- suo yi, ta jiu yong ta de xiao sheng cai, zuo zai qi ta dong wu de sheng ti shang
 	- zui hou, ta tiao xia lai, ying li bi sai
+
+# wu long wu shi
+- chinese art expression or style
+- yuan xiao jie
+- zhong guo xin nian xiu hou yi tian
+- yuan xiao
+- ACTUAL description
+	- long + shi zi
+	- red + yellow
+	- yan se biao shi yong gan he hao yun qi
+	- tiao wu yuan
+	- ling huo, dong zuo you kuai you zhun que
+	- you hen duo de tiao wu yuan, lian he de zai cong zhu long he shi zi
+	- tuan dui he zuo
+- mei nian zhen shang de zhong wen xue kia
+- biao yan WLWS
+- tiao wu yuan shi gao zhong shen
+- CONCLUSION
