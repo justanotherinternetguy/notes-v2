@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "Fira Sans",
-  "textFontFamily": "Fira Sans",
-  "monospaceFontFamily": "Fira Sans",
-  "cssTheme": "Border",
+  "interfaceFontFamily": "Iosevka Nerd Font",
+  "textFontFamily": "Iosevka Nerd Font",
+  "monospaceFontFamily": "Iosevka Nerd Font",
+  "cssTheme": "WY Console",
   "baseFontSize": 18
 }

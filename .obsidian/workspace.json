@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cfb4ec5c3aefa40a",
+        "id": "456ab6754908715a",
         "type": "tabs",
         "children": [
           {
-            "id": "f890d8fc581bfc52",
+            "id": "5677f38b51c8a415",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home/Chinese Cultural Presentation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Chinese Cultural Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/Chinese Cultural Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home/Chinese Cultural Presentation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f890d8fc581bfc52",
+  "active": "5677f38b51c8a415",
   "lastOpenFiles": [
+    "Home/Chinese Cultural Presentation.md",
     "School/IGS/Unit 10 - Climate Change and Human Activity.md",
     "Home/MiscScience/Other Notes.md",
     "Home/Physics/Physics Master Notes.md",
@@ -169,7 +162,6 @@
     "School/IGS/Unit 10 Fishbowl/Topic 4.md",
     "School/IGS/Unit 10 Fishbowl/Topic 3.md",
     "School/IGS/Unit 10 Fishbowl/Topic 5.md",
-    "Home/Chinese Cultural Presentation.md",
     "Home/Calculus/Pasted image 20230428202915.png",
     "Temp/Chinese.md",
     "Home/Physics/Physics _.md",
