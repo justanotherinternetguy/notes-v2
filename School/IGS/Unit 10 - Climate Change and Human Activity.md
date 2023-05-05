@@ -36,7 +36,50 @@
 	- Tapping naturally into "hydrothermal convection" systems in the **Earth's crust**
 		- Cooler water seeps into the crust, heated, rises to surface as steam
 		- Steam is captured and use to drive turbines for electricity generation
-	- Very limited range b/c you need strong volcanic activitty nearby (Iceland)
+	- **PROS**
+		- **Renewable** and **sustainable**
+		- Always available, has little impact on environment
+	- **CONS**
+		- Limited range, you need enough volcanic activity (Iceland, California)
+- **Solar energy**
+	- **Photovoltaic effect**
+		- Chemophysical phenomenon
+		- Generation of voltage and electric current
+		- **Transparent wafers of silicon**
+		- When light falls on the photovoltaic cell, it excites the electrons in the cell's semiconductor material
+		- Electrons will flow in a particular direction, creating a current
+	- **Passive**
+		- Windows/Walls/Floors are made to store and reflect solar energy depending on season
+			- Stores heat in winter, rejects heat in summer
+		- NO mechanical devices used
+		- Take advantage of local climate
+		- Window placement and size, thermal insulation, shading
+		- **PROS**
+			- Draws little to no power to run
+		- **CONS**
+			- Dependent on climate, will not work consistently
+			- Cost of retrofitting
+	- **Active**
+		- Uses various electrical and mechanical systems to capture and convert the Sun's energy
+			- Photovoltaic panels, collectors, voltage controllers, blowers, pumps, etc
+		- Batteries
+		- Example: rooftop solar panel arrays
+		- **PROS**
+			- Renewable
+			- Can be used anywhere that has sunlight
+		- **CONS**
+			- Limited and inconsistent power output
+			- Cost of retrofitting
+
+- **Hydrogen energy**
+	- **Potential** to be the most productive energy soucre
+	- Produces $H_2O$ as a result
+	- Hydrogen is generally available, can be harvested easily
+	- No new drilling infrastructure is required
+	- **Electrolysis**
+		- DC current to drive an otherwise non-spontaneous chemical rxn
+		- $H_2O \rightarrow H, O$
+
 
 # 10.3a - Energy Balance and the Greenhouse Effect
 - **Climate** = long-term average of the world's temperature, pressure, precipitation, and other weather events
@@ -44,7 +87,7 @@
 	- Driven by the energy of the sun but involves interaction with the atmosphere, oceans, biomass, rocks, and ice
 - **Sun** = heat source
 	- Earth will warm/cool until the heat given off to space matches the amount of sunlight absorbed by the planet ("energy balance")
-	- **Law of Conservation of energy**
+	- **Law of Conservation of Energy**
 - Amount of input energy depends on...
 	1. How far Earth's axis tilts
 	2. Which direction the Earth tilts
@@ -82,7 +125,7 @@
 			- How fluids (air/water) move on rotating sphere
 3. **Role of oceans in global climate**
 	- Oceans can store alot of heat energy
-	- 1000x the amount of hear-per-gram as the atmosphere
+	- 1000x the amount of heat-per-gram as the atmosphere
 	- Water = universal solvent
 		- Dissolve $CO_2$
 	- Ocean holds more carbon than all other sources on Earth

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "456ab6754908715a",
+        "id": "1e7ee03a7062b601",
         "type": "tabs",
         "children": [
           {
-            "id": "5677f38b51c8a415",
+            "id": "f1254a5b99523a3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School/IGS/Unit 10 - Climate Change and Human Activity.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/IGS/Unit 10 - Climate Change and Human Activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/IGS/Unit 10 - Climate Change and Human Activity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School/IGS/Unit 10 - Climate Change and Human Activity.md"
+              }
             }
           }
         ]
@@ -146,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5677f38b51c8a415",
+  "active": "f1254a5b99523a3c",
   "lastOpenFiles": [
-    "Home/Chinese Cultural Presentation.md",
+    "C.md",
     "School/IGS/Unit 10 - Climate Change and Human Activity.md",
+    "Home/Chinese Cultural Presentation.md",
     "Home/MiscScience/Other Notes.md",
     "Home/Physics/Physics Master Notes.md",
     "Home/Chemistry/Chemistry Master Notes.md",
