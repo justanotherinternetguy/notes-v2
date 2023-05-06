@@ -70,7 +70,6 @@
 		- **CONS**
 			- Limited and inconsistent power output
 			- Cost of retrofitting
-
 - **Hydrogen energy**
 	- **Potential** to be the most productive energy soucre
 	- Produces $H_2O$ as a result
@@ -79,6 +78,64 @@
 	- **Electrolysis**
 		- DC current to drive an otherwise non-spontaneous chemical rxn
 		- $H_2O \rightarrow H, O$
+		- Takes alot of power, but this power *could* be supplied with other renewable energy methods
+	- **Stripping Methane**
+		- Removal of $H_4$ from $CH_4$ with **steam** and a **metal**
+		- Requires a **fossil fuel**
+		- Releases $CO_2$
+
+- **Hydroelectric energy**
+	- Uses running water to turn electricity-generating turbine
+	- Common in dams and reservoirs
+	- **PROS**
+		- "Unlimited" source of energy
+	- **CONS**
+		- Depenent on location
+		- Dams prevent migration of fish and prevent natural flows of river, sediment buildup
+- **Tidal energy**
+	- Kinetic energy or rising/falling tides
+	- **PROS**
+	- **CONS**
+		- Relatively expensive
+		- Buoys would need long electrical transmission lines, possible disruption of marine ecosystems
+- **Wind energy**
+	- **PROS**
+		- "Free energy"
+		- Low environmental impact
+	- **CONS**
+		- Might hit birds
+		- Takes up a lot of space and is lound
+		- Limited range and inconsistent output
+- **Biomass energy**
+	- Energy generated from burning organic matter
+	- E.g burning wood, corn, sugarcane, soy
+	- **PROS**
+		- Already in use
+		- Rewnewable and abundant
+		- Redirect waste from landfills
+	- **CONS**
+		- Can still produce pollution and toxic ash
+		- Can hurt disadvantaged communities
+
+
+# 10b - Nuclear Energy
+- **FISSION**
+	- Only possible with elements 90+
+		- Thorium+
+	- Products of fission usually include 2-3 neutrons
+		- Total mass of product is somewhat less than U-235
+	- **Process of splitting a heavier nucleus into lighter nuclei**
+	- Controlled chain reaction
+	- When a neutron collides with a nucleus, the nucleus splits in two **isotopes**, each of which is roughly half the mass of the original atom
+	- A small amount of mass is "left over" and becomes **energy**
+		- $E = mc^2$
+	- Atomic bombs carry out the fission of a heavy element **uncontrolled**
+	- **PROS**
+		- Does not release $CO_2$
+	- **CONS**
+		- Radioactive waste and contamination
+		- Fission reaction can spiral out of control if left unchecked
+		- 
 
 
 # 10.3a - Energy Balance and the Greenhouse Effect

@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9583448fb3926dc4",
@@ -156,8 +157,9 @@
   },
   "active": "f1254a5b99523a3c",
   "lastOpenFiles": [
-    "C.md",
+    "Untitled.md",
     "School/IGS/Unit 10 - Climate Change and Human Activity.md",
+    "C.md",
     "Home/Chinese Cultural Presentation.md",
     "Home/MiscScience/Other Notes.md",
     "Home/Physics/Physics Master Notes.md",
