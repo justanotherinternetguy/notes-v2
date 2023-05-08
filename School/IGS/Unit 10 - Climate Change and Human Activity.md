@@ -11,7 +11,7 @@
 		- Liquid = Crude oil/petroleum
 		- Gas = Natural Gas
 		- **Solar energy** is stored in fossil fuels
-		- **Nuclear energy** = NON-renewable
+		- **Nuclear fission** = NON-renewable
 	- **Alternative Energy** = Sources energy other than fossil fuels
 		- Geothermal
 		- Solar
@@ -23,8 +23,8 @@
 		- Wind
 		- Biomass
 		- Nuclear
-			- Fission
-			- Fusion
+			- Fission (NONRENEWABLE)
+			- Fusion (RENEWABLE)
 	- Sun powers most of the energy sources
 - **Why should we care?**
 	- Nonhuman consequences of using fossil fuels include mass extinction, loss of habitat, flooding, etc
@@ -155,6 +155,7 @@
 	- Driven by the energy of the sun but involves interaction with the atmosphere, oceans, biomass, rocks, and ice
 - **Sun** = heat source
 	- Earth will warm/cool until the heat given off to space matches the amount of sunlight absorbed by the planet ("energy balance")
+	- *i.e. Given enough time, Earth will adjust its temperature to exactly match the amount of sunlight hitting the earth*
 	- **Law of Conservation of Energy**
 - Amount of input energy depends on...
 	1. How far Earth's axis tilts
@@ -166,9 +167,9 @@
 		- $O_2$ content has been **constant**
 		- The ozone layer has been **depleted** in the  **stratosphere** but the amount of ozone in the **troposphere** has **increased (smog)**
 			- Cancels out, nothing has really changed
-	2. **Albedo**
+	2. **Albedo** (factors that affect how much heat the Earth absorb)
 		- Darker color = more energy absorbed
-		- Earth's albedo is **30%**
+		- Earth's albedo is **30%** (amount of heat radiated from Earth)
 			- **30%** of incoming light is **reflected** back into space
 			- **70%** of incoming light is **absorbed**
 1. **Greenhouse Gases**
@@ -182,8 +183,8 @@
 	- 3 Steps:
 		- Atmosphere allows 50% of Sun's energy to reach surface
 		- 30% is reflected back into space
-		- 20% is absorbed by G.G.
-	- Satellite monitoring has shown that thermal radiation **leaving** the Earth has **decreased** while the amount of G.G in the atmosphere has **increased**
+		- 20% is absorbed by GHGs
+	- Satellite monitoring has shown that thermal radiation **leaving** the Earth has **decreased** while the amount of GHGs in the atmosphere has **increased**
 2. **Atmospheric Circulation and Global Climate**
 	- Factors that drive circulation of the atmosphere
 		- Earth is heated unevenly
@@ -192,7 +193,7 @@
 		- Coriolis effect
 			- How fluids (air/water) move on rotating sphere
 3. **Role of oceans in global climate**
-	- Oceans can store alot of heat energy
+	- Oceans can store a lot of heat energy
 	- 1000x the amount of heat-per-gram as the atmosphere
 	- Water = universal solvent
 		- Dissolve $CO_2$
@@ -201,11 +202,12 @@
 
 
 # 10.3b - The Role of the Ocean in Our Global Climate
-1. Oceans as a heat sink
+1. **Oceans as a heat sink**
+- Oceans have been warming 10x than atmosphere
 	- All oceans basins have been warming since 20th century
 	- Oceans have been warming 10x more than atmosphere
 	- Where is the heat gained and how is it distributed?
-2. The Ocean Conveyor Belt
+3. **The Ocean Conveyor Belt**
 	- 1800, Count Rumford
 		- Examined ocean temperature data, confused at the lower temperatures found deep in tropical water
 		- He theorized that there was a system of currents running through the oceans
@@ -223,16 +225,16 @@
 		- If the ocean conveyor belt no longer reaches the deep ocean basins, then the **reservoir** **available** for **heat storage** would be **reduced**
 
 # 10.4 - Pre-20th Century Drivers of Climate Change
-- **Drivers** = Factors that affect climate but aren't themselves affected buy climate
+- **Drivers** = Factors that affect climate but aren't themselves affected by climate
 - **LONG-TERM (10,000,000 years+)**
-	- Stellar evolution
+	- Stellar evolution/growth
 		- Sun's luminosity
 	- Plate tectonics
 		- Ocean currents have to change b/c landmasses move
 	- Evolution of life
 		- Contributions of the biosphere to long-term climate change, impact of **p-syn** organisms
 - **MIDDLE-TERM (1000 years)**
-	- Eccentricity of Earth's orbit
+	- Eccentricity of Earth's orbit 
 		- Currently Earth is closest to the Sun in January
 		- 6,000 years ago, the closest approach was in September, so summers in the Northern Hemisphere were warmer than today
 	- Obliquity
@@ -248,7 +250,7 @@
 			- Has effect of cooling the planet by reflecting radiation back into space
 			- Has the greatest cooling effect in the stratosphere
 	- Large asteroid impacts
-- Human influences
+- **Human influences**
 	- Climate change
 	- Increase in average global temperature
 	- Decrease of snow content in North Hemisphere
@@ -261,7 +263,7 @@
 	- **Negative** = **Cooling**
 		- Volcanic eruption
 	- **Anthropogenic** = Any process, activity, or effect that is caused or influenced by human beings
-- $CO_2, CH_4, N_2O$ (greenhouse gases) are produced by
+- $CO_2, CH_4, N_2O$ (greenhouse gases) are produced by **positive forcings**
 	- Emissions from burning fossil fuels
 	- Deforestation
 	- Fossil fuel extraction and transport (coal mining, natural gas flaring, pipeline leakage) 
@@ -269,7 +271,7 @@
 	- Livestock rearing 
 	- Landfills and manure ponds
 	- Production of fertilizers
-- Real damage of increase greenhouse gases are offset by negative forcings from:
+- Real damage of increase greenhouse gases are offset by **negative** **forcings** from:
 	- Incomplete combustion
 	- Fires
 	- Power plants
