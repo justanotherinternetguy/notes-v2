@@ -78,19 +78,18 @@
 	- **Electrolysis**
 		- DC current to drive an otherwise non-spontaneous chemical rxn
 		- $H_2O \rightarrow H, O$
-		- Takes alot of power, but this power *could* be supplied with other renewable energy methods
+		- Takes a lot of power, but this power *could* be supplied with other renewable energy methods
 	- **Stripping Methane**
 		- Removal of $H_4$ from $CH_4$ with **steam** and a **metal**
 		- Requires a **fossil fuel**
 		- Releases $CO_2$
-
 - **Hydroelectric energy**
 	- Uses running water to turn electricity-generating turbine
 	- Common in dams and reservoirs
 	- **PROS**
 		- "Unlimited" source of energy
 	- **CONS**
-		- Depenent on location
+		- Dependent on location
 		- Dams prevent migration of fish and prevent natural flows of river, sediment buildup
 - **Tidal energy**
 	- Kinetic energy or rising/falling tides
@@ -104,14 +103,14 @@
 		- Low environmental impact
 	- **CONS**
 		- Might hit birds
-		- Takes up a lot of space and is lound
+		- Takes up a lot of space and is loud
 		- Limited range and inconsistent output
 - **Biomass energy**
 	- Energy generated from burning organic matter
 	- E.g burning wood, corn, sugarcane, soy
 	- **PROS**
 		- Already in use
-		- Rewnewable and abundant
+		- Renewable and abundant
 		- Redirect waste from landfills
 	- **CONS**
 		- Can still produce pollution and toxic ash
@@ -148,7 +147,6 @@
 		- Difficult to create and sustain such temperatures
 		- Very hard to create net increase in energy
 		- Nuclear proliferation
-
 
 
 # 10.3a - Energy Balance and the Greenhouse Effect
@@ -223,6 +221,7 @@
 		- Climate change --> Ice melts --> More freshwater to ocean --> Salinity decreases --> Density of surface water decreases
 		- If surface water decreases, it may not sink as far down
 		- If the ocean conveyor belt no longer reaches the deep ocean basins, then the **reservoir** **available** for **heat storage** would be **reduced**
+
 # 10.4 - Pre-20th Century Drivers of Climate Change
 - **Drivers** = Factors that affect climate but aren't themselves affected buy climate
 - **LONG-TERM (10,000,000 years+)**
@@ -318,4 +317,48 @@
 			1. Positive forcing (warming)
 - **Climate Models & Attribution**
 	- First climate model in the **1920s**
-	- 
+		- Calculate temperature, cloud distribution, soil moisture, snow, currents, etc...
+	- **Causation/Attribution** is established when you can say with **confidence** that a specific cause is responsible for a specific effect
+		- **Correlation does not prove causation**
+	- Climatology is an **observational science** = difficult to prove attribution
+	- Scientists will test their climate models real-time and make minor adjustments
+	- ![](Pasted%20image%2020230508010029.png)
+# 10.6 - Lessons from the Past (Climate Change)
+- **Paleodata** = Data obtained or inferred from an ancient time
+	- Records of past climates in glaciers, rivers, winds
+	- Chemical analysis of ocean sediments
+	- Stalagmites
+	- Ice cores
+	- Tree growth rings
+1. **Climate does change**
+	- Planet is sensitive to drivers of climate
+2. Climate change is **understandable**
+- **Lessons from the Past**
+	- **Sensitivity** of climate = how much the temperature will change due to radiative forcing
+- **Consequences of Climate Change**
+	- Loss of biodiversity
+	- Destruction of ecosystems
+	- Spread of human infection and disease
+	- Changes in ocean chemistry
+		- Disrupt marine food chain
+		- Destroy tropical coral reefs
+	- Extreme and unusual weather events
+	- Drought
+	- Changing weather patterns
+	- Decreased water supply
+	- Loss of glaciers
+	- Rising sea level
+	- etc...
+
+	- In 20th century, sea level **rose 20 cm**
+	- Over the last **few decades**, it has risen at **2.6 mm/year**
+		- **26 cm/century**
+	- Rising sea levels, melting ice
+	- ![](Pasted%20image%2020230508010652.png)
+	- For 21st century, sea level could **rise as much as 2m**
+		- 10% of world's population lives in coastal regions
+	- 2006-2008 food crisis = increased demand for food + drought
+- **Risk, Uncertainty, and the Future**
+	- 2007 = Temperature will increase by $1^{\circ}C$ by **2100** if **not a single particle of anthropogenic** $CO_2$ is released into the atmosphere.
+		- We are **uncertain how GHGs will grow**
+	- This ignores the possibility of **tipping points/points of no return**
