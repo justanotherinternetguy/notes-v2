@@ -131,11 +131,24 @@
 		- $E = mc^2$
 	- Atomic bombs carry out the fission of a heavy element **uncontrolled**
 	- **PROS**
-		- Does not release $CO_2$
+		- Does not release $CO_2$ or pollution
 	- **CONS**
 		- Radioactive waste and contamination
 		- Fission reaction can spiral out of control if left unchecked
-		- 
+- **FUSION / THERMONUCLEAR rxn**
+	- Combining two nuclei to create a larger massive
+	- Almost impossible to achieve fusion in controlled lab environments ($>1,000,000^{\circ}C$)
+	- **Sun** is powered by fusion
+	- **PROS**
+		- Safter than fission (no chance of chain rxn or reactor meltdown)
+		- Less nuclear waste than fusion
+		- Reactants are easier to obtain
+			- Deuterium (H-2) and Tritium (H-3)
+	- **CONS**
+		- Difficult to create and sustain such temperatures
+		- Very hard to create net increase in energy
+		- Nuclear proliferation
+
 
 
 # 10.3a - Energy Balance and the Greenhouse Effect
@@ -198,5 +211,111 @@
 	- 1800, Count Rumford
 		- Examined ocean temperature data, confused at the lower temperatures found deep in tropical water
 		- He theorized that there was a system of currents running through the oceans
-	- Convection
+	- **Convection**
 		- **NOTE: Diffusion is NOT possible b/c too slow** 
+		- As water sinks, the water carries all the properties they had on the surface, **including heat**. 
+		- Surface currents are **faster**
+			- Surface Gulf Stream = 100km/day
+			- Deep interior currents = 0.1-1km/day
+		- Radioactive tracers = Atomic bomb blown up underwater, radioactive waste can be traced around the ocean
+			- We **do not know** if heat moves in the same way as radioactive tracers
+	- **Salinity**
+		- Climate change --> Ice melts --> More freshwater to ocean --> Salinity decreases --> Density of surface water decreases
+		- If surface water decreases, it may not sink as far down
+		- If the ocean conveyor belt no longer reaches the deep ocean basins, then the **reservoir** **available** for **heat storage** would be **reduced**
+# 10.4 - Pre-20th Century Drivers of Climate Change
+- **Drivers** = Factors that affect climate but aren't themselves affected buy climate
+- **LONG-TERM (10,000,000 years+)**
+	- Stellar evolution
+		- Sun's luminosity
+	- Plate tectonics
+		- Ocean currents have to change b/c landmasses move
+	- Evolution of life
+		- Contributions of the biosphere to long-term climate change, impact of **p-syn** organisms
+- **MIDDLE-TERM (1000 years)**
+	- Eccentricity of Earth's orbit
+		- Currently Earth is closest to the Sun in January
+		- 6,000 years ago, the closest approach was in September, so summers in the Northern Hemisphere were warmer than today
+	- Obliquity
+		- When tilt is less, the seasons are milder
+	- These effects combine to produce ice-age cycles
+- **SHORT-TERM (days-years)**
+	- Varying luminosity of Sun
+		- 11-year solar cycle where Sun gets brighter/dimmer over time
+	- Volcanic activity
+		- Volcanoes produces small amounts of $CO_2$
+		- Big eruptions give off large amounts of $SO_2$
+			- Aerosol
+			- Has effect of cooling the planet by reflecting radiation back into space
+			- Has the greatest cooling effect in the stratosphere
+	- Large asteroid impacts
+- Human influences
+	- Climate change
+	- Increase in average global temperature
+	- Decrease of snow content in North Hemisphere
+	- Rising sea levels
+	- Melting of glaciers
+- **Radiative Forcing**
+	- Difference between what flows into the earth and what flows out
+	- **Positive** = **Warming**
+		- Air pollution
+	- **Negative** = **Cooling**
+		- Volcanic eruption
+	- **Anthropogenic** = Any process, activity, or effect that is caused or influenced by human beings
+- $CO_2, CH_4, N_2O$ (greenhouse gases) are produced by
+	- Emissions from burning fossil fuels
+	- Deforestation
+	- Fossil fuel extraction and transport (coal mining, natural gas flaring, pipeline leakage) 
+	- Rice cultivation
+	- Livestock rearing 
+	- Landfills and manure ponds
+	- Production of fertilizers
+- Real damage of increase greenhouse gases are offset by negative forcings from:
+	- Incomplete combustion
+	- Fires
+	- Power plants
+	- Desert Dust
+	- Sea Salt
+	- Sulfates
+	- Nitrates
+	- Carbon containing particles
+		- *Note: Black/sooty carbon exert a positive forcing effect b/c it absorbs heat*
+
+# 10.5 - Climate Feedback and Processes
+- **Feedback** = Response to a change that influences the change itself
+- **Water vapor** = Warmer air --> holds more water vapor (7% more water per degree Celsius) --> b/c water vapor **is a greenhouse gas** --> air warms up more...
+	- Increased evaporation (from increase heat) also causes more **condensation** and more **frequent/severe precipitation**
+	- Can occur over a matter of days to thousands of years
+	- Warm climate --> snow/ice melts --> reducing albedo --> more warming
+	- By **2050**, there will be no more sea ice left in the Arctic in the late summer
+- **Venus** is a good example
+	- Solar radiation caused rocks to grow hotter and release more $CO_2$ into Venusian atmosphere, causing the atmosphere to grow ever hotter and cause more $CO_2$ to be released
+- **Carbon cycle feedback** = $CO_2$ response to forcing
+	- P-sync increases in warmer climate, leads to **higher consumption** of $CO_2$
+	- Higher temperatures --> droughts --> less plants --> **less consumption** of $CO_2$
+- **Keeling Curve** = Concentration of $CO_2$ in Earth's atmosphere since 1958
+	- ![](Pasted%20image%2020230507144855.png)
+	- Steady increase in $CO_2$
+	- Reflects **seasonal variations**
+		- Plants absorb the most $CO_2$ at the **end of summer** and least at the **start of winter**
+- **Methane ($CH_4$)**
+	- Largest source of emissions is wetlands
+		- Emissions increase with temperature
+	- $CH_4$ due to human activity accounts for 20% of global warming effect since the Industrial Revolution
+	- Water, wetter climate --> More $CH_4$
+	- $CH_4$ changes are driven by an increased emission from agricultural, waste management, and fossil fuels
+	- Permafrost and undersea deposits contain an enormous amount of $CH_4$ and are released as climate warms
+- **The Carbon Cycle and How it Influences Climate**
+	- 99.9% of carbon is trapped in **rocks**
+	- **Fossil fuel consumption and cement production** has transferred so much carbon that belongs below the Earth to the Earth's surface itself
+	- ![](Pasted%20image%2020230507145711.png)
+	- Transfer from fossil fuels (below surface) to the surface is **irreversible**
+	- Oceans will absorb $CO_2$. What are the problems?
+		1. Ocean can only absorb 50% of what is currently being emitted
+		2. $CO_2 + H_2O + H_2CO_3$ (carbonic acid)
+			- Makes oceans acidic and harmful to marine ecosystems and coral
+		3. Ocean warms and absorb less $CO_2$
+			1. Positive forcing (warming)
+- **Climate Models & Attribution**
+	- First climate model in the **1920s**
+	- 

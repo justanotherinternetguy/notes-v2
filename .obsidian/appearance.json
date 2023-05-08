@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "Iosevka Nerd Font",
-  "textFontFamily": "Iosevka Nerd Font",
-  "monospaceFontFamily": "Iosevka Nerd Font",
-  "cssTheme": "Apatheia",
+  "interfaceFontFamily": "Hurmit Nerd Font",
+  "textFontFamily": "Hurmit Nerd Font",
+  "monospaceFontFamily": "Hurmit Nerd Font",
+  "cssTheme": "Faded",
   "baseFontSize": 18
 }
