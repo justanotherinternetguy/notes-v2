@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99e1a8bf4bf81bc3",
+            "id": "95ba1258aa81f983",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/IGS/Unit 11 - planets and shit bruh idk.md",
+                "file": "School/IGS/Unit 10 - Climate Change and Human Activity.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IGS/Unit 11 - planets and shit bruh idk.md",
+                "file": "School/IGS/Unit 10 - Climate Change and Human Activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IGS/Unit 11 - planets and shit bruh idk.md",
+                "file": "School/IGS/Unit 10 - Climate Change and Human Activity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/IGS/Unit 11 - planets and shit bruh idk.md"
+                "file": "School/IGS/Unit 10 - Climate Change and Human Activity.md"
               }
             }
           }
@@ -154,11 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99e1a8bf4bf81bc3",
+  "active": "95ba1258aa81f983",
   "lastOpenFiles": [
-    "School/IGS/Unit 10 - Climate Change and Human Activity.md",
     "School/IGS/Unit 11 - planets and shit bruh idk.md",
     "Untitled 1.md",
+    "School/IGS/Unit 10 - Climate Change and Human Activity.md",
     "School/IGS/Pasted image 20230508010652.png",
     "School/IGS/Pasted image 20230508010029.png",
     "School/IGS/Pasted image 20230507145711.png",
