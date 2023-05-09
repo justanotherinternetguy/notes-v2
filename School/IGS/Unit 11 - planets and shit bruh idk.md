@@ -1,0 +1,17 @@
+# 11a - Terrestrial Planets
+- Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
+- **Our Sun**
+	- Closest star
+	- **Photosphere** = visible surface of Sun
+		- $6,700^{\circ}C$
+		- 500km thick
+		- **Sunspots** = Cooler, darker areas where loops of the Sun's magnetic field break through the surface and disrupt the transfer of heat in the sun
+			- **Intense magnetic activity**
+- **Our Moon**
+	- Small, once molten, surface cooled too quickly for tectonic plates to form
+	- **Craters** = bombarded by asteroids
+	- No atmosphere
+		- No weather
+		- No protection from asteroids
+		- $123^{\circ}C$ to $-233^{\circ}C$
+	- Earth's only natural satellite
