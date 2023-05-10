@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9583448fb3926dc4",
@@ -141,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 205,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,6 +157,10 @@
   },
   "active": "95ba1258aa81f983",
   "lastOpenFiles": [
+    "School/IGS/Unit 11 - Cosmology.md",
+    "School/IGS/Pasted image 20230510102510.png",
+    "Untitled 1.md",
+    "Untitled.md",
     "Home/School/IGS/Unit 10 - Climate Change and Human Activity.md",
     "School/IGS/Unit 10 Fishbowl/Topic 6.md",
     "School/IGS/Unit 10 Fishbowl/Topic 5.md",
@@ -162,7 +168,6 @@
     "School/IGS/Unit 10 Fishbowl/Topic 3.md",
     "School/IGS/Unit 10 Fishbowl/Topic 2.md",
     "School/IGS/Unit 10 Fishbowl/Topic 1.md",
-    "School/IGS/Unit 11 - Cosmology.md",
     "School/IGS/Unit 10 Fishbowl",
     "School/IGS/Unit 10 - Climate Change and Human Activity.md",
     "School/IGS/Pasted image 20230508010652.png",
@@ -172,12 +177,10 @@
     "School/IGS",
     "School",
     "Home/School/IGS/Unit 11 - planets and shit bruh idk.md",
-    "Untitled 1.md",
     "Home/School/IGS/Pasted image 20230508010652.png",
     "Home/School/IGS/Pasted image 20230508010029.png",
     "Home/School/IGS/Pasted image 20230507145711.png",
     "Home/School/IGS/Pasted image 20230507144855.png",
-    "Untitled.md",
     "C.md",
     "Home/Chinese Cultural Presentation.md",
     "Home/MiscScience/Other Notes.md",
@@ -197,8 +200,6 @@
     "Home/Physics/Physics _.md",
     "Home/Chemistry",
     "Home/Physics",
-    "School/Spanish/Grammar.md",
-    "School/Spanish/Pasted image 20230501155204.png",
     "School/Spanish",
     "Home/School/IGS/Unit 10 Fishbowl"
   ]

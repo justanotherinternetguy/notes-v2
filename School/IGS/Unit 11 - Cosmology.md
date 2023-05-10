@@ -1,6 +1,6 @@
 # 11a - Terrestrial Planets
 - **Solar system** = A system of celestial bodies orbiting around a sun/star
-- Mercury, Venus, Earth, Mars, (Ceres), Asteroid Belt Jupiter, Saturn, Uranus, Neptune, (Pluto), (Makemke), Kupier Belt, (Eris)
+- Mercury, Venus, Earth, Mars, (Ceres), Asteroid Belt Jupiter, Saturn, Uranus, Neptune, (Pluto), (Makemake), Kupier Belt, (Eris)
 - **Accretion disk** = **Clockwise** revolution in solar system
 	- Always follows direction of initial accretion disk
 - **Our Sun**
@@ -26,6 +26,18 @@
 |Made of $Fe$ and silicates|Made of $H$, $He$ (lighter elements), **no solid surfaces**|
 |Form near **center of accretion disk**|Formed near **edge of accretion disk**|
 |Heavier elements are drawn to each other and the greater force of gravity at the **center** of accretion disk|Lighter elements are able to escape the gravitational pull of the accretion disk, elements have smaller masses and form farther away|
+
+|Characteristics|Terrestrial|Jovian|
+|---------------|-----------|------|
+|Location|Close to the Sun|Far from the Sun|
+|Orbit|Closely spaced orbits|Widely spaced orbits|
+|Mass|Small mass|Large mass|
+|Size|Small radius|Large radius|
+|Composition|Rocky|Gaseous|
+|Rotation|Fast|Slow|
+|Magnetic field|Small|Large|
+|Moons|Few moons|Many moons|
+
 - Terrestrial planets were much hotter when they were formed, cooled w/ time
 - Any Jovian planet's core **is denser** than any terrestrial planet
 - **Terrestrial Planets** (Mercury, Venus, Earth, Mars)
@@ -111,3 +123,117 @@
 		- Axial tilt = $23.6^{\circ}$
 		- Composition: Identical to Earth
 		- Atmosphere: 95% $CO_2$
+- Terrestrial planets made of **denser** objects, which can condense and compress at high temperatures (form closer to sun)
+- Terrestrial planets made of **heavier** elements, which have a stronger **gravitational attraction** to the Sun
+
+# 11b - Jovian Planets and Dwarf Planets
+- Jupiter, Saturn, Uranus, Neptune
+- **Characteristics**
+	- Farther from Sun (past asteroid belt)
+	- Widely spaced orbits
+	- Large masses, large radii
+	- Relatively low densities
+	- Made of gases, no solid surface
+	- Rotate fast
+	- Intense magnetic fields
+	- Many moons
+	- **All have rings**
+- **Jupiter** (gas giant)
+	- **Largest planet** in solar system
+	- **70%** of the mass of **all planets** in solar system
+		- **25%** = $He$
+		- Could have been a star if it had a little more mass
+			- Believed to originally began forming as a star, but didn't have enough mass to complete
+	- Core is "thick, super hot soup" of molten rocky materials and **liquid metallic** $H$
+		- Surface temperatures over $27,000^{\circ}C$
+	- Clouds of $H$ and $He$
+	- Upper atmosphere is $\approx -120^{\circ}C$
+	- **Visible stripes = violent winds and storms**
+		- Indicates the refractive and reflective properties of gases extend to the liquid metallic $H$ layers of the planet
+		- **Light colors** = **high pressure** area of **rising clouds**
+		- **Dark colors** = **low pressure** area of **sinking gases**
+	- **Great Red Spot** = **Storm** that has been observed for **330 years**
+		- Southern zone
+		- **Cooler and higher** than surroundings
+		- Formed by heat deep beneath the clouds and being carried upward by rising gas
+	- Some of its rings can **float on water**
+	- Distance = 5.2 AU
+	- Density = $1.34 g/cm^3$
+	- Diameter: 11.2 Earth
+	- Atmosphere: $H_2$, $He$, $NH_3$
+	- Rotation = 10 hours
+	- Revolution = 12 years
+	- Axial tilt = $3^{\circ}$
+	- Moons: 79
+	- Composition: No surface, gaseous atmosphere
+	- **Jupiter's Moons**
+		- 79 moons, 53 are named
+		- **Galilean Moons**
+			- 4 moons large enough for Galileo to see in 1609
+			- **Io**
+				- Volcanic activity b/c of Jupiter's gravity (external source)
+				- Closest moon
+				- No water or ice
+				- Proximity to Jupiter causes **tidal heating**
+					- Repeated deformation of a body due to tides from another body
+					- Leads to heating of the former's interior
+			- **Europa**
+				- Frozen water (might have been a liquid ocean)
+				- 100km thick $CH_4$ ice, smooth surface
+				- Young moon and **volcanically active**
+				- Subsurface **oceans** 200km deep
+			- **Ganymede** (largest)
+				- 500km thick ice sheets of $CH_4$
+				- Larger than Mercury
+				- Magnetic field 10% of Earth's
+				- **Has magnetic field**
+			- **Calisto**
+				- Tidally locked w/ Jupiter
+					- Same face pointed at Jupiter
+				- Half size of Earth's moon
+				- **No** magnetic field
+- **Saturn** (gas giant)
+	- Rings made of **ice and rock**
+		- Gaps in rings are from previous satellites
+		- 2 moons in the rings keep the fragments in alignment
+		- Rings represent a failed planet, crushed into fragments past Roche Limit
+	- **82** moons
+	- **Least dense** (can float on water)
+	- **Titan** (largest moon around Saturn))
+		- Atmosphere of $N_2$ and $CH_4$
+		- Organic molecules **may be able to develop here**
+	- Rotation: 11 hours
+	- Revolution: 30 year
+	- Atmosphere: $H$ and $He$
+	- Axial tilt: $26^{\circ}$
+- **Uranus** (ice giant)
+	- **Heavy rocky** core
+		- Surrounded by **liquid** $CH_4$
+	- Atmosphere: $H$, $He$, $CH_4$
+	- 27 moons, Miranda shows evidence of faulting
+	- Orbits the Sun on **its side** (**axis points towards** the Sun)
+	- Rotation: 17 hours
+	- Revolution: 84 years
+- **Neptune** (ice giant)
+	- Distinct weather patterns, **14** moons
+	- **Great Dark Spot**
+		- Huge spinning storm in southern atmosphere, approx. the size of Earth
+		- Wind 1,500+ mph
+		- When the Hubble Space Telescope looked at Neptune in 1994, the Great Dark Spot was gone, a different spot had appeared in the northern atmosphere
+	- Atmosphere: $H$, $He$, $CH_4$
+- **Dwarf Planets**
+	- Too small to be considered planets, too large to fall into other categories
+	- IAU defines a planet as
+		1. Being in orbit around the Sun (cannot be a moon)
+		2. Has enough gravity to pull its mass into a rounded shape (**hydrostatic equilibrium**)
+		3. Cleared its orbit or other, smaller objects
+	- {3} is the point at which planets and dwarf planets differ
+	- Many are located in the **Kupier Belt**
+		- Ring of icy objects past Neptune's object
+	- Ceres
+	- Pluto
+	- Eris
+	- Haumea
+	- Makemake
+
+![](Pasted%20image%2020230510102510.png)
