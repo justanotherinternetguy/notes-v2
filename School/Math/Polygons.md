@@ -14,7 +14,11 @@ Sum of exterior angles: $360$
 	- The three midsegments of a triangle divide into **four congruent triangles**
 - Triangle Midsegment Thm
 	- The midsegment of a triangle of **parallel** to the third side and **half** the length of **the third side**
-
+	- $\text{midsegment} = \frac{1}{2}\text{third side}$
+- Trapezoid Midsegment Thm
+	- The midsegment of a trapezoid is **parallel** to the **bases** and is equal in length to **the average of the lengths of the bases**
+	- $\text{midsegment} = \frac{\text{Base1} + \text{Base2}}{2}$
+![](Pasted%20image%2020230510152506.png)
 # 5.5 + 5.6 Properties and Conjectures of Parallelograms + converse + special
 ### Properties
 ![](Pasted%20image%2020230510125836.png)
