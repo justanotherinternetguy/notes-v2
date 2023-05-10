@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/IGS/Unit 11 - Cosmology.md",
+                "file": "School/Math/Polygons.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IGS/Unit 11 - Cosmology.md",
+                "file": "School/Math/Polygons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IGS/Unit 11 - Cosmology.md",
+                "file": "School/Math/Polygons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/IGS/Unit 11 - Cosmology.md"
+                "file": "School/Math/Polygons.md"
               }
             }
           }
@@ -157,6 +157,14 @@
   },
   "active": "95ba1258aa81f983",
   "lastOpenFiles": [
+    "School/Math/Pasted image 20230510125915.png",
+    "School/Math/Pasted image 20230510125904.png",
+    "School/Math/Pasted image 20230510125856.png",
+    "School/Math/Pasted image 20230510125844.png",
+    "School/Math/Pasted image 20230510125836.png",
+    "School/Math",
+    "School/IGS/Untitled.md",
+    "School/Math/Polygons.md",
     "School/IGS/Unit 11 - Cosmology.md",
     "School/IGS/Pasted image 20230510102510.png",
     "Untitled 1.md",
@@ -178,9 +186,6 @@
     "School",
     "Home/School/IGS/Unit 11 - planets and shit bruh idk.md",
     "Home/School/IGS/Pasted image 20230508010652.png",
-    "Home/School/IGS/Pasted image 20230508010029.png",
-    "Home/School/IGS/Pasted image 20230507145711.png",
-    "Home/School/IGS/Pasted image 20230507144855.png",
     "C.md",
     "Home/Chinese Cultural Presentation.md",
     "Home/MiscScience/Other Notes.md",
@@ -195,12 +200,8 @@
     "Home/School/IGS/Unit 10 Fishbowl/Topic 4.md",
     "Home/School/IGS/Unit 10 Fishbowl/Topic 3.md",
     "Home/School/IGS/Unit 10 Fishbowl/Topic 5.md",
-    "Home/Calculus/Pasted image 20230428202915.png",
-    "Temp/Chinese.md",
-    "Home/Physics/Physics _.md",
     "Home/Chemistry",
     "Home/Physics",
-    "School/Spanish",
-    "Home/School/IGS/Unit 10 Fishbowl"
+    "School/Spanish"
   ]
 }
