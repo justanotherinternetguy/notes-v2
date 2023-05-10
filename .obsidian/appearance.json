@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "",
-  "textFontFamily": "",
-  "monospaceFontFamily": "",
-  "cssTheme": "Cyber Glow",
+  "interfaceFontFamily": "FantasqueSansM Nerd Font",
+  "textFontFamily": "FantasqueSansM Nerd Font",
+  "monospaceFontFamily": "FantasqueSansM Nerd Font",
+  "cssTheme": "Mado 11",
   "baseFontSize": 20
 }

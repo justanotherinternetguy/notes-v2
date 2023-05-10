@@ -1,0 +1,113 @@
+# 11a - Terrestrial Planets
+- **Solar system** = A system of celestial bodies orbiting around a sun/star
+- Mercury, Venus, Earth, Mars, (Ceres), Asteroid Belt Jupiter, Saturn, Uranus, Neptune, (Pluto), (Makemke), Kupier Belt, (Eris)
+- **Accretion disk** = **Clockwise** revolution in solar system
+	- Always follows direction of initial accretion disk
+- **Our Sun**
+	- Closest star
+	- Our sun holds 99.8% of the solar system's total mass
+	- 109x diameter of Earth
+	- **Photosphere** = visible surface of Sun
+		- $6,700^{\circ}C$
+		- 500km thick
+		- **Sunspots** = Cooler, darker areas where loops of the Sun's magnetic field break through the surface and disrupt the transfer of heat in the sun
+			- **Intense magnetic activity**
+- **Our Moon**
+	- Small, once molten, surface cooled too quickly for tectonic plates to form
+	- **Craters** = bombarded by asteroids
+	- No atmosphere
+		- No weather
+		- No protection from asteroids
+		- $123^{\circ}C$ to $-233^{\circ}C$
+	- Earth's only natural satellite
+- **Terrestrial (Inner) vs. Jovian (Outer) Planets**
+|Inner|Outer|
+|-----|-----|
+|Made of $Fe$ and silicates|Made of $H$, $He$ (lighter elements), **no solid surfaces**|
+|Form near **center of accretion disk**|Formed near **edge of accretion disk**|
+|Heavier elements are drawn to each other and the greater force of gravity at the **center** of accretion disk|Lighter elements are able to escape the gravitational pull of the accretion disk, elements have smaller masses and form farther away|
+- Terrestrial planets were much hotter when they were formed, cooled w/ time
+- Any Jovian planet's core **is denser** than any terrestrial planet
+- **Terrestrial Planets** (Mercury, Venus, Earth, Mars)
+	- Rocky/solid surface
+	- Closer to sun
+	- Iron silicates 
+	- Cores are $Fe$ and $Ni$
+	- More dense than water (highest density planets)
+	- Relatively close orbits to each other
+	- Smaller masses and radii
+	- Higher density
+	- Slower rotation
+	- Relatively small magnetic field
+	- Relatively few moons
+
+	- **Mercury**
+		- Similar to density as Earth, Mercury is smaller
+		- **Similar appearance to Earth's moon** but **no evidence of lava flow**
+		- Closest planet to sun
+		- No atmosphere
+			- Constantly bombarded by asteroids
+		- 0.5% strength of Earth's magnetic field (weak)
+		- No axis tilt
+		- No moons
+		- Side facing sun reaches $700{^\circ}F$
+		- Side facing away reaches $-300^{\circ}F$
+		- Density = $5.44 \; g/cm^3$
+		- Atmosphere: None (Traces of $H$, $He$, $Na$, $K$)
+		- Rotates once on its axis every 60 days
+		- Revolves around sun every 88 days
+		- Axial tile = $0^{\circ}$
+		- Moons: None
+		- Rocks: Silicate and $Fe$
+		- Distance: 0.387 AU
+		- Diameter: 0.38 Earth
+	- **Venus**
+		- **Inhospitable** planets
+		- Extreme winds, thick clouds, runaway **greenhouse effect**
+		- Surface temps average $470^{\circ}F$
+		- Significant volcanic outgassing
+		- No magnetic field
+		- **Similar density and size** as Earth
+		- Extremely **dense atmosphere** containing 95% $CO_2$ (GHG)
+			- Appearing to be rotating opposite of other planets
+			- Rotation speed is **slowing down**
+				- May become eventually **tidally locked** (same face is always towards the sun, **rotation = revolution**)
+				- Our **Moon is tidally locked**
+		- **Tidal lock**
+			- Mercury (to Sun)
+			- Venus (**eventually**)
+			- Moon (to Earth)
+			- Callisto (to Jupiter)
+		- Density: $5.3 \; g/cm^3$
+		- Diameter: 0.95 Earth
+		- Distance: 0.723 AU
+		- Atmosphere: 96.5% $CO_2$, 3.5% $N_2$
+		- Rotation: 243 days
+		- Revolution: 225 days
+		- Axial tilt: $177^{\circ}$ (appearance of rotating clockwise)
+		- Composition: Unknown, crust believed to be similar to Earth
+	- **Earth**
+		- **Radiation Environment**
+			- Bands of rapidly moving charged particles trapped by Earth's magnetic field in **toroidal regions** surrounding the equator
+			- **Van Allan radiation belts**
+				- Zones of energetic charged particles, most of which originate from the **solar wind**, that are captured by and held around a planet by that planet's **magnetosphere**
+				- **Endanger satellites**, which must have their sensitive components protected with adequate shielding if they enter the belts
+	- **Mars**
+		- **Identical geological composition** as Earth
+		- **Thin** atmosphere ($CO_2$)
+		- **Surface** shows evidence of **erosion**
+			- **Water** being present at some point!
+		- **Ice caps** (frozen $CO_2$)
+		- Dust storms (wind)
+		- $-220^{\circ}F \to 68^{\circ}F$
+		- **2** moons
+			- Moon's revolutions are slowing, they will eventually crash into Mars
+		- Last inner planet before asteroid belt
+		- Distance: 1.52 AU
+		- Density: $3.94 \; g/cm^3$
+		- Diameter: 0.53 Earth
+		- Rotation: 25 hours
+		- Revolution: 690 hours
+		- Axial tilt = $23.6^{\circ}$
+		- Composition: Identical to Earth
+		- Atmosphere: 95% $CO_2$
