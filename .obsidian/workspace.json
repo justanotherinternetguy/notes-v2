@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/IGS/Unit 11 - Cosmology.md",
+                "file": "Home/Math/AMC1012 Prep/2017 AMC 10A.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9583448fb3926dc4",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IGS/Unit 11 - Cosmology.md",
+                "file": "Home/Math/AMC1012 Prep/2017 AMC 10A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IGS/Unit 11 - Cosmology.md",
+                "file": "Home/Math/AMC1012 Prep/2017 AMC 10A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/IGS/Unit 11 - Cosmology.md"
+                "file": "Home/Math/AMC1012 Prep/2017 AMC 10A.md"
               }
             }
           }
@@ -155,10 +154,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e732b784fb5083d3",
+  "active": "95ba1258aa81f983",
   "lastOpenFiles": [
-    "School/IGS/Unit 11 - Cosmology.md",
+    "Home/Math/AMC1012 Prep/Intro to Alg - AoPS.md",
+    "Home/Math/AMC1012 Prep/2017 AMC 10A.md",
+    "Home/Math/AMC 10-12 Prep.md",
+    "Home/Math/AMC1012 Prep",
+    "Home/Biology/Campbell/Hardy-Weinberg Problems.md",
+    "Home/Biology/Campbell/Ch26 - Phylogeny and the Tree of Life.md",
+    "Home/Calculus/Calculus Master Notes.md",
+    "Home/Chinese Cultural Presentation.md",
     "School/Math/Polygons.md",
+    "Home/Math",
+    "School/IGS/Unit 11 - Cosmology.md",
     "School/Math/Pasted image 20230510152506.png",
     "School/Math/Pasted image 20230510125915.png",
     "School/Math/Pasted image 20230510125904.png",
@@ -186,7 +194,6 @@
     "School",
     "Home/School/IGS/Unit 11 - planets and shit bruh idk.md",
     "C.md",
-    "Home/Chinese Cultural Presentation.md",
     "Home/MiscScience/Other Notes.md",
     "Home/Physics/Physics Master Notes.md",
     "Home/Chemistry/Chemistry Master Notes.md",
@@ -194,13 +201,6 @@
     "Home/MiscScience",
     "Home/Chemistry",
     "Home/Physics",
-    "Home/Calculus/Calculus Master Notes.md",
-    "Home/School/IGS/Unit 10 Fishbowl/Topic 6.md",
-    "Home/School/IGS/Unit 10 Fishbowl/Topic 4.md",
-    "Home/School/IGS/Unit 10 Fishbowl/Topic 3.md",
-    "Home/School/IGS/Unit 10 Fishbowl/Topic 5.md",
-    "Home/Chemistry",
-    "Home/Physics",
-    "School/Spanish"
+    "Home/Chemistry"
   ]
 }
