@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95ba1258aa81f983",
+            "id": "b8558c4df6594252",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Math/AMC1012 Prep/2017 AMC 10A.md",
+                "file": "School/Math/Areas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75c1488281788000",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/IGS/Unit 11 - Cosmology.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 211,
+    "collapsed": true
   },
   "right": {
     "id": "9583448fb3926dc4",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Math/AMC1012 Prep/2017 AMC 10A.md",
+                "file": "School/IGS/Unit 11 - Cosmology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/Math/AMC1012 Prep/2017 AMC 10A.md",
+                "file": "School/IGS/Unit 11 - Cosmology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/Math/AMC1012 Prep/2017 AMC 10A.md"
+                "file": "School/IGS/Unit 11 - Cosmology.md"
               }
             }
           }
@@ -154,19 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95ba1258aa81f983",
+  "active": "75c1488281788000",
   "lastOpenFiles": [
-    "Home/Math/AMC1012 Prep/Intro to Alg - AoPS.md",
+    "School/Math/Areas.md",
+    "School/Math/Polygons.md",
+    "School/IGS/Unit 11 - Cosmology.md",
     "Home/Math/AMC1012 Prep/2017 AMC 10A.md",
+    "Home/Math/AMC1012 Prep/Intro to Alg - AoPS.md",
     "Home/Math/AMC 10-12 Prep.md",
     "Home/Math/AMC1012 Prep",
     "Home/Biology/Campbell/Hardy-Weinberg Problems.md",
     "Home/Biology/Campbell/Ch26 - Phylogeny and the Tree of Life.md",
     "Home/Calculus/Calculus Master Notes.md",
     "Home/Chinese Cultural Presentation.md",
-    "School/Math/Polygons.md",
     "Home/Math",
-    "School/IGS/Unit 11 - Cosmology.md",
     "School/Math/Pasted image 20230510152506.png",
     "School/Math/Pasted image 20230510125915.png",
     "School/Math/Pasted image 20230510125904.png",
@@ -177,7 +192,6 @@
     "School/IGS/Untitled.md",
     "School/IGS/Pasted image 20230510102510.png",
     "Untitled 1.md",
-    "Untitled.md",
     "Home/School/IGS/Unit 10 - Climate Change and Human Activity.md",
     "School/IGS/Unit 10 Fishbowl/Topic 6.md",
     "School/IGS/Unit 10 Fishbowl/Topic 5.md",

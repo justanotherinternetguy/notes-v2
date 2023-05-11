@@ -239,6 +239,9 @@
 		- Huge spinning storm in southern atmosphere, approx. the size of Earth
 		- Wind 1,500+ mph
 		- When the Hubble Space Telescope looked at Neptune in 1994, the Great Dark Spot was gone, a different spot had appeared in the northern atmosphere
+	- **Triton**
+		- Natural satellite, nearly **circular** orbit
+		- Basic $N_2$ atmosphere and frozen $N_2$ ice cap
 	- Distance = 30.1 AU
 	- Density = $1.66 g/cm^3$
 	- Diameter = 3.88 Earth
@@ -248,6 +251,7 @@
 	- $-216^{\circ}$ in atmosphere
 	- Axial tilt = $28^{\circ}$
 	- Moons = 8
+		- 7/8 Moons were wandering ice asteroids
 - **Dwarf Planets**
 	- Too small to be considered planets, too large to fall into other categories
 	- IAU defines a planet as
@@ -268,6 +272,7 @@
 	- Small, icy, rocky
 	- Long, narrow, elliptical orbit that passes inside Neptune's orbit
 	- Recognized to be a part of the Kuiper Belt in 1992
+	- Diameter 68% of Earth's moon
 	- Distance = 39.4 AU
 	- Density = $2.0 g/cm^3$
 	- Diameter = 0.19 Eaerth
@@ -275,6 +280,30 @@
 	- Rotation = 9.3 days
 	- Revolution = 248 years
 	- Axial tilt = $122^{\circ}$
+	- Moons = 1 (Charon)
 	- Composition: Frozen $N_2$, $CH_4$, and rock
 
 ![](Pasted%20image%2020230510102510.png)
+
+# Planetary extremes
+
+# 11c - Stars, Gravity, Kepler
+- **Sun**
+	- Closest star
+	- Temperature: $\approx 5500^{\circ}C$
+	- Surface of sun is ~500 km thick
+	- $H$ + $He$ (most abundant elements in the universe)
+- **Planets**
+	- Do not emit their own light
+	- Formed from accretion disks
+	- Discovered by the **eclipses** formed as they transited the Sun
+- **Asteroid** = Small rocky objects that orbit the Sun
+- **Meteoroids** = Asteroids smaller than a few hundred kilometers in diameter
+- **Meteor** = A meteoroid that strikes the Earth's atmosphere
+- **Meteorite** = A meteor that strikes the Earth's atmosphere
+- **Comet** = Chunk of dust and ice that orbits the Sun and becomes vaporized when it moves too close
+
+- **Gravity** = Weakest of all forces but acts over the largest distances, holds all massive objects together
+- **Strong nuclear force** = Strongest forces but only acts over the size of the nucleus, holds nucleons together (protons and neutrons)
+- **Weak nuclear force** = Holds subatomic particles together, acts over the size of subatomic particles. Responsible for nuclear decay and fusion
+- **Electromagnetic** = Force that holds objects of opposite charge together (proton-electron attraction)

@@ -1,0 +1,17 @@
+# Formulas
+- Triangle = $\frac{1}{2}bh$
+- Parallelogram = $bh$
+- Rectangle = $bh$
+- Rhombus
+	- Diagonals = $\frac{1}{2} \times d_1 \times d_2$
+	- Base and height = $bh$
+- Square = $bh$
+- Kite = $\frac{1}{2} \times d_1 \times d_2$
+- Trapezoid = $\frac{a + b}{2}\times h$
+- Regular Polygon
+	- Apothem = height of each triangle in a triangulated polygon
+	- $\frac{1}{2} \times \text{apothem} \times \text{perimeter}$
+	- Using triangulation:
+		- $\text{Number of triangles}=k=n-2$
+		- $k \times \frac{1}{2} \times b \times h$
+- Circle
