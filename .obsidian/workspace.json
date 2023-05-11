@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Math/Polygons.md",
+                "file": "School/IGS/Unit 11 - Cosmology.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Math/Polygons.md",
+                "file": "School/IGS/Unit 11 - Cosmology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Math/Polygons.md",
+                "file": "School/IGS/Unit 11 - Cosmology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Math/Polygons.md"
+                "file": "School/IGS/Unit 11 - Cosmology.md"
               }
             }
           }
@@ -155,8 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95ba1258aa81f983",
+  "active": "e732b784fb5083d3",
   "lastOpenFiles": [
+    "School/IGS/Unit 11 - Cosmology.md",
+    "School/Math/Polygons.md",
     "School/Math/Pasted image 20230510152506.png",
     "School/Math/Pasted image 20230510125915.png",
     "School/Math/Pasted image 20230510125904.png",
@@ -165,8 +167,6 @@
     "School/Math/Pasted image 20230510125836.png",
     "School/Math",
     "School/IGS/Untitled.md",
-    "School/Math/Polygons.md",
-    "School/IGS/Unit 11 - Cosmology.md",
     "School/IGS/Pasted image 20230510102510.png",
     "Untitled 1.md",
     "Untitled.md",
@@ -182,7 +182,6 @@
     "School/IGS/Pasted image 20230508010652.png",
     "School/IGS/Pasted image 20230508010029.png",
     "School/IGS/Pasted image 20230507145711.png",
-    "School/IGS/Pasted image 20230507144855.png",
     "School/IGS",
     "School",
     "Home/School/IGS/Unit 11 - planets and shit bruh idk.md",

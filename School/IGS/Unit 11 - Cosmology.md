@@ -65,14 +65,14 @@
 		- Side facing sun reaches $700{^\circ}F$
 		- Side facing away reaches $-300^{\circ}F$
 		- Density = $5.44 \; g/cm^3$
-		- Atmosphere: None (Traces of $H$, $He$, $Na$, $K$)
+		- Atmosphere = None (Traces of $H$, $He$, $Na$, $K$)
 		- Rotates once on its axis every 60 days
 		- Revolves around sun every 88 days
 		- Axial tile = $0^{\circ}$
-		- Moons: None
-		- Rocks: Silicate and $Fe$
-		- Distance: 0.387 AU
-		- Diameter: 0.38 Earth
+		- Moons = None
+		- Rocks = Silicate and $Fe$
+		- Distance = 0.387 AU
+		- Diameter = 0.38 Earth
 	- **Venus**
 		- **Inhospitable** planets
 		- Extreme winds, thick clouds, runaway **greenhouse effect**
@@ -90,14 +90,14 @@
 			- Venus (**eventually**)
 			- Moon (to Earth)
 			- Callisto (to Jupiter)
-		- Density: $5.3 \; g/cm^3$
-		- Diameter: 0.95 Earth
-		- Distance: 0.723 AU
-		- Atmosphere: 96.5% $CO_2$, 3.5% $N_2$
-		- Rotation: 243 days
-		- Revolution: 225 days
-		- Axial tilt: $177^{\circ}$ (appearance of rotating clockwise)
-		- Composition: Unknown, crust believed to be similar to Earth
+		- Density = $5.3 \; g/cm^3$
+		- Diameter = 0.95 Earth
+		- Distance = 0.723 AU
+		- Atmosphere = 96.5% $CO_2$, 3.5% $N_2$
+		- Rotation = 243 days
+		- Revolution = 225 days
+		- Axial tilt = $177^{\circ}$ (appearance of rotating clockwise)
+		- Composition = Unknown, crust believed to be similar to Earth
 	- **Earth**
 		- **Radiation Environment**
 			- Bands of rapidly moving charged particles trapped by Earth's magnetic field in **toroidal regions** surrounding the equator
@@ -115,14 +115,14 @@
 		- **2** moons
 			- Moon's revolutions are slowing, they will eventually crash into Mars
 		- Last inner planet before asteroid belt
-		- Distance: 1.52 AU
-		- Density: $3.94 \; g/cm^3$
-		- Diameter: 0.53 Earth
-		- Rotation: 25 hours
-		- Revolution: 690 hours
+		- Distance = 1.52 AU
+		- Density = $3.94 \; g/cm^3$
+		- Diameter = 0.53 Earth
+		- Rotation = 25 hours
+		- Revolution = 690 hours
 		- Axial tilt = $23.6^{\circ}$
-		- Composition: Identical to Earth
-		- Atmosphere: 95% $CO_2$
+		- Composition = Identical to Earth
+		- Atmosphere = 95% $CO_2$
 - Terrestrial planets made of **denser** objects, which can condense and compress at high temperatures (form closer to sun)
 - Terrestrial planets made of **heavier** elements, which have a stronger **gravitational attraction** to the Sun
 
@@ -147,7 +147,6 @@
 	- Core is "thick, super hot soup" of molten rocky materials and **liquid metallic** $H$
 		- Surface temperatures over $27,000^{\circ}C$
 	- Clouds of $H$ and $He$
-	- Upper atmosphere is $\approx -120^{\circ}C$
 	- **Visible stripes = violent winds and storms**
 		- Indicates the refractive and reflective properties of gases extend to the liquid metallic $H$ layers of the planet
 		- **Light colors** = **high pressure** area of **rising clouds**
@@ -159,13 +158,14 @@
 	- Some of its rings can **float on water**
 	- Distance = 5.2 AU
 	- Density = $1.34 g/cm^3$
-	- Diameter: 11.2 Earth
+	- Diameter = 11.2 Earth
 	- Atmosphere: $H_2$, $He$, $NH_3$
 	- Rotation = 10 hours
 	- Revolution = 12 years
 	- Axial tilt = $3^{\circ}$
-	- Moons: 79
-	- Composition: No surface, gaseous atmosphere
+	- Moons = 79
+	- Composition = No surface, gaseous atmosphere
+	- Upper atmosphere is $\approx -120^{\circ}C$
 	- **Jupiter's Moons**
 		- 79 moons, 53 are named
 		- **Galilean Moons**
@@ -197,30 +197,57 @@
 		- Gaps in rings are from previous satellites
 		- 2 moons in the rings keep the fragments in alignment
 		- Rings represent a failed planet, crushed into fragments past Roche Limit
+		- Extend outwards to 150,000 km
 	- **82** moons
 	- **Least dense** (can float on water)
 	- **Titan** (largest moon around Saturn))
 		- Atmosphere of $N_2$ and $CH_4$
 		- Organic molecules **may be able to develop here**
-	- Rotation: 11 hours
-	- Revolution: 30 year
-	- Atmosphere: $H$ and $He$
-	- Axial tilt: $26^{\circ}$
+	- Distance = 9.54 AU
+	- Density = $0.69 g/cm^3$
+	- Diameter = 9.42 Earth
+	- Rotation = 11 hours
+	- Revolution = 30 years
+	- Atmosphere = $H_2$ and $He$
+	- Axial tilt = $26^{\circ}$
+	- Moons = 17
+	- $-180^{\circ}$ in atmosphere
+	- Composition = No surface, gaseous atmosphere
 - **Uranus** (ice giant)
 	- **Heavy rocky** core
-		- Surrounded by **liquid** $CH_4$
-	- Atmosphere: $H$, $He$, $CH_4$
-	- 27 moons, Miranda shows evidence of faulting
+		- Surrounded by **liquid** $CH_4$ = blue color
+	- Ring system of **frozen $CH_4$**
+	- 27 moons
+		- Miranda shows evidence of faulting
+		- Titania (greatest) = heavily cratered surface
+		- Oberon (outermost) = past geologic activity w/ faulting across sunlit side
 	- Orbits the Sun on **its side** (**axis points towards** the Sun)
-	- Rotation: 17 hours
-	- Revolution: 84 years
+	- Distance = 9.53 AU
+	- Density = $1.29 g/cm^3$
+	- Diameter = 4.01 Earth
+	- Atmosphere = $H_2$, $He$, $CH_4$
+	- Rotation = 17 hours
+	- Revolution = 84 years
+	- Axial tilt = $98^{\circ}$
+	- $-220^{\circ}$ in atmosphere
+	- Moons = 27
+	- Composition = unknown, frozen gases
 - **Neptune** (ice giant)
 	- Distinct weather patterns, **14** moons
+	- Discernable weather patterns
 	- **Great Dark Spot**
 		- Huge spinning storm in southern atmosphere, approx. the size of Earth
 		- Wind 1,500+ mph
 		- When the Hubble Space Telescope looked at Neptune in 1994, the Great Dark Spot was gone, a different spot had appeared in the northern atmosphere
+	- Distance = 30.1 AU
+	- Density = $1.66 g/cm^3$
+	- Diameter = 3.88 Earth
 	- Atmosphere: $H$, $He$, $CH_4$
+	- Rotation = 16 hours
+	- Revolution = 168 years
+	- $-216^{\circ}$ in atmosphere
+	- Axial tilt = $28^{\circ}$
+	- Moons = 8
 - **Dwarf Planets**
 	- Too small to be considered planets, too large to fall into other categories
 	- IAU defines a planet as
@@ -235,5 +262,19 @@
 	- Eris
 	- Haumea
 	- Makemake
+- **Pluto**
+	- Odd and erratic orbit
+	- Perhaps an escaped moon...?
+	- Small, icy, rocky
+	- Long, narrow, elliptical orbit that passes inside Neptune's orbit
+	- Recognized to be a part of the Kuiper Belt in 1992
+	- Distance = 39.4 AU
+	- Density = $2.0 g/cm^3$
+	- Diameter = 0.19 Eaerth
+	- Atmosphere = $N_2$, $CH_4$
+	- Rotation = 9.3 days
+	- Revolution = 248 years
+	- Axial tilt = $122^{\circ}$
+	- Composition: Frozen $N_2$, $CH_4$, and rock
 
 ![](Pasted%20image%2020230510102510.png)
