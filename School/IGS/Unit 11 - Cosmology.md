@@ -304,6 +304,7 @@
 - **Comet** = Chunk of dust and ice that orbits the Sun and becomes vaporized when it moves too close
 
 - **Gravity** = Weakest of all forces but acts over the largest distances, holds all massive objects together
+	- **Newton's law of gravitation** = Everything in the universe is gravitationally attracted
 - **Strong nuclear force** = Strongest forces but only acts over the size of the nucleus, holds nucleons together (protons and neutrons)
 - **Weak nuclear force** = Holds subatomic particles together, acts over the size of subatomic particles. Responsible for nuclear decay and fusion
 - **Electromagnetic** = Force that holds objects of opposite charge together (proton-electron attraction)

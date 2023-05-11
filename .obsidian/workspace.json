@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8558c4df6594252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Math/Areas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "75c1488281788000",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
