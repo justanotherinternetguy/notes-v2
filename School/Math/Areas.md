@@ -15,3 +15,4 @@
 		- $\text{Number of triangles}=k=n-2$
 		- $k \times \frac{1}{2} \times b \times h$
 - Circle
+	- $\pi \times r^2$

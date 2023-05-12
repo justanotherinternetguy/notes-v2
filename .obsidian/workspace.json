@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fcf216aaa863ad62",
+        "id": "f0b55f76b8dee412",
         "type": "tabs",
         "children": [
           {
-            "id": "75c1488281788000",
+            "id": "dfa325ec50a835cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Math/AMC1012 Prep/2017 AMC 10A.md",
+                "file": "School/Math/Areas.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211,
-    "collapsed": true
+    "width": 211
   },
   "right": {
     "id": "9583448fb3926dc4",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Math/AMC1012 Prep/2017 AMC 10A.md",
+                "file": "School/Math/Areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/Math/AMC1012 Prep/2017 AMC 10A.md",
+                "file": "School/Math/Areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/Math/AMC1012 Prep/2017 AMC 10A.md"
+                "file": "School/Math/Areas.md"
               }
             }
           }
@@ -155,14 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75c1488281788000",
+  "active": "dfa325ec50a835cb",
   "lastOpenFiles": [
+    "School/Math/Polygons.md",
+    "Home/Math/AMC1012 Prep/2017 AMC 10A.md",
     "School/IGS/Unit 11 - Cosmology.md",
     "School/IGS/Pasted image 20230511211105.png",
     "School/IGS/Pasted image 20230511172021.png",
     "School/Math/Areas.md",
-    "School/Math/Polygons.md",
-    "Home/Math/AMC1012 Prep/2017 AMC 10A.md",
     "Home/Math/AMC1012 Prep/Intro to Alg - AoPS.md",
     "Home/Math/AMC 10-12 Prep.md",
     "Home/Math/AMC1012 Prep",
