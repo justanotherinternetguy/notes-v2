@@ -179,15 +179,15 @@
 					- Leads to heating of the former's interior
 			- **Europa**
 				- Frozen water (might have been a liquid ocean)
-				- 100km thick $CH_4$ ice, smooth surface
+				- 100 km thick $CH_4$ ice, smooth surface
 				- Young moon and **volcanically active**
-				- Subsurface **oceans** 200km deep
+				- Subsurface **oceans** 200 km deep
 			- **Ganymede** (largest)
-				- 500km thick ice sheets of $CH_4$
+				- 500 km thick ice sheets of $CH_4$
 				- Larger than Mercury
 				- Magnetic field 10% of Earth's
 				- **Has magnetic field**
-			- **Calisto**
+			- **Callisto**
 				- Tidally locked w/ Jupiter
 					- Same face pointed at Jupiter
 				- Half size of Earth's moon
@@ -305,6 +305,21 @@
 
 - **Gravity** = Weakest of all forces but acts over the largest distances, holds all massive objects together
 	- **Newton's law of gravitation** = Everything in the universe is gravitationally attracted
+		- $F_1 = F_2 = G \times \frac{m_1 \times m_2}{r^2}$
+		- **Newton's 3rd law** = Force every action/force there is an equal and opposite reaction
+		- The force of gravity than the Sun exerts on you ($F_1$) **is equal to** the force of gravity that you exert on the Sun ($F_2$)
+	- **Farther away = Less gravitational force**
+	- **Larger mass = More gravitational force**
 - **Strong nuclear force** = Strongest forces but only acts over the size of the nucleus, holds nucleons together (protons and neutrons)
 - **Weak nuclear force** = Holds subatomic particles together, acts over the size of subatomic particles. Responsible for nuclear decay and fusion
 - **Electromagnetic** = Force that holds objects of opposite charge together (proton-electron attraction)
+
+- **Kepler's First Law** = The path of orbit of a planet around a Sun is an **ellipse** with the Sun **at its focus**
+	- ![](Pasted%20image%2020230511172021.png)
+- **Kepler's Second Law** = As a planet moves in its orbit, a line from the Sun to the planet **sweeps out equal areas in equal times**
+	- ![](Pasted%20image%2020230511211105.png)
+	- The areas of the **green wedges** are equal if the planet travels along the perimeter of the segments in **equal periods of time**
+- **Kepler's Third Law** = The period of planet's orbit is **proportional** to its distance from the Sun
+	- Period = T = Time take for one completely rotation
+	- $(\frac{T_1}{T_2})^2 - (\frac{r_1}{r_2})^3$
+	- Holds true for all planets and other satellites
