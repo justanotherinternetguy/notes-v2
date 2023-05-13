@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dfa325ec50a835cb",
+            "id": "b65e58b1e0f4ad15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Math/Areas.md",
+                "file": "Home/Calculus/Ch3 - Derivatives.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211
+    "width": 211,
+    "collapsed": true
   },
   "right": {
     "id": "9583448fb3926dc4",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Math/Areas.md",
+                "file": "Home/Calculus/Ch3 - Derivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Math/Areas.md",
+                "file": "Home/Calculus/Ch3 - Derivatives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Math/Areas.md"
+                "file": "Home/Calculus/Ch3 - Derivatives.md"
               }
             }
           }
@@ -154,31 +155,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfa325ec50a835cb",
+  "active": "b65e58b1e0f4ad15",
   "lastOpenFiles": [
-    "School/Math/Polygons.md",
+    "Home/Physics/Ch2 - 1D Kinematics.md",
+    "Home/Physics/Physics Master Notes.md",
+    "Ch6 - A Tour of the Cell.md",
+    "Home/Biology/Campbell/Ch5 - Large Biological Molecules.md",
+    "Images/Pasted image 20230512235501.png",
+    "Home/Biology/Campbell/Ch26 - Phylogeny and the Tree of Life.md",
+    "Home/Biology/Campbell/Hardy-Weinberg Problems.md",
+    "Images/cae84866b2e3f42c03a550a6b5b0c2b6.png",
+    "Images/3aa32ddaf906ef6176011ffccfe7f57c.png",
+    "Home/Calculus/Ch3 - Derivatives.md",
+    "Images/Pasted image 20230428202915.png",
+    "Images/81b1d2563c558987857e6c2c438a3ced.png",
+    "Images",
+    "Untitled.canvas",
     "Home/Math/AMC1012 Prep/2017 AMC 10A.md",
+    "School/Math/Areas.md",
+    "School/Math/Polygons.md",
     "School/IGS/Unit 11 - Cosmology.md",
     "School/IGS/Pasted image 20230511211105.png",
     "School/IGS/Pasted image 20230511172021.png",
-    "School/Math/Areas.md",
     "Home/Math/AMC1012 Prep/Intro to Alg - AoPS.md",
     "Home/Math/AMC 10-12 Prep.md",
     "Home/Math/AMC1012 Prep",
-    "Home/Biology/Campbell/Hardy-Weinberg Problems.md",
-    "Home/Biology/Campbell/Ch26 - Phylogeny and the Tree of Life.md",
-    "Home/Calculus/Calculus Master Notes.md",
     "Home/Chinese Cultural Presentation.md",
     "Home/Math",
     "School/Math/Pasted image 20230510152506.png",
     "School/Math/Pasted image 20230510125915.png",
     "School/Math/Pasted image 20230510125904.png",
-    "School/Math/Pasted image 20230510125856.png",
-    "School/Math/Pasted image 20230510125844.png",
-    "School/Math/Pasted image 20230510125836.png",
     "School/Math",
     "School/IGS/Untitled.md",
-    "School/IGS/Pasted image 20230510102510.png",
     "Untitled 1.md",
     "Home/School/IGS/Unit 10 - Climate Change and Human Activity.md",
     "School/IGS/Unit 10 Fishbowl/Topic 6.md",
@@ -189,17 +197,12 @@
     "School/IGS/Unit 10 Fishbowl/Topic 1.md",
     "School/IGS/Unit 10 Fishbowl",
     "School/IGS/Unit 10 - Climate Change and Human Activity.md",
-    "School/IGS/Pasted image 20230508010652.png",
     "School/IGS",
     "School",
     "Home/School/IGS/Unit 11 - planets and shit bruh idk.md",
     "C.md",
-    "Home/MiscScience/Other Notes.md",
-    "Home/Physics/Physics Master Notes.md",
-    "Home/Chemistry/Chemistry Master Notes.md",
     "Home/MiscScience",
     "Home/Chemistry",
-    "Home/Physics",
-    "Home/Chemistry"
+    "Home/Physics"
   ]
 }
