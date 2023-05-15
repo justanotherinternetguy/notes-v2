@@ -1,0 +1,22 @@
+- Brian = to go Brazil to escape racism, contrast from Irene's alleged loyalty to being black
+- "Half succeeded" = feels less paranoid
+- "look for trouble and finding it in good measure"
+- "Merely that" = downplaying tone, does not sueccess
+- "not quite"
+- "two allegiances"
+	- What is race to irene? something that unites?
+	- united b/c they are all oppressed
+	- if you are loyal to your race, aren't you being controlled by an oppressive force?
+- power?? irene CAN tell john, but that will go against her own values
+- "for the first time..."
+	- suffering = being woman + being a person
+	- without having to suffer racially as well
+- not john finding that clare is black, but instead finding that clare (as white) as been spending time in a black community
+	
+- control
+	- instinctively wants clare to be safe, does make clare safe
+	- loyalty to racial beliefs - power
+
+- she has control over her own selfish desires to exopse clare
+	- last paragraph
+	- selfish desire BUT she does not want to be involved in clare's exposing, she prevents herself in exposing clare (integrity to her values)
