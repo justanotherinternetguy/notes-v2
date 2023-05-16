@@ -323,3 +323,10 @@
 	- Period = T = Time take for one completely rotation
 	- $(\frac{T_1}{T_2})^2 - (\frac{r_1}{r_2})^3$
 	- Holds true for all planets and other satellites
+
+# 11d - The Birth and Death of Stars
+- **Formation**
+	1. Huge cloud of low-temperature interstellar material called a **molecular cloud** forms an **accretion disk**
+	2. The accretion disk pulls more and more and more particles inward until we have a collection of matter many times the mass of the sun spreading out many times larger than our solar system. A lot of heat and pressure builds up
+	3. A **passing shockwave** triggers an inward collapse of the molecular cloud.
+	4. This is called a **protostar**. Protostars give off a LOT of heat and can be detected through infrared telescopes. This phase lasts for millions of years.

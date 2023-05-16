@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bbaedaa0ea3d18dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home/Scratchpad/HackMHS Postgresql Prep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "df65f856298650cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Scratchpad/Untitled.md",
+                "file": "School/IGS/Unit 11 - Cosmology.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211
+    "width": 211,
+    "collapsed": true
   },
   "right": {
     "id": "9583448fb3926dc4",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Scratchpad/Untitled.md",
+                "file": "School/IGS/Unit 11 - Cosmology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/Scratchpad/Untitled.md",
+                "file": "School/IGS/Unit 11 - Cosmology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/Scratchpad/Untitled.md"
+                "file": "School/IGS/Unit 11 - Cosmology.md"
               }
             }
           }
@@ -169,9 +157,10 @@
   },
   "active": "df65f856298650cd",
   "lastOpenFiles": [
-    "Home/Scratchpad/Sleep.md",
-    "Home/Scratchpad/Untitled.md",
     "Home/Scratchpad/HackMHS Postgresql Prep.md",
+    "Images/3aa32ddaf906ef6176011ffccfe7f57c.png",
+    "Home/Scratchpad/Untitled.md",
+    "Home/Scratchpad/Sleep.md",
     "Home/Untitled.md",
     "Home/Scratchpad",
     "Ch6 - A Tour of the Cell.md",
@@ -191,7 +180,6 @@
     "Home/Biology/Campbell/Ch26 - Phylogeny and the Tree of Life.md",
     "Home/Biology/Campbell/Hardy-Weinberg Problems.md",
     "Images/cae84866b2e3f42c03a550a6b5b0c2b6.png",
-    "Images/3aa32ddaf906ef6176011ffccfe7f57c.png",
     "Images/Pasted image 20230428202915.png",
     "Images/81b1d2563c558987857e6c2c438a3ced.png",
     "Images",
@@ -211,7 +199,6 @@
     "School/IGS/Unit 10 Fishbowl/Topic 6.md",
     "School/IGS/Unit 10 Fishbowl/Topic 5.md",
     "School/IGS/Unit 10 Fishbowl/Topic 4.md",
-    "School/IGS/Unit 10 Fishbowl/Topic 3.md",
     "School/IGS/Unit 10 Fishbowl",
     "School/IGS",
     "School",
