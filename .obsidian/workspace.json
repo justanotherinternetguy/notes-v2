@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/IGS/Unit 11 - Cosmology.md",
+                "file": "School/Spanish Grammar Master.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211,
-    "collapsed": true
+    "width": 211
   },
   "right": {
     "id": "9583448fb3926dc4",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IGS/Unit 11 - Cosmology.md",
+                "file": "School/Spanish Grammar Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IGS/Unit 11 - Cosmology.md",
+                "file": "School/Spanish Grammar Master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/IGS/Unit 11 - Cosmology.md"
+                "file": "School/Spanish Grammar Master.md"
               }
             }
           }
@@ -157,6 +156,10 @@
   },
   "active": "df65f856298650cd",
   "lastOpenFiles": [
+    "Untitled.md",
+    "School/Spanish Grammar Master.md",
+    "School/IGS/Unit 11 - Cosmology.md",
+    "Images/Pasted image 20230516172529.png",
     "Home/Scratchpad/HackMHS Postgresql Prep.md",
     "Images/3aa32ddaf906ef6176011ffccfe7f57c.png",
     "Home/Scratchpad/Untitled.md",
@@ -181,13 +184,11 @@
     "Home/Biology/Campbell/Hardy-Weinberg Problems.md",
     "Images/cae84866b2e3f42c03a550a6b5b0c2b6.png",
     "Images/Pasted image 20230428202915.png",
-    "Images/81b1d2563c558987857e6c2c438a3ced.png",
     "Images",
     "Untitled.canvas",
     "Home/Math/AMC1012 Prep/2017 AMC 10A.md",
     "School/Math/Areas.md",
     "School/Math/Polygons.md",
-    "School/IGS/Unit 11 - Cosmology.md",
     "Home/Math/AMC1012 Prep/Intro to Alg - AoPS.md",
     "Home/Math/AMC 10-12 Prep.md",
     "Home/Math/AMC1012 Prep",
@@ -198,7 +199,6 @@
     "Home/School/IGS/Unit 10 - Climate Change and Human Activity.md",
     "School/IGS/Unit 10 Fishbowl/Topic 6.md",
     "School/IGS/Unit 10 Fishbowl/Topic 5.md",
-    "School/IGS/Unit 10 Fishbowl/Topic 4.md",
     "School/IGS/Unit 10 Fishbowl",
     "School/IGS",
     "School",

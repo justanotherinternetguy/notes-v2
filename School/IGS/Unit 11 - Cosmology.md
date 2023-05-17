@@ -326,7 +326,30 @@
 
 # 11d - The Birth and Death of Stars
 - **Formation**
-	1. Huge cloud of low-temperature interstellar material called a **molecular cloud** forms an **accretion disk**
-	2. The accretion disk pulls more and more and more particles inward until we have a collection of matter many times the mass of the sun spreading out many times larger than our solar system. A lot of heat and pressure builds up
-	3. A **passing shockwave** triggers an inward collapse of the molecular cloud.
-	4. This is called a **protostar**. Protostars give off a LOT of heat and can be detected through infrared telescopes. This phase lasts for millions of years.
+	1. Huge cloud of low-temperature interstellar material called a **molecular cloud [1]** forms an **accretion disk [2]**
+	2. The accretion disk pulls more and more and more particles inward until we have a collection of matter many times the mass of the sun spreading out many times larger than our solar system. A lot of heat and pressure builds up. A *passing shockwave* triggers an inward collapse of the molecular cloud.
+	3. This is called a **protostar [3]**. Protostars give off a LOT of heat and can be detected through infrared telescopes. This phase lasts for millions of years.
+	4. Protostar becomes more and more *dense*, matter compresses
+		1. Temperatures > $1,000,000^{\circ}$
+		2. **Mass of protostar is determined by...**
+			1. How long the protostar phase will last
+			2. Star's lifetime
+			3. Where newborn star will land on the main sequence
+	5. Nuclear fusion = $H + H \rightarrow He$
+	6. Releases light + energy
+	7. When the energy is released, the protostar becomes a **star [4]**
+	- **Entire phase lasts 30 million years**
+	8. Matter is still compressing
+	9. Energy in the form of radiation and heat being released acts as an **opposing force** to the gravitational contraction the star's matter
+	10. Balance of gravitational force and pressure is what balances the star
+- **Pillars of Creation**
+	- ![](Pasted%20image%2020230516172529.png)
+	- Part of **active star-forming** region within the Eagle Nebula and hide **newborn** stars in the columns
+	- $\textcolor{blue}{Blue}$ = Oxygen
+	- $\textcolor{red}{Red}$ = Sulfur
+	- $\textcolor{green}{Green}$ = Nitrogen and Oxygen
+	- Exposed to UV light from a cluster of young stars
+		- Winds from the stars are eroding the towers of gas and dust
+	- 4-5 light years wide
+	- Stars formed here all rotate around a central body (**black hole**)
+	- 
