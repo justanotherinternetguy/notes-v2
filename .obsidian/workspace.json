@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Spanish Grammar Master.md",
+                "file": "School/IGS/Unit 11 - Cosmology.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211
+    "width": 211,
+    "collapsed": true
   },
   "right": {
     "id": "9583448fb3926dc4",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Spanish Grammar Master.md",
+                "file": "School/IGS/Unit 11 - Cosmology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Spanish Grammar Master.md",
+                "file": "School/IGS/Unit 11 - Cosmology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Spanish Grammar Master.md"
+                "file": "School/IGS/Unit 11 - Cosmology.md"
               }
             }
           }
@@ -156,8 +157,9 @@
   },
   "active": "df65f856298650cd",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Images/Pasted image 20230517125532.png",
     "School/Spanish Grammar Master.md",
+    "Untitled.md",
     "School/IGS/Unit 11 - Cosmology.md",
     "Images/Pasted image 20230516172529.png",
     "Home/Scratchpad/HackMHS Postgresql Prep.md",
@@ -198,7 +200,6 @@
     "Untitled 1.md",
     "Home/School/IGS/Unit 10 - Climate Change and Human Activity.md",
     "School/IGS/Unit 10 Fishbowl/Topic 6.md",
-    "School/IGS/Unit 10 Fishbowl/Topic 5.md",
     "School/IGS/Unit 10 Fishbowl",
     "School/IGS",
     "School",

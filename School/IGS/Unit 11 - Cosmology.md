@@ -352,4 +352,22 @@
 		- Winds from the stars are eroding the towers of gas and dust
 	- 4-5 light years wide
 	- Stars formed here all rotate around a central body (**black hole**)
-	- 
+- **Hydrostatic Equilibrium**
+	- Star's interior is composed of **many small individual shells** (like an onion)
+	- ![](Pasted%20image%2020230517125532.png)
+	- Our **Sun** is not expanding or contracting, so it is in **equilibrium**
+	- Outward pressure force must **exactly balance** the weight of all layers above everywhere in the star
+		- **Core** exerts **more pressure** than outer shell
+	- Condition determines the interior structure of the star
+- **Star Lifespan**
+	- Depends on how **fast it burns up fuel**
+		- Often determined **by size**
+		- Larger stars = burn fuel **faster** = **short lifespan**
+	- Sun is expected to live a total of **10 billion years**
+		- We have 5 billion years to go
+- **Binary Star system**
+	- **50%** of stars in the universe have a **partner star**
+	- We may have been in a binary star system (150 billion km away)
+	- We are **not** in a binary system today
+- **Life of stars**
+	- All stars that **emit light** will **burn fuel**
