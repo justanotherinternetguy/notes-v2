@@ -1,11 +1,11 @@
 # Yuan Xiao Jie
 - nong li zheng yue shi wu ri
 - zheng yue shi nong li de yuan yue, gu ren ba ta cheng wei zhe "xiao"
-- deng jie, shang yuan jie
+- deng jie
 - Biao shi zhe chun jie huo dong de jie shu na tian
 - Zhong yao chuang tong: chi yuan xiao, shang hua deng, wulongwushi, deng...
 
-# Kong Rong Rang Li
+# Kong(3) Rong(2) Rang Li
 - han chao you yi ge hai zi jiao kong(3) rong(2)
 - kong rong cong xiao cong ming ling li, qin fen hao xue
 - yi tian, fu qin de yige peng you dao jia li zuo ke, dai lai yi xie lizi gei Kong Rong de jia ting men chi
@@ -17,15 +17,17 @@
 	- Gege men bi wo nian ling da, suo yi yao zun zhong ta men, gei ta men duo yi dianer li zi
 	- Didi men bi wo nian ling xiao, yao rang ta men, gei ta men duo yi dianer li zi
 - Fuqin ting dao hou, hen gan dong.
-- Kong Rong Rang Li de gu shi he ta de qian rang de jing sheng liu chuan zhi(4) jing(1)
+- Kong Rong Rang Li de gu shi he ta de **qian rang de jing sheng liu chuan** zhi(4) jing(1)
+- wo jue de...
+	- zhe ge qian rang de jing sheng bu yi ding xiang mei guo de xiang fa
+	- zai mei guo li, ru guo ni you neng li, ni jiu neng tiao qi lai, ba zhe ge ji hui qiang dao
 
 # Chang E Ben Yue
-
 
 # Yan Er Dao Ling
 
 # Xi You Ji
-- Zuo zhe: Ming dai de Wu(2) Cheng(2) En (1)
+- Zuo zhe: Ming dai de Wu(2) Cheng(2) En(1)
 - Xiaoshuo gen ju Tang dai Tang Seng he shang qu jing de gu shi
 - Xiaoshuo tong guo feng fu de yi shu xiang xiang, su zao le yi ge mei li de shen hua shi jie
 - Zhu yao ren wu shi Sun WuKong
@@ -70,7 +72,7 @@
 	- zui hou, ta tiao xia lai, ying li bi sai
 
 # wu long wu shi
-- chinese art expression or style
+- chuan tong zhong guo yi shu
 - yuan xiao jie
 - zhong guo xin nian xiu hou yi tian
 - yuan xiao
@@ -80,9 +82,17 @@
 	- yan se biao shi yong gan he hao yun qi
 	- tiao wu yuan
 	- ling huo, dong zuo you kuai you zhun que
-	- you hen duo de tiao wu yuan, lian he de zai cong zhu long he shi zi
-	- tuan dui he zuo
+	- you hen duo de tiao wu yuan, lian he de zai tuan dui he zuo
+	- dang zuo yong gan he li liang de xiang zheng
+		- neng bao you ren lei ping an
+	- biao shi sheng huo qi pan sheng huo ji(2) xiang(2) ru(2) yi(4)
 - mei nian zhen shang de zhong wen xue kia
 - biao yan WLWS
 - tiao wu yuan shi gao zhong shen
 - CONCLUSION
+
+
+# ma po dou fu
+
+
+# zuo ke
