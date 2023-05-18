@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Chinese Cultural Presentation.md",
+                "file": "School/Math/Areas.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Chinese Cultural Presentation.md",
+                "file": "School/Math/Areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/Chinese Cultural Presentation.md",
+                "file": "School/Math/Areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/Chinese Cultural Presentation.md"
+                "file": "School/Math/Areas.md"
               }
             }
           }
@@ -154,8 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df65f856298650cd",
+  "active": "e732b784fb5083d3",
   "lastOpenFiles": [
+    "School/Math/Polygons.md",
+    "School/Math/Areas.md",
+    "Home/Chinese Cultural Presentation.md",
     "Images/Pasted image 20230517125532.png",
     "School/Spanish Grammar Master.md",
     "Untitled.md",
@@ -174,7 +177,6 @@
     "Images/Pasted image 20230514004157.png",
     "Images/Pasted image 20230514004140.png",
     "Images/Pasted image 20230514000220.png",
-    "Home/Chinese Cultural Presentation.md",
     "Home/CS",
     "Home/Calculus/Ch3 - Derivatives.md",
     "Home/Physics/Ch2 - 1D Kinematics.md",
@@ -184,12 +186,9 @@
     "Home/Biology/Campbell/Ch26 - Phylogeny and the Tree of Life.md",
     "Home/Biology/Campbell/Hardy-Weinberg Problems.md",
     "Images/cae84866b2e3f42c03a550a6b5b0c2b6.png",
-    "Images/Pasted image 20230428202915.png",
     "Images",
     "Untitled.canvas",
     "Home/Math/AMC1012 Prep/2017 AMC 10A.md",
-    "School/Math/Areas.md",
-    "School/Math/Polygons.md",
     "Home/Math/AMC1012 Prep/Intro to Alg - AoPS.md",
     "Home/Math/AMC 10-12 Prep.md",
     "Home/Math/AMC1012 Prep",

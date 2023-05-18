@@ -11,8 +11,19 @@
 - Regular Polygon
 	- Apothem = height of each triangle in a triangulated polygon
 	- $\frac{1}{2} \times \text{apothem} \times \text{perimeter}$
+	- $\frac{1}{2} asn$
 	- Using triangulation:
 		- $\text{Number of triangles}=k=n-2$
 		- $k \times \frac{1}{2} \times b \times h$
+	- You can also use trig/special triangles to solve for apothems and side lengths
 - Circle
-	- $\pi \times r^2$
+	- $A = \pi \times r^2$
+	- $C = 2 \pi r$
+	- $\pi = \frac{C}{d}$
+		- $C = \pi d$
+		- $d = \frac{C}{\pi}$
+		- $r = \frac{C}{2\pi}$
+	- **Portions of a circle**
+		- Sector
+		- Segment
+		- Annulus
