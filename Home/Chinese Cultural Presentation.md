@@ -96,3 +96,50 @@
 
 
 # zuo ke
+
+
+# shanghai
+- zhong guo **zhi xia shi**
+- ba ba ma ma cong shang hai lai de
+- zai shu jia xiao de shi hou jing chang hui shang hai
+- ren kou zui dou de cheng shi
+- HUANG PU JIANG - pudong puxi
+- pudong - hou fa zhan, "xing qu"
+- puxi - lao cheng qu
+- dong fang ming zhu
+	- xuan zhuan can ting
+- xiao long bao
+- conclusion
+
+
+# hua mu lan
+- zhong guo gu dai chuan shuo zhong de nu ying xiong
+- gu shi chu xian lai "mu lan ci" zhong
+- wei le gen bei fang shao shu ming zu zuo zhan(4 war)
+- wei(4) wang zai quan guo fan wei nei zheng(1) bing(1) can(1) zhan(4)
+- mu lan dai(4) ti(4) fu qin tou tou qu dang bing le
+- zai jun zhong, huamulan yong gan er wu(3) gong(1) guo(4) ren(2), cheng wei yi ming da jiang jun
+- ta de gong fu hen hao, mei ren jue de ta shi yi ge nu sheng
+- huamulan da le sheng zhang yi hou, ta jiu hui le da te jia xiang
+- guo wang gei ta le hen duo jiang li
+- cong ci, hua mu lan dai fu cong jun de gu shi liu chuan xia lai
+- jiao le wo men yao yong gan he jian chi
+- 1998 nian, mei guo di si ni ba "mulan" de gu shu zuo cheng le yi ge dian ying, shou dao shi jie ge(4) guo(2) shaonian ertong de xi ai
+
+
+# cong zi
+
+
+# ji(4) jing (taboo)
+- shu zi wen hua
+	- zhong guo ren dui shu zi de shi yong hen xiao xing, you hen duo gui ze
+	- bu neng zai jie hun huo guo sheng ri de shi song **dan shu**
+		- zhong guo song li yao biao shi "hao shi cheng shuang" de yuan wang
+	- dang ran, bu neng song 4 yang dong xi, yin wei 4 de xie(2) ying(4) shi "si" (death)
+	- 3 - "san(3)" - san(4) kai
+	- 8 - "fa" - fa cai
+	- 9 - sheng huo de chang chang jiu jiu
+
+
+
+# ma po dou fu
