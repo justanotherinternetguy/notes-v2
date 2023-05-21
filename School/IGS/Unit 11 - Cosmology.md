@@ -371,3 +371,23 @@
 	- We are **not** in a binary system today
 - **Life of stars**
 	- All stars that **emit light** will **burn fuel**
+
+# Nuclear Fission and Fusion Reading
+- **Sun** = $H \rightarrow He$
+- **Fusion**
+	- Closer protons are = More frantically they move = Higher temperatures
+	- Under normal circumstances, protons **repel each other**
+	- At high temperatures, two protons are able to **overcome the repulsion barrier** and **bind**
+	- As a result, one of the protons **turns into a neutron**
+		- Proton + Neutron = **deuterium**
+	- Quickly, deuterium reacts with **another proton** to build a helium-3 nucleus ${}^3He$
+	- After a million years, two ${}^3He$ nuclei fuse to form **helium-4** ${}^4He$ and **two free protons**
+		- Those free protons can go and react more
+	- Where does the energy for this come from?
+		- Reactant mass: $4p + 2e = 6.694 \times 10^{-27} kg$
+		- Produced mass: $6.642 \times 10^{-27} kg$
+	- ![](Pasted%20image%2020230518172459.png)A
+- **Struggle against Gravity**
+	- As stellar energy tries to escape, the energetic photons bump into **gas particles** of stellar layers
+	- This would expel the gas away if gravity did not exist
+	- With gravity, gas is staying in **equilibrium**
