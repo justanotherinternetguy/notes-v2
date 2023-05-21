@@ -25,5 +25,9 @@
 		- $r = \frac{C}{2\pi}$
 	- **Portions of a circle**
 		- Sector
+			- $a = \text{arc measure}$
+			- $\frac{a}{360} \times \pi r^2 = A_{sector}$
 		- Segment
+			- $\frac{a}{360}\pi r^2 - \frac{1}{2} bh = A_\text{segment}$
 		- Annulus
+			- $\pi R^2 - \pi r^2 = A_\text{annulus}$

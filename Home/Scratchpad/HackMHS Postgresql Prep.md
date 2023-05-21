@@ -21,6 +21,8 @@ CREATE TABLE products (product_id varchar(10) NOT NULL, product_name varchar(20)
 
 INSERT INTO products (product_id, product_name, price) VALUES ('A1234', 'Computer', 500.00);
 
+TABLE products;
+
   
 
 \d products
@@ -69,4 +71,3 @@ $ rm -rf /usr/local/var/postgres
 $ rm /usr/local/var/log/postgres.log
 $ rm -f ~/.psqlrc ~/.psql_history
 ```
-
