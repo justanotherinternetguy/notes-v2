@@ -11,12 +11,35 @@
 |Nosotros(as)|Nos|Nos|Nos|
 |Ellos/Ellas/Uds.|Se|Les|Los/Las|
 
+# Por/Para
+## Por (ATRACTED)
+- Around a place
+- Transportation
+- Reason/Motive
+- After
+- Cost
+- Thanks
+- Exchange
+- Duration of event
+![](Pasted%20image%2020230522002615.png)
+
+## Para (PERFECT)
+- Purpose
+- Effect
+- Recipient
+- Future dates/Deadlines
+- Employment
+- Comparison
+- Toward a specific place/Destination
+![](Pasted%20image%2020230522002641.png)
+
+
 # Presente
 
 # Mandatos Informales (Tú)
 
 ### Afirmativos
-- Third person
+- **Third person conjugation**
 	- Pasar -> pasa
 	- Sacar --> saca
 - **Stem-changing**
@@ -73,6 +96,38 @@
 	- No los compres -> don't buy them
 
 # Mandatos Formales
+- To tell **a person of authority** to do something
+
+## Afirmativos
+- **Yo-Chop-Switch conjugation**
+	- -ar -> -e/-en
+	- -er/-ir -> -a/-an
+- Hablar -> hablo -> habl -> hable/hablen
+- Salir -> salgo -> salg -> salga/salgan
+- **Irregulars** (DISHES)
+	- Dar -> dé/den
+	- Ir -> vaya/vayan
+	- Saber -> sea/sean
+	- Haber -> haya/hayan
+	- Estar -> esté/estén
+	- Ser -> sepa/sepan
+- **Pronouns**
+	- Same pronoun rules for mandatos informales
+
+## Negativos
+- Add a "no" in front of verb
+
+# Preterite vs. Imperfect
+## Preterite
+- Has a clear conclusion
+- Happened one time
+- Interrupted something that was already going on
+- Was the beginning of an event
+- Was the end of an event
+- **Conjugation**
+	- ![](Pasted%20image%2020230521171442.png)
+- **Irregulars**
+
 
 # Pretérito
 

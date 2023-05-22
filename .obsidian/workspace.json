@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f0b55f76b8dee412",
+        "id": "cdac4c14e27d9215",
         "type": "tabs",
         "children": [
           {
-            "id": "df65f856298650cd",
+            "id": "b631f3f7c4194619",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,8 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df65f856298650cd",
+  "active": "b631f3f7c4194619",
   "lastOpenFiles": [
+    "Images/Pasted image 20230522002641.png",
+    "Images/Pasted image 20230522002615.png",
+    "School/Antigone.md",
+    "Home/ACSL/Finals Notes.md",
+    "Images/Pasted image 20230521182959.png",
+    "School/Spanish Grammar Master.md",
+    "Home/ACSL",
+    "Images/Pasted image 20230521171455.png",
+    "Images/Pasted image 20230521171442.png",
     "School/IGS/Unit 11 - Cosmology.md",
     "School/IGS/Unit 10 - Climate Change and Human Activity.md",
     "Images/3aa32ddaf906ef6176011ffccfe7f57c.png",
@@ -164,7 +173,6 @@
     "School/Math/Polygons.md",
     "Home/Chinese Cultural Presentation.md",
     "Images/Pasted image 20230517125532.png",
-    "School/Spanish Grammar Master.md",
     "Untitled.md",
     "Images/Pasted image 20230516172529.png",
     "Home/Scratchpad/Untitled.md",
@@ -176,17 +184,13 @@
     "Images/Pasted image 20230514004448.png",
     "Images/Pasted image 20230514004207.png",
     "Images/Pasted image 20230514004157.png",
-    "Images/Pasted image 20230514004140.png",
-    "Images/Pasted image 20230514000220.png",
     "Home/CS",
     "Home/Calculus/Ch3 - Derivatives.md",
     "Home/Physics/Ch2 - 1D Kinematics.md",
     "Home/Physics/Physics Master Notes.md",
     "Home/Biology/Campbell/Ch5 - Large Biological Molecules.md",
-    "Images/Pasted image 20230512235501.png",
     "Home/Biology/Campbell/Ch26 - Phylogeny and the Tree of Life.md",
     "Home/Biology/Campbell/Hardy-Weinberg Problems.md",
-    "Images/cae84866b2e3f42c03a550a6b5b0c2b6.png",
     "Images",
     "Untitled.canvas",
     "Home/Math/AMC1012 Prep/2017 AMC 10A.md",
@@ -196,12 +200,8 @@
     "Home/Math",
     "School/Math",
     "School/IGS/Untitled.md",
-    "Untitled 1.md",
-    "Home/School/IGS/Unit 10 - Climate Change and Human Activity.md",
-    "School/IGS/Unit 10 Fishbowl/Topic 6.md",
     "School/IGS/Unit 10 Fishbowl",
     "School/IGS",
-    "School",
-    "Home/MiscScience"
+    "School"
   ]
 }

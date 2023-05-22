@@ -1,0 +1,28 @@
+# Setting
+- Ancient Greece (400 BCE)
+	- Before Roman Empire
+	- "Classics" - Hellenic study
+- Greek gods (Zeus, Hera, etc)
+	- Later on have Roman versions
+- Politics
+	- Direct Democracy
+	- City-states
+		- Shared cultural similarities
+- Antigone is a play written by **Sophocles** (playwright)
+	- Sophocles wrote stories about myths
+		- He does not "invent" the stories (they are folklore), but organizes/structures the plot in a play
+		- *Tragedy* - Tragic hero
+		- No character development
+			- Meant to enact their traits
+			- See the tensions of different values of different people
+			- "Fate"/"Inevitable" that this tragic ending happens
+- Ancient Greece had playwright competitions, Sophocles would win a lot
+- Has been translated to English
+- **Chorus** = Auxiliary characters, can be a narrator, the crowd, the subconscious/conscience of a characters, etc
+- "Caught in a conflict of loyalties"
+	- Antigone trying to choose between honoring her brother's death vs. state laws
+	- Personal vs. state conflict (state oppression)
+
+- Oedipus - Killed his own father, slept with his own mother
+	- Cursed by the gods
+	- Considered very very wrong
