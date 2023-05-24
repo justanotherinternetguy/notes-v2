@@ -371,7 +371,57 @@
 	- We are **not** in a binary system today
 - **Life of stars**
 	- All stars that **emit light** will **burn fuel**
+		- When it runs out of fuel, the star enters its "dying" phase
+		- Burned-out hydrogen core ignites the helium in the core and unfused hydrogen outside of core --> star **expands**
+- **Low/Intermediate mass star** --> **red giant**
+	- Larger and cooler
+	- Red giants are **source of** $C$
+	- Our sun is **low mass** --> red giant in 5 billion years
+	- Massive stars will produce a **red supergiant**
+		- Largest known star
+	- As a **red giant shrinks**, it sheds its shells and becomes a **planetary nebula**
+		- Expands and has **glowing shell of plasma**
+		- **Planetary nebula** --> **white dwarf** (remaining compact core of low/average-mass star)
+			- White dwarf = highly compressed $C$ and $O_2$, **very dense**
+			- Some white dwarfs may give off a **nova**
+			- **Black dwarf** = white dwarf but no light production
+	- **Red supergiant** --> **supernova**
+		- Once dust of supernova clears --> **neutron star**
+		- **Pulsar** = rotating neutron stars, pulses of radiation at regular intervals (ms - s)
+		- If the red supergiant was very large, it may form a **black hole**
+	- Supernovae **form all elements** with more protons than $Fe$
+		- Most of elements found on Earth are remnants of supernovae
+		- 5 observed supernovae from Milky Way
+	- **What causes a supernova?**
+		- **Fusion** of $Fe$ uses up energy (Fusion of elements below $Fe$ **create energy**)
+		- Gravity > pressure
+		- Collapse of core results in supernova
+	- **Steps of supernova**
+		1. Fusion of $Fe$ consumes energy
+		2. Outward pressure from nuclear fusion weakens, gravity "wins"
+		3. Star's core collapses
+		4. Heavy elements created and spread
+		5. Either BH/pulsar is left behind
+- **Black Hole**
+	- Very dense place where not even light can escape
+![](Pasted%20image%2020230523203903.png)
 
+
+# 11e - HR Diagram, Star Life Cycle, Stellar Forces
+- **Luminosity** = amount of energy (light) that a star emits
+- **Absolute Magnitude** =  measure of how bright a star WOULD appear if it were a **certain distance** from Earth
+	- Depends on Luminosity
+- **Apparent Magnitude** = a measure of how bright the star DOES appear from Earth
+	- Depends on Luminosity and Distance
+- Generally, hotter stars = brighter
+
+- **HR / Hertzsprung-Russell diagram**
+	- **Theoretical HR diagram**
+		- X = temperature
+		- Y = luminosity
+	- **Color-magnitude diagram**
+		- X = color
+		- Y = absolute magnitude
 # Nuclear Fission and Fusion Reading
 - **Sun** = $H \rightarrow He$
 - **Fusion**

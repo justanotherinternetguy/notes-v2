@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "FantasqueSansM Nerd Font",
-  "textFontFamily": "FantasqueSansM Nerd Font",
-  "monospaceFontFamily": "FantasqueSansM Nerd Font",
-  "cssTheme": "Aura",
-  "baseFontSize": 16
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "cssTheme": "Encore",
+  "baseFontSize": 15
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/CS/ACSL/Finals Notes.md",
+                "file": "School/IGS/Unit 11 - Cosmology.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211
+    "width": 211,
+    "collapsed": true
   },
   "right": {
     "id": "9583448fb3926dc4",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/CS/ACSL/Finals Notes.md",
+                "file": "School/IGS/Unit 11 - Cosmology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/CS/ACSL/Finals Notes.md",
+                "file": "School/IGS/Unit 11 - Cosmology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/CS/ACSL/Finals Notes.md"
+                "file": "School/IGS/Unit 11 - Cosmology.md"
               }
             }
           }
@@ -156,12 +157,13 @@
   },
   "active": "5970e4598604d858",
   "lastOpenFiles": [
+    "Images/Pasted image 20230523203903.png",
+    "Home/CS/ACSL/Finals Notes.md",
     "Home/CS/ACSL/ACSL C4.md",
     "Images/Pasted image 20230522210331.png",
     "Images/Pasted image 20230522002641.png",
     "Images/Pasted image 20230522210339.png",
     "Images/Pasted image 20230522210345.png",
-    "Home/CS/ACSL/Finals Notes.md",
     "Images/Pasted image 20230522210308.png",
     "Images/Pasted image 20230522210153.png",
     "Images/Pasted image 20230522210203.png",
