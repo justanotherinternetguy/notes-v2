@@ -21,6 +21,7 @@
 		- $123^{\circ}C$ to $-233^{\circ}C$
 	- Earth's only natural satellite
 - **Terrestrial (Inner) vs. Jovian (Outer) Planets**
+
 |Inner|Outer|
 |-----|-----|
 |Made of $Fe$ and silicates|Made of $H$, $He$ (lighter elements), **no solid surfaces**|
@@ -68,7 +69,7 @@
 		- Atmosphere = None (Traces of $H$, $He$, $Na$, $K$)
 		- Rotates once on its axis every 60 days
 		- Revolves around sun every 88 days
-		- Axial tile = $0^{\circ}$
+		- Axial tilt = $0^{\circ}$
 		- Moons = None
 		- Rocks = Silicate and $Fe$
 		- Distance = 0.387 AU
@@ -404,6 +405,7 @@
 		5. Either BH/pulsar is left behind
 - **Black Hole**
 	- Very dense place where not even light can escape
+
 ![](Pasted%20image%2020230523203903.png)
 
 
@@ -422,6 +424,50 @@
 	- **Color-magnitude diagram**
 		- X = color
 		- Y = absolute magnitude
+![](Pasted%20image%2020230528194119.png)
+- The mass of the protostar determines:
+	- how long the protostar phase will last
+	- where the new-born star will land on the HRD
+	- the new-born star’s lifetime
+- O stars are most massive
+- M stars are least massive
+	- M type stars (low mass red stars) end up on the main sequence for the longest period of time
+- **Three main regions**
+	- **Main Sequence**
+		- Stars spend **90%** of their lives here
+		- $H \rightarrow He$
+		- **Red Giant and Supergiant**
+			- Low surface temperature and high luminosity
+			- $H$ is exhausted, **started to burn $He$**
+		- **White Dwarf**
+			- **Final** evolutionary stage
+			- Very hot but low luminosity
+			- Very dense
+			- 97% of our stars in the galaxy will become white dwarfs
+- Luminosity $\propto$ star size
+- Temperature $\propto$ star color
+- **Star's mass will determine it's life path**
+	- <0.08Ms = brown dwarf
+		- Not enough gravitational energy to reach a core of 107K
+		- No fusion
+		- **Stillborn**
+		- Emits infared radiation, cores made of $H$
+	- 0.08Ms - 2Ms = low mass
+	- 2Ms - 8Ms = intermediate mass
+	- >8Ms = high mass
+		- No stars are >150Ms
+	- Out of 100 stars, 89 are low, 10 are medium, 1 is high
+- **Red dwarf = 10 trillion years**
+- **MS = 10 billion years**
+- **Blue/White supergiant = few million years**
+
+- **Electron degeneracy pressure** = Force that keeps white dwarfs from collasping
+	- Electrons are negatively charged, so they will create a **repulsive force** and keep the white dwarf from **collapsing**
+- **Neutron degeneracy pressure** = Occurs when mass of collapsing **neutron star** is too great for electrons to exist anymore
+	- **Protons and electrons combine to form neutrons under VERY high pressure**
+	- Neutrons are able to be squeezed closer together b/c of their **neutral charge**
+- Not even neutron degeneracy pressure is able to stabilize the **black hole**
+
 # Nuclear Fission and Fusion Reading
 - **Sun** = $H \rightarrow He$
 - **Fusion**

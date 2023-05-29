@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/IGS/Unit 11 - Cosmology.md",
+                "file": "School/Antigone.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211,
-    "collapsed": true
+    "width": 211
   },
   "right": {
     "id": "9583448fb3926dc4",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IGS/Unit 11 - Cosmology.md",
+                "file": "School/Antigone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IGS/Unit 11 - Cosmology.md",
+                "file": "School/Antigone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/IGS/Unit 11 - Cosmology.md"
+                "file": "School/Antigone.md"
               }
             }
           }
@@ -157,6 +156,8 @@
   },
   "active": "5970e4598604d858",
   "lastOpenFiles": [
+    "School/IGS/Unit 11 - Cosmology.md",
+    "Images/Pasted image 20230528194119.png",
     "Images/Pasted image 20230523203903.png",
     "Home/CS/ACSL/Finals Notes.md",
     "Home/CS/ACSL/ACSL C4.md",
@@ -168,12 +169,9 @@
     "Images/Pasted image 20230522210153.png",
     "Images/Pasted image 20230522210203.png",
     "Images/Pasted image 20230522210201.png",
-    "Images/Pasted image 20230514004140.png",
-    "Images/Pasted image 20230514000220.png",
     "School/Spanish Grammar Master.md",
     "School/Antigone.md",
     "Home/CS/ACSL",
-    "School/IGS/Unit 11 - Cosmology.md",
     "School/IGS/Unit 10 - Climate Change and Human Activity.md",
     "Home/Scratchpad/HackMHS Postgresql Prep.md",
     "School/Math/Areas.md",
