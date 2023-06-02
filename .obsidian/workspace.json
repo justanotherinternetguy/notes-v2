@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cdac4c14e27d9215",
+        "id": "447f12e1211051d8",
         "type": "tabs",
         "children": [
           {
-            "id": "5970e4598604d858",
+            "id": "b1859308b416ec3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Antigone.md",
+                "file": "School/IGS/Unit 11 - Cosmology.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Antigone.md",
+                "file": "School/IGS/Unit 11 - Cosmology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Antigone.md",
+                "file": "School/IGS/Unit 11 - Cosmology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Antigone.md"
+                "file": "School/IGS/Unit 11 - Cosmology.md"
               }
             }
           }
@@ -154,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5970e4598604d858",
+  "active": "b1859308b416ec3b",
   "lastOpenFiles": [
+    "School/IGS/Unit 12 - Cosmology Pt. 2.md",
+    "School/Antigone.md",
     "School/IGS/Unit 11 - Cosmology.md",
     "Images/Pasted image 20230528194119.png",
     "Images/Pasted image 20230523203903.png",
@@ -170,7 +172,6 @@
     "Images/Pasted image 20230522210203.png",
     "Images/Pasted image 20230522210201.png",
     "School/Spanish Grammar Master.md",
-    "School/Antigone.md",
     "Home/CS/ACSL",
     "School/IGS/Unit 10 - Climate Change and Human Activity.md",
     "Home/Scratchpad/HackMHS Postgresql Prep.md",
@@ -198,7 +199,6 @@
     "Home/Math/AMC1012 Prep",
     "Home/Math",
     "School/Math",
-    "School/IGS/Untitled.md",
     "School/IGS/Unit 10 Fishbowl",
     "School/IGS",
     "School"
