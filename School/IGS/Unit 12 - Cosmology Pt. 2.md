@@ -1,0 +1,121 @@
+- **Cosmology** = Study of how the universe started, what it was made of, and how it changes
+- **Big Bang Theory**
+
+
+## The Big Bang
+- **15 Bya** = Single point = **Singularity**
+	- **Infinitely dense** and packed with matter
+- **13.8 Bya** = Birth of universe
+	- Occurs in a fraction of a second
+- Resulted in **matter, energy, space, and time**
+	- Everything expanded, temperature **dropped**
+- **Comic inflation** = Idea that the very early universe went through a period of **accelerated exponential expansion** during the first $10^{-43}$ of a second
+	- $10^{-43} = \text{Planck Second}$
+	- Time it took for the universe to expand from atom --> baseball
+		- $1\times 10^{-10} m$ to $0.075m$
+	- **Speed of expansion** = $7.5 \times 10^{41} m/s$
+
+## Timeline
+- $10^{-32}$ = Cosmic inflation Ends
+	- During inflation, it was **too hot** for **subatomic** particles to exist = no atoms
+- $10^{-6}$ = Protons form
+- $100s$ = Deuterium, $He$, $Li$ are synthesized
+- 300000 years = Universe cools
+	- **Cosmic Microwave Background** = Universe filled with **short-wavelength electromagnetic radiation** that would result in **long-wavelength radiation**
+- 100 million years = First stars
+	- **Most massive stars** = Short lifetimes, blue in color
+- 500 million year = Oldest galaxy
+- 4 billion years = Star formation peaks
+
+## Structure of Universe
+- Mostly empty (**void**)
+- **Filaments** = Places with relatively large masses (gravity)
+- **Stellar neighborhood** = Sun + surrounding stars
+	- **Proxima Centauri** = Closest star to Sun
+- **Galaxy** = Contains hundreds of billions of stars all collectively rotating around a central point of gravitation
+	- **Milky Way** = Supermassive BH
+- **Local cluster** = Cluster of few dozen galaxies
+- **Super cluster** = Dozens of local clusters
+	- **Virgo super cluster**
+- Universe contains hundreds of billions of galaxies
+
+## Milky Way
+- **13.6 By** old
+- **Barred-spiral**
+- **Sagittarius-A** (Supermassive BH)
+- **Orion's Arm** (2/3 of way from **center**)
+- 225 My to orbit Sagittarius-A
+![](Pasted%20image%2020230604014512.png)
+- **Bulge**
+	- OLD stars, gas, dust
+	- 10,000 LY across
+- **Disc**
+	- 100,000 LY across
+	- 1,000 LY thick
+	- YOUNG stars, gas, dust that are concentrated in spiral arms
+- **Halo**
+	- 130,000 LY across
+	- INDIVIDUAL stars and clusters of stars
+	- Dark matter
+	- Regions of galaxies where stars are **currently forming** = Bluer
+
+## Types of Galaxies
+![](Pasted%20image%2020230604014753.png)
+
+### Barred Spiral (SB*)
+- Rectangular bar in center
+- 2 Spiral arms
+
+### Spiral (S*)
+- 2+ spiral arms
+- No elongated center
+
+### Elliptical (E*)
+- Spherical to oblong
+- **Little** gas/dust, **few** new star formation
+- Object **do not** move in orderly fashion = **Many** stellar collisions
+
+### Lenticular (S0)
+- Hybrid between spiral and elliptical
+- Central bulge + some stars in a hallo
+- **No** spiral arms
+
+### Irregular
+- No defined shape
+
+### Peculiar
+- Results from **collision** of two smaller galaxies
+- **Active** galactic nuclei
+
+## Hubble Classification
+![](Pasted%20image%2020230604015102.png)
+- **Erroneously** believed to be the "evolution" of galaxies
+- Actually, galaxies **rarely** change their shape
+
+## Galactic Nuclei
+- Centers of galaxies can be active (light is being emitted near the center)
+	- Happens in **younger** galaxies
+- **Inactive**
+
+## Active Galactic Nuclei
+- **Quasar**
+	- BH's that "eat" nearby stars
+	- Found in young galaxies b/c there are still stars close enough to be **accreted** into BH
+	- As matter is pulled it, matter and energy gets **ejected** in "jets"
+	- Emits **UV** radiation
+	- **Brighter** than Seyferts
+	- **Far away** from MW
+		- Tend to be found in **older** galaxies
+- **Seyferts**
+	- 10% of galaxies
+	- **Spiral** galaxies
+	- Younger than quasars
+
+## Spectroscopy
+- All atoms of the **same neutral element** has the **same number of electrons**
+- With the same number of electrons, these atoms have the **same electron configuration**, giving them a **specific pattern** when they absorb/emit light
+- **Spectroscopy** = Analysis of the patterns of light when atoms emit/absorb light
+- No two elemental spectra are the same
+- **Studying Hydrogen**
+	- **Hydrogen-Alpha HII Line**
+	- ONLY EMISSION LINES
