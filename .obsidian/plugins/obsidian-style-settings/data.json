@@ -28,5 +28,8 @@
   "aura@@aura-card-layout-fileexplorer": true,
   "aura@@aura-css-classes": true,
   "aura@@aura-callouts-select": "aura-callouts-sleek",
-  "aura@@aura-rainbow-folders": false
+  "aura@@aura-rainbow-folders": false,
+  "shiba-theme-settings@@shiba-colors-theme-light": "default-light-theme",
+  "shiba-theme-settings@@shiba-colors-theme-dark": "pure-dark",
+  "shiba-theme-settings@@shiba-accent-colors": "accent-lemon"
 }

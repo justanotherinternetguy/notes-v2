@@ -1,0 +1,73 @@
+- Understand the ways people communicate through language --> Need to understand the basic elements involved in rhetoric
+	- Who/What/Why/How/When of the communication
+- **Elements of the Rhetorical Situation**
+	- Author/Speaker
+		- Without this, the text would not exist
+		- Author brings a range of knowledge, experience, values, beliefs, and biases to the text
+		- Author's background influence how they communicate
+		- Helps to contextualize an argument
+		- Where were they born?
+		- Where did they grow up?
+		- What was their childhood like?
+		- What is their job?
+		- How old are they?
+		- How do they identify in terms of race, ethnicity, religion, gender, sexuality, socioeconomic status, and ability status?
+		- What are their hobbies?
+		- What are their passions?
+		- Who are their friends?
+		- Who are their parents?
+		- Have they received any awards or honors?
+		- Have they been involved in any major conflicts?
+	- Purpose
+		- What the author wants to happen as a result of the text
+		- Inform, Entertain, Persuade, Argue, Describe, Explain
+	- Message
+		- Similar to purpose
+		- What the author wants the audience to think/consider/believe as a result of the text
+			- **Not** related to a specific action of task
+		- Can be embedded in the purpose
+			- Purpose is to argue something
+			- Message is that "something" that is being argued
+		- Purpose can also be to persuade others to do something while the message is *why* one should do it
+	- Context
+		- What was occurring when the piece was written
+		- Current vs. Historical context
+			- Current
+				- what was occurring when the piece was written
+			- Historical
+				- any important information an author’s work is commenting on or informed by that is not part of their personal life or happened as recently as a year earlier
+	- Exigence
+		- What caused the person to create the text ("why now?")
+		- What specific event or situation prompted the speaker to create this text? 
+		- Did someone invite them to speak at an event? 
+		- Did a specific event need to be reported on?
+	- Audience
+		- Target audience = The audience the author had in mind
+		- Extended audience = All of the people the text ends up reaching that the author **never anticipated**
+		- Who is the author trying to reach, and how do you know? 
+		- Who is the author speaking to?
+		- Where is this published, and who is likely to access this journal, book, news source, website, etc.?
+		- What might be the audience’s identities, beliefs, needs, and interests?
+- Reading: https://www.poetryfoundation.org/harriet-books/2016/04/language-is-migrant
+	- Author/Speaker
+		- Speaks Spanish
+		- Born/Grew up in Chile
+		- Visual, literary, and performance artist
+		- Started career at 24
+		- Well-known enough to be studied by scholars
+		- Feminist, advocate for indigenous communities and traditions
+		- She has been in exile from Chile since the 1970s
+	- Purpose
+		- Articulated clearly towards the end of essay - Argues that language has the power to make people intolerant of injustice
+	- Message
+		- We can consider Cecilia Vicuna's message as "language has the power to make people intolerant of injustice," as that is something she wants her audience to understand, but we can also find other messages in this piece. When she encourages readers to consider "our own indifference, our complicity,"" another message emerges: we are all responsible for caring about and fighting against injustice
+	- Context
+		- Mentions “drones, flying robots,” “new digital languages,” and “virtual reality mask”
+		- Makes it clear that she is writing in the contemporary period as technology advances rapidly
+		- Historical
+			- Spatially and emotionally affected by recent history
+				- Chile's history of conquest by the Spanish
+				- Political shift and unrest in Chile in her lifetime
+			- We know that Vicuna's home changed forcibly as a result of political changes
+	- Exigence
+		- Negative discussions around migrants at time of writing (March 2016) - Donald Trump
