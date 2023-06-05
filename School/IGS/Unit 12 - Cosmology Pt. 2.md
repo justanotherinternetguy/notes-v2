@@ -119,3 +119,51 @@
 - **Studying Hydrogen**
 	- **Hydrogen-Alpha HII Line**
 	- ONLY EMISSION LINES
+
+
+# General Relativity
+- Special Relativity only applied to observers moving in a straight line at a constant speed
+	- Did not apply if gravity was present
+- Einstein wondered what would happen if a window washer would fall
+	- What would the window washer experience when **he was falling**
+		- A person being in free-fall is the same as being in space (weightless)
+		- Was able to connect gravity to special relativity with the theory of acceleration
+- You are in a room w/ no windows and a bathroom scale
+	- Stationary on Earth = Your actual weight
+	- Room inside of rocket in space accelerating at the speed of gravity ($9.8m/s^2$) = Your actual weight
+- *Is there a way to tell the difference between acceleration and gravity?*
+	- Take a laser beam and point it at one side of the room to another on the accelerating spaceship
+	- The height of the laser point on the other side of the room would be slightly lower
+	- **Light beam would appear to cuve downward**
+	- What if you did the same on Earth? *The acceleration in the spaceship should be no different than gravity on Earth*
+	- **LIGHT MUST BEND IN THE PRESENCE OF GRAVITY**
+	- Shortest path between two points on Earth is always curved
+	- **In the presence of mass and energy, space is curved...Light must take a curved path in space as well**
+- Newtonian physics at the time believed time and space were **fixed**
+- Einstein = Gravity **emerges** from the interaction between space and matter
+> *"Space-time tells matter how to move, Matter tells space-time how to curve."*
+
+- Solves **Mercury's** orbit
+	- Mercury had a **precession** orbit
+- General Relativity would predict Mercury's precession
+![](Pasted%20image%2020230605145021.png)
+
+- Actual position of stars appear to be different than their predicted locations
+- **As light passes near the Sun, it is bent b/c of the curvature of gravity**
+![](Pasted%20image%2020230605145219.png)
+
+- Speed of light in presence of gravity is **equal** to speed of light in empty space
+	- Due to the curvature of space, the distance is longer.
+	- **THEREFORE TIME ITSELF MUST PASS SLOWER**
+- Time travels **slower** in presence of gravitational mass
+	- Clocks on Earth are slower than clocks on ISS
+- General Relativity fails at the singularity of a BH
+- Relativity is incompatible with quantum mechanics --> Quantum gravity theory
+
+# [READING] - The Universe
+- **Galaxies** = Large groups of stars, dust, and gases held together by gravity
+	- $\approx$ 400 billion stars in Milky Way alone
+- **Disk** is **100,000** light years wide and **10,000** light years thick
+	- At the center lies the constellation Sagittarius
+![](Pasted%20image%2020230605181607.png)
+- MW studied thru **electromagnetic radiation**
