@@ -1,5 +1,8 @@
 [
   "obsidian-linter",
-  "cm-typewriter-scroll-obsidian",
-  "obsidian-style-settings"
+  "obsidian-kanban",
+  "calendar",
+  "table-editor-obsidian",
+  "obsidian-style-settings",
+  "obsidian-tasks-plugin"
 ]

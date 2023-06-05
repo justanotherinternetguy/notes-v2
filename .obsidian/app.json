@@ -1,14 +1,10 @@
 {
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
   "vimMode": true,
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "Images",
   "showUnsupportedFiles": true,
-  "showFrontmatter": true,
-  "strictLineBreaks": true,
-  "showLineNumber": true,
-  "spellcheck": true,
-  "spellcheckLanguages": [
-    "en-US",
-    "es-MX"
-  ]
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "Images"
 }

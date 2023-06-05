@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "",
-  "textFontFamily": "",
-  "monospaceFontFamily": "",
-  "cssTheme": "Vibrant",
-  "baseFontSize": 15
+  "interfaceFontFamily": "Iosevka Nerd Font",
+  "textFontFamily": "Iosevka Nerd Font",
+  "monospaceFontFamily": "Iosevka Nerd Font",
+  "baseFontSize": 18,
+  "cssTheme": "Vibrant"
 }

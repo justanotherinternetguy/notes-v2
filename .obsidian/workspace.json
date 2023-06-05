@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "fce8f0c05695a4bb",
+    "id": "bbe8fdd7e4bb18e9",
     "type": "split",
     "children": [
       {
-        "id": "c20d0271f81e21f2",
+        "id": "089805dcce642370",
         "type": "tabs",
         "children": [
           {
-            "id": "b3dbcd6c6e67dd0a",
+            "id": "bb1ae6d5b809796e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b9f62bae4e9f1e3f",
+    "id": "3cb24fa8f5f07ff7",
     "type": "split",
     "children": [
       {
-        "id": "bad1eef2ec6cf3df",
+        "id": "5ee3d3018c36f992",
         "type": "tabs",
         "children": [
           {
-            "id": "e732b784fb5083d3",
+            "id": "24bb397ba7be8a92",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "d6bd7dc54e9a31f0",
+            "id": "846482cddd0d9ee0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,15 +58,7 @@
             }
           },
           {
-            "id": "b2010d3a7d45a574",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "8951f1c1d022dc2b",
+            "id": "3d02e6e61c309fd8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,18 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211
+    "width": 300
   },
   "right": {
-    "id": "9583448fb3926dc4",
+    "id": "32fa43d6c187e79b",
     "type": "split",
     "children": [
       {
-        "id": "054709bfb8892d60",
+        "id": "0c11871281427694",
         "type": "tabs",
         "children": [
           {
-            "id": "93f95e5669954f11",
+            "id": "e7065a6da4d65d2e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -105,7 +97,7 @@
             }
           },
           {
-            "id": "df67c6d5df939dbe",
+            "id": "fa123b5fd336fc0f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -117,7 +109,7 @@
             }
           },
           {
-            "id": "2cd9f86e997fa652",
+            "id": "a3227a9c78402e51",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,7 +120,7 @@
             }
           },
           {
-            "id": "cb19eebc044c9b1e",
+            "id": "e0cd8f9f127675ca",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -136,12 +128,20 @@
                 "file": "School/IGS/Unit 12 - Cosmology Pt. 2.md"
               }
             }
+          },
+          {
+            "id": "761a5107ad678639",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 205,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -151,57 +151,10 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b3dbcd6c6e67dd0a",
-  "lastOpenFiles": [
-    "Images/Pasted image 20230605181607.png",
-    "Images/Pasted image 20230605145219.png",
-    "Images/Pasted image 20230605145021.png",
-    "Images/Pasted image 20230604015102.png",
-    "Images/Pasted image 20230604015315.png",
-    "School/IGS/Unit 12 - Cosmology Pt. 2.md",
-    "Images/Pasted image 20230604014753.png",
-    "Images/Pasted image 20230604014512.png",
-    "Home/CTY/AP Lang/Lesson 1.1 - The Rhetorical Situation.md",
-    "Home/CTY/AP Lang/1.2.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Home/MiscScience/Other Notes.md",
-    "Home/CTY/AP Lang",
-    "Home/Chinese Cultural Presentation.md",
-    "Home/Scratchpad/Untitled.md",
-    "Home/Scratchpad/Sleep.md",
-    "Home/Scratchpad/HackMHS Postgresql Prep.md",
-    "Home/CTY",
-    "School/Antigone.md",
-    "School/IGS/Unit 11 - Cosmology.md",
-    "Images/Pasted image 20230528194119.png",
-    "Images/Pasted image 20230523203903.png",
-    "Home/CS/ACSL/Finals Notes.md",
-    "Home/CS/ACSL/ACSL C4.md",
-    "Images/Pasted image 20230522210331.png",
-    "Images/Pasted image 20230522002641.png",
-    "School/Spanish Grammar Master.md",
-    "Home/CS/ACSL",
-    "School/IGS/Unit 10 - Climate Change and Human Activity.md",
-    "School/Math/Areas.md",
-    "School/Math/Polygons.md",
-    "Home/Untitled.md",
-    "Home/Scratchpad",
-    "Ch6 - A Tour of the Cell.md",
-    "Home/CS",
-    "Home/Calculus/Ch3 - Derivatives.md",
-    "Home/Physics/Ch2 - 1D Kinematics.md",
-    "Home/Physics/Physics Master Notes.md",
-    "Home/Biology/Campbell/Ch5 - Large Biological Molecules.md",
-    "Home/Biology/Campbell/Ch26 - Phylogeny and the Tree of Life.md",
-    "Images",
-    "Untitled.canvas",
-    "Home/Math/AMC1012 Prep",
-    "Home/Math",
-    "School/Math",
-    "School/IGS/Unit 10 Fishbowl"
-  ]
+  "active": "bb1ae6d5b809796e",
+  "lastOpenFiles": []
 }
