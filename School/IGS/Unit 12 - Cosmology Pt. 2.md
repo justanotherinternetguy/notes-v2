@@ -17,6 +17,7 @@
 ## Timeline
 - $10^{-43}$ = Planck Second
 	- Universe expands from atom to grapefruit
+	- Period of greatest inflation
 - $10^{-32}$ = Cosmic inflation Ends
 	- During inflation, it was **too hot** for **subatomic** particles to exist = no atoms
 - $10^{-6}$ = Protons + Neutrons form
@@ -26,6 +27,7 @@
 - 100 million years = First stars
 	- **Most massive stars** = Short lifetimes, blue in color
 - 500 million year = Oldest galaxy
+- 600 million = mw
 - 4 billion years = Star formation peaks
 - 13.8 billion years = Present day
 
@@ -49,12 +51,12 @@
 - 225 My to orbit Sagittarius-A
 ![](Pasted%20image%2020230604014512.png)
 - **Bulge**
-	- OLD stars, gas, dust
+	- OLD stars, gas, dust (red)
 	- 10,000 LY across
 - **Disc**
 	- 100,000 LY across
 	- 1,000 LY thick
-	- YOUNG stars, gas, dust that are concentrated in spiral arms
+	- YOUNG stars, gas, dust that are concentrated in spiral arms (yellow)
 - **Halo**
 	- 130,000 LY across
 	- INDIVIDUAL stars and clusters of stars
@@ -66,6 +68,8 @@
 ## Types of Galaxies
 ![](Pasted%20image%2020230604014753.png)
 
+- Blue galaxy = lots of recently made stars
+- Red galaxy = hasn't produced new stars in a while
 ### Barred Spiral (SB*)
 - Rectangular bar in center
 - 2 Spiral arms
@@ -78,6 +82,7 @@
 - Spherical to oblong
 - **Little** gas/dust, **few** new star formation
 - Object **do not** move in orderly fashion = **Many** stellar collisions
+- (Smallest) Dwarf Elliptical = Most common galaxy
 
 ### Lenticular (S0)
 - Hybrid between spiral and elliptical
@@ -111,6 +116,7 @@
 	- **Far away** from MW
 		- Tend to be found in **older** galaxies
 - **Seyferts**
+	- Are more common than quasars
 	- 10% of galaxies
 	- **Spiral** galaxies
 	- Younger than quasars
@@ -124,6 +130,7 @@
 - **Studying Hydrogen**
 	- **Hydrogen-Alpha HII Line**
 	- ONLY EMISSION LINES
+- When reading: Look at reddest/bluest most line
 
 ## Doppler Effect
 - Red = Moving away (most galaxies are red shifted)
