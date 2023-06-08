@@ -1,10 +1,10 @@
 {
   "big-and-bold-theme@@custom-line-height": 1.5,
   "big-and-bold-theme@@icon-style": "icon-circle",
-  "big-and-bold-theme@@theme-select-dark": "theme-spectre",
+  "big-and-bold-theme@@theme-select-dark": "theme-black",
   "big-and-bold-theme@@page-shadow": true,
   "big-and-bold-theme@@highlight-active-line": true,
   "big-and-bold-theme@@enable-bg-img": true,
   "big-and-bold-theme@@page-transparency-custom": 40,
-  "big-and-bold-theme@@img-bg": "url('https://images.wallpaperscraft.com/image/single/magician_dragon_art_131303_1280x720.jpg')"
+  "big-and-bold-theme@@img-bg": "url('https://images.unsplash.com/photo-1533134486753-c833f0ed4866?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80')"
 }
