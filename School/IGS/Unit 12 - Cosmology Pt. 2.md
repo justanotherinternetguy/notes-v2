@@ -1,7 +1,6 @@
 - **Cosmology** = Study of how the universe started, what it was made of, and how it changes
 - **Big Bang Theory**
 
-
 ## The Big Bang
 - **15 Bya** = Single point = **Singularity**
 	- **Infinitely dense** and packed with matter
@@ -16,16 +15,19 @@
 	- **Speed of expansion** = $7.5 \times 10^{41} m/s$
 
 ## Timeline
+- $10^{-43}$ = Planck Second
+	- Universe expands from atom to grapefruit
 - $10^{-32}$ = Cosmic inflation Ends
 	- During inflation, it was **too hot** for **subatomic** particles to exist = no atoms
-- $10^{-6}$ = Protons form
-- $100s$ = Deuterium, $He$, $Li$ are synthesized
-- 300000 years = Universe cools
+- $10^{-6}$ = Protons + Neutrons form
+- $100s$ = Deuterium, $He$, $Li$ are synthesized through fusion
+- 300,000 years = Universe cools
 	- **Cosmic Microwave Background** = Universe filled with **short-wavelength electromagnetic radiation** that would result in **long-wavelength radiation**
 - 100 million years = First stars
 	- **Most massive stars** = Short lifetimes, blue in color
 - 500 million year = Oldest galaxy
 - 4 billion years = Star formation peaks
+- 13.8 billion years = Present day
 
 ## Structure of Universe
 - Mostly empty (**void**)
@@ -115,10 +117,43 @@
 - All atoms of the **same neutral element** has the **same number of electrons**
 - With the same number of electrons, these atoms have the **same electron configuration**, giving them a **specific pattern** when they absorb/emit light
 - **Spectroscopy** = Analysis of the patterns of light when atoms emit/absorb light
-- No two elemental spectra are the same
+- No two elemental spectra are the same (fingerprints)
 - **Studying Hydrogen**
 	- **Hydrogen-Alpha HII Line**
 	- ONLY EMISSION LINES
+
+## Doppler Effect
+- Red = Moving away (most galaxies are red shifted)
+- Blue = Moving towards (Andromeda is blue shifted)
+- Allows us to determine the relative motion of galaxies compared to us
+
+## Cepheid Variables
+- Distance to **nearby galaxies**
+- **Cepheid variables** = Type of star regular cycles of brightness and luminosity (pulsates, varies in diameter and temperature)
+- Brighter the cepheid = Longer cycle of brightness/dimness (solar cycle = 11 years)
+
+## Hubble's Law
+- Comparing the HII rest spectra to the actual HII spectra of the galaxy lets us calculate **red shift**
+- ***GALAXIES FARTHER AWAY ARE MOVING AWAY FROM US FASTER***
+- Accelerated expansion of universe
+- Galaxies are expanding/retreating away at a speed that is **proportional** to their distance = *Farthest galaxies are moving away the fastest*
+- Used to determine distances of galaxies **far away**
+
+## Stellar Parallax
+-  Measure distance to very close objects
+![](Pasted%20image%2020230607182727.png)
+
+## Measure mass of galaxies
+- Based on orbital motion of stars
+- More massive galaxies --> More gravitational pull --> **Stars orbit faster**
+- Gravity is dependent on **mass and distance**
+
+## Dark Matter
+- Majority of mass in the universe is **invisible**
+- Unable to be **detected**
+- Determined there wasn't enough **observable mass** in a galaxy to explain fast rotational speed of stars
+- **Fundamental particles** that have not been previously detected
+
 
 
 # General Relativity
@@ -167,3 +202,46 @@
 	- At the center lies the constellation Sagittarius
 ![](Pasted%20image%2020230605181607.png)
 - MW studied thru **electromagnetic radiation**
+	- At least **3** distinct spiral arms
+	- Solar system is 2/3 **from center (galactic nucleus)** = 30,000 light years
+	- Outward part of arms are **slowest**
+	- Solar system orbits the nucleus every **230 million years**
+	- Two large bubbles of **gamma radiation** emitted from top/bottom of nucleus
+- **Halo**
+	- Nearly round halo of **thin gas and star clusters** that surround the **galactic disk**
+	- Star cluster **do not** rotate around the nucleus
+		- They have their own orbits that carry them through the disk
+
+- **Types of galaxies**
+	- **(Barred) Spiral**
+		- Outermost stars in the arms rotate most slowly
+		- 10% of all galaxies are **barred**
+		- 20% are **spiral**
+		- Youngest stars in the arms
+	- **Elliptical (60%)**
+		- Round to oval
+		- **Largest known galaxies (D=200,00+ ly)** are elliptical
+		- Can give birth to new stars
+		- Composed of mostly old stars
+	- **Irregular (10%)**
+		- Large and small Magellanic Clouds
+		- **Nearest** galactic neighbors (150,000 light years away) (Canis Major Dwarf - 250,00)
+		- Young stars
+
+- **Galactic clusters (Local Group)**
+	- Galaxies are found in groups
+	- 28 galaxies in LG
+		- 3 S
+		- 11 Irr
+		- 14 E
+	- Clusters --> Supercluster --> Filament
+
+- **Quasar**
+	- **Must have existed when universe was YOUNG**
+	- Emit huge amounts of radiation
+	- Massive black holes in the center of young galaxies
+	- Very bright and far away
+
+- **Hubble's Law**
+	- Galaxies are expanding/retreating away at a speed that is **proportional** to their distance = *Farthest galaxies are moving away the fastest*
+	- Red shifts of distant galaxies

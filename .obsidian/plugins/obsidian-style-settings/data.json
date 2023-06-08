@@ -1,0 +1,10 @@
+{
+  "big-and-bold-theme@@custom-line-height": 1.5,
+  "big-and-bold-theme@@icon-style": "icon-circle",
+  "big-and-bold-theme@@theme-select-dark": "theme-spectre",
+  "big-and-bold-theme@@page-shadow": true,
+  "big-and-bold-theme@@highlight-active-line": true,
+  "big-and-bold-theme@@enable-bg-img": true,
+  "big-and-bold-theme@@page-transparency-custom": 40,
+  "big-and-bold-theme@@img-bg": "url('https://images.wallpaperscraft.com/image/single/magician_dragon_art_131303_1280x720.jpg')"
+}
