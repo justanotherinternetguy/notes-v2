@@ -60,6 +60,8 @@
 	- INDIVIDUAL stars and clusters of stars
 	- Dark matter
 	- Regions of galaxies where stars are **currently forming** = Bluer
+- Spiral arms = New star formation 
+- Oldest stars = Halo + Central bulge
 
 ## Types of Galaxies
 ![](Pasted%20image%2020230604014753.png)
@@ -112,6 +114,7 @@
 	- 10% of galaxies
 	- **Spiral** galaxies
 	- Younger than quasars
+	- (Still unusually bright!)
 
 ## Spectroscopy
 - All atoms of the **same neutral element** has the **same number of electrons**
@@ -140,7 +143,7 @@
 - Used to determine distances of galaxies **far away**
 
 ## Stellar Parallax
--  Measure distance to very close objects
+-  Measure distance to very close objects (stars, globular clusters)
 ![](Pasted%20image%2020230607182727.png)
 
 ## Measure mass of galaxies
@@ -154,7 +157,11 @@
 - Determined there wasn't enough **observable mass** in a galaxy to explain fast rotational speed of stars
 - **Fundamental particles** that have not been previously detected
 
-
+## Dark Energy
+- Hypothetical form of energy that exerts a **negative, repulsive pressure**
+	- **Opposite of gravity**
+- Inferred from observation
+![](Pasted%20image%2020230607214715.png)
 
 # General Relativity
 - Special Relativity only applied to observers moving in a straight line at a constant speed
@@ -195,6 +202,55 @@
 - General Relativity fails at the singularity of a BH
 - Relativity is incompatible with quantum mechanics --> Quantum gravity theory
 
+- **Conclusions**
+	- Time is RELATIVE
+		- Depends on FRAME OF REFERENCE
+	- Faster = Time is slower
+	- NOTHING with MASS can reach speed of light
+
+## Gravitational Lensing
+- Mass bending light
+- Gravitational field will cause light rays to bend and refocus
+![](Pasted%20image%2020230607215157.png)
+
+
+## Black Hole
+![](Pasted%20image%2020230607215530.png)
+![](Pasted%20image%2020230607220003.png)
+
+
+
+## Hawking Radiation
+- Make virtual particles become "real", causing BHs to lose energy and "evaporate"
+- Under usual circumstances
+	- Particles + Antiparticles are crated and annihilated so quickly that they cannot be observed = "Virtual" particles
+- When a particle + antiparticle attempts to meet at the event horizon of a BH, the **antiparticle** is **pulled into the BH**
+	- The particle escapes as **Hawking Radiation**
+- The absorbed antiparticle takes energy away from the BH, causing it to slowly evaporate
+
+
+## Fate of the Universe
+- **Friedmann Universe Theory**
+	- Future is determined **only** by average density
+	- **Critical density: ** $10^{-26} kg/m^3$ $\approx$ 10 $H$ atoms/$m^3$
+	- If universe density > critical density
+		- Self-gravity slows expansion until it stops and re-collapses
+	- If universe density < critical density (currently)
+		- Universe will continue expanding
+![](Pasted%20image%2020230607222437.png)
+
+## Future
+- Protons will eventually **decay** with a half life of $10^{32}$ years
+- **Entropy**
+	- More disorder
+- **Universe will eventually exist as a random cloud of gas, dust, and elementary particles.**
+
+![](Pasted%20image%2020230607222724.png)
+![](Pasted%20image%2020230607222737.png)
+
+
+
+
 # [READING] - The Universe
 - **Galaxies** = Large groups of stars, dust, and gases held together by gravity
 	- $\approx$ 400 billion stars in Milky Way alone
@@ -214,6 +270,7 @@
 
 - **Types of galaxies**
 	- **(Barred) Spiral**
+		- **Most galaxies are spiral**
 		- Outermost stars in the arms rotate most slowly
 		- 10% of all galaxies are **barred**
 		- 20% are **spiral**
