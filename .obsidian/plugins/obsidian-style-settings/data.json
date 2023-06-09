@@ -5,6 +5,6 @@
   "big-and-bold-theme@@page-shadow": true,
   "big-and-bold-theme@@highlight-active-line": true,
   "big-and-bold-theme@@enable-bg-img": true,
-  "big-and-bold-theme@@page-transparency-custom": 40,
-  "big-and-bold-theme@@img-bg": "url('https://images.unsplash.com/photo-1533134486753-c833f0ed4866?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80')"
+  "big-and-bold-theme@@page-transparency-custom": 65,
+  "big-and-bold-theme@@img-bg": "url('https://images.unsplash.com/photo-1509565840034-3c385bbe6451?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2532&q=80')"
 }
