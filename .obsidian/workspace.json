@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "089805dcce642370",
+        "id": "8da8f99c2b8f3cc4",
         "type": "tabs",
         "children": [
           {
-            "id": "bb1ae6d5b809796e",
+            "id": "26c05b096c0b47cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "32fa43d6c187e79b",
@@ -155,26 +156,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24bb397ba7be8a92",
+  "active": "26c05b096c0b47cc",
   "lastOpenFiles": [
+    "Images/Pasted image 20230610110035.png",
+    "Images/Pasted image 20230610103607.png",
+    "Images/Pasted image 20230610095054.png",
+    "School/IGS/Untitled 1.md",
+    "School/IGS/IGS Finals.md",
+    "School/IGS/Untitled.md",
+    "Images/Pasted image 20230609214647.png",
+    "Images/IGS Acc Finals Topics List 2 2023.pdf",
+    "Images/Pasted image 20230609212740.png",
+    "Images/Pasted image 20230609210152.png",
+    "Images/Pasted image 20230608183024.png",
+    "Images/Pasted image 20230609205859.png",
     "School/IGS/Unit 10 - Climate Change and Human Activity.md",
     "School/IGS/Unit 11 - Cosmology.md",
-    "School/IGS/IGS Finals.md",
     "School/IGS/Pasted image 20230511211105.png",
     "School/IGS/Pasted image 20230507144855.png",
     "Home/Physics/AP C/Week 1.md",
     "Home/Physics/AP C/Untitled 1.md",
     "Home/Physics/AP C/Untitled.md",
-    "Images/Pasted image 20230608183024.png",
     "Images/Pasted image 20230608182745.png",
-    "Images/Pasted image 20230608182340.png",
     "School/IGS/Unit 12 - Cosmology Pt. 2.md",
     "Home/Physics/AP C",
-    "Home/Physics",
-    "Images/Pasted image 20230607222737.png",
-    "Images/Pasted image 20230607222724.png",
-    "Images/Pasted image 20230607222437.png",
-    "Images/Pasted image 20230607220003.png",
-    "Images/Pasted image 20230607215530.png"
+    "Home/Physics"
   ]
 }

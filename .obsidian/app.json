@@ -7,5 +7,6 @@
   "newFileLocation": "current",
   "newLinkFormat": "shortest",
   "attachmentFolderPath": "Images",
-  "focusNewTab": true
+  "focusNewTab": true,
+  "showLineNumber": true
 }

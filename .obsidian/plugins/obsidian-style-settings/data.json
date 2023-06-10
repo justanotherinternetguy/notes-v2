@@ -6,5 +6,11 @@
   "big-and-bold-theme@@highlight-active-line": true,
   "big-and-bold-theme@@enable-bg-img": true,
   "big-and-bold-theme@@page-transparency-custom": 65,
-  "big-and-bold-theme@@img-bg": "url('https://images.unsplash.com/photo-1509565840034-3c385bbe6451?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2532&q=80')"
+  "big-and-bold-theme@@img-bg": "url('https://images.unsplash.com/photo-1509565840034-3c385bbe6451?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2532&q=80')",
+  "CG@@CG-workspace-background-image": "CG-workspace-background-image-obsidianbg",
+  "mado-miniflow@@theme-color": "theme-deep-blue",
+  "mado-miniflow@@toggle-wave-background": false,
+  "mado-miniflow@@toggle-note-radius": true,
+  "mado-miniflow@@toggle-tab-design": true,
+  "mado-miniflow@@toggle-tab-height": true
 }
