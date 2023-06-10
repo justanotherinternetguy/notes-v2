@@ -127,7 +127,63 @@ $$\text{Avogadro's Number} = 6.022 \times 10^{23} \text{particles}$$
 
 ## Solubility Graph/Curve
 - Graphs that display the **maximum** amount of solute dissolvable in an amount of solution at a particular temperature
+- **Saturated**
+	- T/S lands on the curve
+	- If any more solute is added, a **precipitate will form**
+- **Unsaturated**
+	- T/S is below curve
+	- Still possible to add more solute
+- **Supersaturated**
+	- T/S is above the curve
+	- More solute than there should be
+	- Achieved by saturating a solvent at a higher temperature and then cooling the solution down
+	- You can recrystallize supersaturated solutions by adding a **seed crystal**
 
+## Solubility and the Ocean
+- Ocean absorbs 50% of carbon emissions and has absorbed 90% of the increased heat due to global warming
+	- As the ocean warms...
+		- It absorbs more salts and chemicals that will **harm marine life**
+		- Leaks $CO_2$ from oceans
+			- Increased melting sea ice dredges $CO_2$-rich deep ocean waters to the surface
+			- $CO_2$ is a gas, so it becomes less soluble at higher temperatures (fizzy soda)
+## Temperature and the Ocean
+- Denser water sinks, less dense water rises
+- **Global Conveyor Belt/Thermohaline Circulation**
+	- Warm salty water sinks
+	- Cycles nutrients
+	- 1000 years
+	- TC will **slow down** in the 21st century but will not undergo an abrupt transition
+	- Slowing will have a minor **cooling effect**
+
+## Molarity (Molar Concentration) (M)
+- Number of moles of solute/Liters of solution
+$$\text{Molarity} = \frac{\text{mol solute}}{\text{L of solution}}$$
+- M > 1 = Concentrated
+- M < 1 = Diluted
+
+$$M_1V_1 = M_2V_2$$
+- $M_1$ = Original molarity
+- $V_1$ = Original volume
+- $M_2$ = Diluted molarity
+- $V_2$ = Total final volume
+
+![](Pasted%20image%2020230610111822.png)
+
+## Percent Mass
+$$\text{Percent Mass} = \frac{\text{Mass of Solute}}{\text{Mass of ENTIRE Solution}} \times 100$$
+
+## PPM
+- `x` grams of solute per 1,000,000 g solution
+- The same goes with PPB
+$$\frac{\text{ppm}}{10,000} = \text{Percent Mass}$$
+- Do NOT need to convert percent mass into a decimal
+
+## Saturation vs. Concentration
+- NO RELATIONSHIP
+- **Saturation** = Maximum amount of a solute able to dissolve in a given amount of solvent at a certain temperature
+	- Dependent on **amount** and **type** of solute
+- **Concentration** = Description of how much solvent compared to amount solute
+	- Only dependent on **amount** of solute
 
 
 
@@ -204,7 +260,8 @@ $$\text{Avogadro's Number} = 6.022 \times 10^{23} \text{particles}$$
 	- Precipitation = G --> L = Return of water to ground
 	- Evapotranspiration = Combined release of water from surface bodies of water, evaporation in soil, and transpiration from plants
 - **Freshwater**
-	- 
+
+
 # Unit  9
 # Unit 10
 # Unit 11
