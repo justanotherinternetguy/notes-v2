@@ -1,5 +1,36 @@
-# Previou Chemistry Review
+# Previous Chemistry Review
 - **Diatomics** = **Br I N Cl H O F**
+
+## Naming
+
+- **Ionic**
+	- Cation (Metal) + [Anion (Nonmetal)-ide]
+		- Sodium Chloride (NaCl)
+		- Lithium Floride (LiF)
+	- **Transition Metals + Lead + Tin**
+		- Zn = +2
+		- Ag = +1
+		- Cd = +2
+		- Add a **roman numeral** to name the element to indicate charge
+		- Cobalt (II) chloride ($CoCl_2$)
+		- Silver nitride ($Ag_3N$)
+	- **Polyatomic**
+		- Ion composed of 2+ atoms that are **covalently bonded**
+		- Lead (IV) carbonate ($Pb(CO_3)_2$)
+	- **Peroxide**
+		- Peroxides:
+			- $Na_2O_2$
+			- $MgO_2$
+			- $UO_2$ (can be both)
+- **Covalent**
+	- [(2+) + Element] + [(1+) + Element-ide]
+		- Dinitrogen Pentoxide ($N_2O_5$)
+		- Chlorine Trioxide ($ClO_3$)
+
+## Bond Polarity
+- <0.4 = Nonpolar covalent
+- 0.4-1.8 = Polar covalent
+- >1.8 = Ionic
 
 # Unit 6 - Chem
 
@@ -30,34 +61,15 @@ $$\text{Avogadro's Number} = 6.022 \times 10^{23} \text{particles}$$
 	- $\Sigma$ (Number of atoms of each element $\times$ atomic mass of each element)
 - Rounded to **hundredths**
 
-## Conversions
-- Grams --> Mol
-
-| 10g $NH_3$ | 1mol | 0.59 mol |
-| ---------- | ---- | -------- |
-| 1          | 2    |          |
-
-- Mol --> Grams
-
-| 0.75 mol $N_2O_5$ | 108.02 g (molar mass) | 81.02 g |
-| ----------------- | --------------------- | ------- |
-| 1                 | 1 mol                 |         |
-
-- Mol --> Molecules
-
-| 3.5 mol $NaCl$ | $6.022 \times 10^{23}$ molecs | 2.10 |
-| ----------------- | --------------------- | ------- |
-| 1                 | 1 mol                 |         |
-
-- Molecules --> Mol
-- Grams --> Molecules
-- Molecules --> Grams
+## Conversions (examples)
 
 
 ## Types of Chemical Reactions
-## Synthesis (A + B $\to$ AB)
 
-## Decomposition (AB $\to$ A + B)
+### Synthesis (A + B $\to$ AB)
+- Trivial
+
+### Decomposition (AB $\to$ A + B)
 - `B` is usually heat or energy
 - A compound breaks into 2+ simpler substances due to the addition of energy
 - **SPECIAL REACTIONS:**
@@ -65,8 +77,26 @@ $$\text{Avogadro's Number} = 6.022 \times 10^{23} \text{particles}$$
 		- $MCO_3 (s) \to MO (s) + CO_2 (g)$
 	- Metallic Chlorate $\to$ Metallic Chloride + Oxygen
 		- $MClO_3 (s) \to MCl(s) + 3O_2 (g)$
-	- Metallic Hydroxides $\to$ Metallix Oxides + Water
+	- Metallic Hydroxides $\to$ Metallic Oxides + Water
 		- $M(OH)_2 (s) + \text{heat} \to M (s) + H_2O (l)$
+
+### SR (A + BC $\to$ B + AC)
+- Like replaces like
+
+### DR (AB + CD $\to$ AD + CB)
+- Must be 2 **aqueous** compounds
+
+### Combustion ($C_xH_yO_z$ + $O_2$ $\to$ $CO_2$ + $H_2O$)
+
+### Psyn ($6CO_2 (g) + 6H_2O (l) \to C_6H_{12}O_6 (s) + 6O_2 (g)$)
+- Sunlight NOT a reactant
+
+### Ozone depletion $2O_3 (g) \to 3O_2 (g)$
+
+### Ocean Acidification
+$$CO_2(g) + H_2O(l) \to H_2CO_3 (aq)$$
+$$H_2CO_3 (aq) + CaCO_3 (s) \to Ca(HCO_3)_2 (aq)$$
+
 
 
 # Unit 7

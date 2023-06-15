@@ -12,5 +12,6 @@
   "mado-miniflow@@toggle-wave-background": false,
   "mado-miniflow@@toggle-note-radius": true,
   "mado-miniflow@@toggle-tab-design": true,
-  "mado-miniflow@@toggle-tab-height": true
+  "mado-miniflow@@toggle-tab-height": true,
+  "ap-theme@@theme-dark": "a-catpuccin-mocha"
 }
