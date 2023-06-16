@@ -11,12 +11,8 @@
             "id": "26c05b096c0b47cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/IGS/Unit 12 - Cosmology Pt. 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IGS/Unit 12 - Cosmology Pt. 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IGS/Unit 12 - Cosmology Pt. 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School/IGS/Unit 12 - Cosmology Pt. 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,7 +147,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26c05b096c0b47cc",
+  "active": "24bb397ba7be8a92",
   "lastOpenFiles": [
     "School/IGS/IGS Finals.md",
     "School/IGS/Pasted image 20230511211105.png",
