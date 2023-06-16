@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "Iosevka Nerd Font",
-  "textFontFamily": "Iosevka Nerd Font",
-  "monospaceFontFamily": "Iosevka Nerd Font",
+  "interfaceFontFamily": "BlexMono Nerd Font",
+  "textFontFamily": "BlexMono Nerd Font",
+  "monospaceFontFamily": "BlexMono Nerd Font",
   "baseFontSize": 18,
   "cssTheme": "Apatheia"
 }

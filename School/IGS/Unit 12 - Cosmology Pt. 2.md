@@ -131,6 +131,7 @@
 	- **Hydrogen-Alpha HII Line**
 	- ONLY EMISSION LINES
 - When reading: Look at reddest/bluest most line
+- DISCONTINUOUS
 
 ## Doppler Effect
 - Red = Moving away (most galaxies are red shifted)
