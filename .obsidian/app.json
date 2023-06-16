@@ -8,5 +8,6 @@
   "newLinkFormat": "shortest",
   "attachmentFolderPath": "Images",
   "focusNewTab": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "promptDelete": false
 }
