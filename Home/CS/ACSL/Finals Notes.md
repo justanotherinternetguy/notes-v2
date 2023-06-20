@@ -1,6 +1,11 @@
+- [Computer Number Systems](#computer-number-systems)
+- [Recursive Functions](#recursive-functions)
+- [Equation Notation](#equation-notation)
+	- [Prefix](#prefix)
+
+
 # Computer Number Systems
 - Binary, Decimal, Octal, Hex
-- ![](Pasted%20image%2020230521182959.png)
 - http://www.categories.acsl.org/wiki/index.php?title=Computer_Number_Systems
 
 # Recursive Functions

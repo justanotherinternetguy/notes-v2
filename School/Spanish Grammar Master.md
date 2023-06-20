@@ -1,3 +1,26 @@
+- [Review](#review)
+- [Por/Para](#porpara)
+	- [Por (ATRACTED)](#por-atracted)
+	- [Para (PERFECT)](#para-perfect)
+- [Presente](#presente)
+- [Mandatos Informales (Tú)](#mandatos-informales-t%C3%BA)
+		- [Afirmativos](#afirmativos)
+		- [Negativos](#negativos)
+- [Mandatos Formales](#mandatos-formales)
+	- [Afirmativos](#afirmativos)
+	- [Negativos](#negativos)
+- [Preterite vs. Imperfect](#preterite-vs-imperfect)
+	- [Preterite](#preterite)
+- [Pretérito](#pret%C3%A9rito)
+- [Imperfecto](#imperfecto)
+- [Presente Perfecto](#presente-perfecto)
+- [Presente Progresivo](#presente-progresivo)
+- [Condicional](#condicional)
+- [Futuro](#futuro)
+- [Subjuntivo](#subjuntivo)
+
+
+# Review
 - **Direct object** = receives the action of the verb
 - **Indirect object** = indirectly affected by the action of the verb
 - **Reflexive** = an action one does to oneself

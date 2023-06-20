@@ -1,4 +1,7 @@
-# 1D Kinematics
+- [1D Kinematics (Chapter 2)](#1d-kinematics-chapter-2)
+
+
+# 1D Kinematics (Chapter 2)
 - Velocity - curve
 	- Area under curve
 	- $\Delta x = v_0 \Delta t$

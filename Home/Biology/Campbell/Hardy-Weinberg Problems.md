@@ -1,3 +1,7 @@
+- [Hardy-Weinberg Problems](#hardy-weinberg-problems)
+- [$p^2 + 2pq + q^2 + 1$](#p%5E2--2pq--q%5E2--1)
+	- [Problem 1](#problem-1)
+
 # Hardy-Weinberg Problems
 - In a population that is not evolving, **allele and genotype frequencies** will remain constant from**** generation to generation.
 - Such a population is in H-W **equilibrium**

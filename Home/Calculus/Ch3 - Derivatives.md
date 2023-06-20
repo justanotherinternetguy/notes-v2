@@ -1,3 +1,30 @@
+- [Derivatives](#derivatives)
+			- [Differentiability implies continuity](#differentiability-implies-continuity)
+			- [Higher order derivs.](#higher-order-derivs)
+	- [Deriv rules](#deriv-rules)
+			- [Constant Rule](#constant-rule)
+			- [Power Rule](#power-rule)
+			- [Sum Rule](#sum-rule)
+			- [Difference Rule](#difference-rule)
+			- [Constant Multiple Rule](#constant-multiple-rule)
+			- [Product Rule](#product-rule)
+			- [Quotient Rule](#quotient-rule)
+			- [Ext. Power Rule](#ext-power-rule)
+			- [Common Derivatives](#common-derivatives)
+			- [Chain Rule](#chain-rule)
+			- [L'Hopital's Rule](#lhopitals-rule)
+	- [Derivs as Rates of Change](#derivs-as-rates-of-change)
+			- [Population Change](#population-change)
+			- [Changes in Cost and Revenue](#changes-in-cost-and-revenue)
+			- [Motion along a line](#motion-along-a-line)
+	- [Derivatives of Trig Functions](#derivatives-of-trig-functions)
+			- [Higher-order derivs.](#higher-order-derivs)
+	- [Chain Rule](#chain-rule)
+			- [Application](#application)
+	- [Power Rule for Composition of Functions](#power-rule-for-composition-of-functions)
+
+
+
 # Derivatives
 $$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
 
@@ -110,6 +137,17 @@ $$\frac{d}{dx} (\csc x) = -\csc x \cot x$$
 - Let $f$ and $g$ be functions. For all $x$ in the domain of $g$ for which $g$ is **differentiable** at $x$ and $f$ is **differentiable** at $g(x)$, the derivative of the **composite function**
 $$h(x) = (f \cdot g)(x) = f(g(x))$$
 - is given by
-$$h'(x) = f'(g(x)) \times g'(x)$$
+$$h'(x) = f'(g(x)) \cdot g'(x)$$
 - Alternatively, if $y$ is a function of $u$, and $u$ is a function of $x$, then
 $$\frac{dy}{dx} = \frac{dy}{du} \cdot \frac{du}{dx}$$
+
+#### Application
+1. To differentiate $hx = f(g(x))$
+2. Find $f'(x)$ and evaluate it at $g(x)$ to obtain $f'(g(x))$
+3. Find $g'(x)$
+4. Write $h'(x) = f'(g(x)) \cdot g'(x)$
+
+
+## Power Rule for Composition of Functions
+- If $$h(x)) = (g(x))^n$$
+- Then, $$h'(x) = n(g(x))^{n-1} \cdot g'(x)$$

@@ -1,0 +1,20 @@
+- **Set** = Collection of objects
+	- **List** Notation = $\set{1, 2, 3}$
+	- **Set-builder** Notation = $\set{x | x < b}$
+- **Subset** = If all members of set $A$ are also members of set $B$, then set $A$ is a **subset** of set $B$
+	- **Proper subset** = Set $A$ is a proper subset of Set $B$ IF Set $B$ contains at least **one element** that is not present in Set $A$
+		- $A = \set{12, 24}$
+		- $B = \set{12, 24, 36}$
+		- $A \subset B$
+	- **Improper subset** = A subset which contains **all the elements** of the original set
+		- $A = \set{2, 4, 6}$
+		- $B = \set{2, 4, 6}$
+		- $A \subseteq B$
+		- **NOTE** = Empty set **is an improper** subset of itself but is a **proper subset** of any other set
+	- $\varnothing$ = Empty set
+	- $\mathbb{N}$ = Natural numbers
+	- $\mathbb{Z}$ = Integers
+	- $\mathbb{Q}$ = Rational Numbers
+	- $\mathbb{R}$ = Real Numbers
+	- $\mathbb{C}$ = Complex Numbers
+![](Pasted%20image%2020230619184944.png)

@@ -1,7 +1,7 @@
 {
   "strictLineBreaks": true,
   "showFrontmatter": true,
-  "vimMode": true,
+  "vimMode": false,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
   "newFileLocation": "current",
