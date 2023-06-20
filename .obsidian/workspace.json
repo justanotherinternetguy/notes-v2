@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Physics/AP C/4 - Vectors.md",
+                "file": "School/Alg II/1 - Linear Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Physics/AP C/4 - Vectors.md",
+                "file": "School/Alg II/1 - Linear Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/Physics/AP C/4 - Vectors.md",
+                "file": "School/Alg II/1 - Linear Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/Physics/AP C/4 - Vectors.md"
+                "file": "School/Alg II/1 - Linear Functions.md"
               }
             }
           },
@@ -156,9 +156,10 @@
   },
   "active": "0a069f5f42e3a6a0",
   "lastOpenFiles": [
+    "School/Alg II/1 - Linear Functions.md",
+    "Home/Physics/AP C/4 - Vectors.md",
     "School/Spanish Grammar Master.md",
     "School/College.md",
-    "School/Alg II/1 - Linear Functions.md",
     "School/Alg II/0 - Interval and Set Notation.md",
     "Home/Calculus/Ch3 - Derivatives.md",
     "Home/CS/ACSL/Finals Notes.md",
@@ -171,7 +172,6 @@
     "Home/Physics/AP C/1 - Basics.md",
     "Home/Physics/AP C/2 - (FILL OUT LATER).md",
     "Home/Physics/AP C/3 - 1D Kinematics.md",
-    "Home/Physics/AP C/4 - Vectors.md",
     "Home/Precalc/1 - Basic Trig.md",
     "Images/Pasted image 20230619201434.png",
     "Images/Pasted image 20230619201221.png",
