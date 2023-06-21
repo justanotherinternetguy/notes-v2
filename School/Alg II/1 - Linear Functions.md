@@ -52,8 +52,18 @@
 ## Linear $f(x) = x$
 ![](Pasted%20image%2020230619190002.png)
 
+- $D: (-\infty, \infty)$
+- $R: (-\infty, \infty)$
+
 ## Reciprocal $f(x) = \frac{1}{x}$
 ![](Pasted%20image%2020230619190157.png)
+- $D:(-\infty, 0) \cup (0, \infty)$  (Never touches 0!)
+- $R:(-\infty, 0) \cup (0, \infty)$  (Never touches 0!)
+
+
 
 ## Quadratic $f(x) = x^2$
 ![](Pasted%20image%2020230619190206.png)
+
+- $D: (-\infty, \infty)$
+- $R: [0, \infty]$

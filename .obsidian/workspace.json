@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e6a20298b9a101e5",
+        "id": "bc147f501e3c57f9",
         "type": "tabs",
         "children": [
           {
-            "id": "0a069f5f42e3a6a0",
+            "id": "2110da5d23ab7379",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Alg II/1 - Linear Functions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Alg II/1 - Linear Functions.md",
+                "file": "School/Alg II/The Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Alg II/1 - Linear Functions.md",
+                "file": "School/Alg II/The Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Alg II/1 - Linear Functions.md"
+                "file": "School/Alg II/The Plan.md"
               }
             }
           },
@@ -154,9 +150,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a069f5f42e3a6a0",
+  "active": "24bb397ba7be8a92",
   "lastOpenFiles": [
     "School/Alg II/1 - Linear Functions.md",
+    "School/Alg II/The Plan.md",
     "Home/Physics/AP C/4 - Vectors.md",
     "School/Spanish Grammar Master.md",
     "School/College.md",
@@ -195,7 +192,6 @@
     "School/Math/Areas.md",
     "Home/Calculus/Multivar/Untitled.md",
     "Home/Calculus/Multivar",
-    "Home/Multivar.md",
     "Images/IGS Acc Finals Topics List 2 2023.pdf",
     "Home/Physics/AP C/#Week 3.md#",
     "Home/Physics/AP C/Week 3.md~",
