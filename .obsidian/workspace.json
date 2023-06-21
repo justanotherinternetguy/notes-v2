@@ -11,8 +11,12 @@
             "id": "2110da5d23ab7379",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Summer Plans.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "plan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Alg II/The Plan.md",
+                "file": "Summer Plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Alg II/The Plan.md",
+                "file": "Summer Plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Alg II/The Plan.md"
+                "file": "Summer Plans.md"
               }
             }
           },
@@ -150,15 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24bb397ba7be8a92",
+  "active": "2110da5d23ab7379",
   "lastOpenFiles": [
+    "Home/Calculus/Ch3 - Derivatives.md",
+    "Summer Plans.md",
     "School/Alg II/1 - Linear Functions.md",
-    "School/Alg II/The Plan.md",
     "Home/Physics/AP C/4 - Vectors.md",
     "School/Spanish Grammar Master.md",
     "School/College.md",
     "School/Alg II/0 - Interval and Set Notation.md",
-    "Home/Calculus/Ch3 - Derivatives.md",
     "Home/CS/ACSL/Finals Notes.md",
     "Home/CS/ACSL/Pasted image 20230521182959.png.md",
     "Home/CS/ACSL/ACSL C4.md",
