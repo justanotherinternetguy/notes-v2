@@ -1,23 +1,24 @@
-- [Review](#review)
-- [Por/Para](#porpara)
-	- [Por (ATRACTED)](#por-atracted)
-	- [Para (PERFECT)](#para-perfect)
-- [Presente](#presente)
-- [Mandatos Informales (Tú)](#mandatos-informales-t%C3%BA)
-		- [Afirmativos](#afirmativos)
-		- [Negativos](#negativos)
-- [Mandatos Formales](#mandatos-formales)
-	- [Afirmativos](#afirmativos)
-	- [Negativos](#negativos)
-- [Preterite vs. Imperfect](#preterite-vs-imperfect)
-	- [Preterite](#preterite)
-- [Pretérito](#pret%C3%A9rito)
-- [Imperfecto](#imperfecto)
-- [Presente Perfecto](#presente-perfecto)
-- [Presente Progresivo](#presente-progresivo)
-- [Condicional](#condicional)
-- [Futuro](#futuro)
-- [Subjuntivo](#subjuntivo)
+- [[#Review|Review]]
+- [[#Por/Para|Por/Para]]
+	- [[#Por/Para#Por (ATRACTED)|Por (ATRACTED)]]
+	- [[#Por/Para#Para (PERFECT)|Para (PERFECT)]]
+- [[#Presente|Presente]]
+- [[#Mandatos Informales (Tú)|Mandatos Informales (Tú)]]
+		- [[#Para (PERFECT)#Afirmativos|Afirmativos]]
+		- [[#Para (PERFECT)#Negativos|Negativos]]
+- [[#Mandatos Formales|Mandatos Formales]]
+	- [[#Mandatos Formales#Afirmativos|Afirmativos]]
+	- [[#Mandatos Formales#Negativos|Negativos]]
+- [[#Preterite vs. Imperfect|Preterite vs. Imperfect]]
+	- [[#Preterite vs. Imperfect#Preterite|Preterite]]
+- [[#Pretérito|Pretérito]]
+- [[#Imperfecto|Imperfecto]]
+- [[#Presente Perfecto|Presente Perfecto]]
+- [[#Presente Progresivo|Presente Progresivo]]
+- [[#Condicional|Condicional]]
+- [[#Futuro|Futuro]]
+- [[#Subjuntivo|Subjuntivo]]
+
 
 
 # Review
@@ -44,7 +45,6 @@
 - Thanks
 - Exchange
 - Duration of event
-![](Pasted%20image%2020230522002615.png)
 
 ## Para (PERFECT)
 - Purpose
@@ -54,7 +54,6 @@
 - Employment
 - Comparison
 - Toward a specific place/Destination
-![](Pasted%20image%2020230522002641.png)
 
 
 # Presente
@@ -148,7 +147,6 @@
 - Was the beginning of an event
 - Was the end of an event
 - **Conjugation**
-	- ![](Pasted%20image%2020230521171442.png)
 - **Irregulars**
 
 

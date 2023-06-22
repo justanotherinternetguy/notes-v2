@@ -1,5 +1,4 @@
-- [1D Kinematics (Chapter 2)](#1d-kinematics-chapter-2)
-
+- [[#1D Kinematics (Chapter 2)|1D Kinematics (Chapter 2)]]
 
 # 1D Kinematics (Chapter 2)
 - Velocity - curve

@@ -2,7 +2,7 @@
   "accentColor": "",
   "interfaceFontFamily": "M+2 Nerd Font Propo",
   "textFontFamily": "M+2 Nerd Font Propo",
-  "monospaceFontFamily": "BlexMono Nerd Font",
-  "baseFontSize": 18,
-  "cssTheme": "Apatheia"
+  "monospaceFontFamily": "M+1Code Nerd Font",
+  "baseFontSize": 22,
+  "cssTheme": "Yue"
 }

@@ -2,6 +2,6 @@
   "minimumDepth": 1,
   "maximumDepth": 6,
   "listStyle": "bullet",
-  "useMarkdown": true,
-  "githubCompat": true
+  "useMarkdown": false,
+  "githubCompat": false
 }

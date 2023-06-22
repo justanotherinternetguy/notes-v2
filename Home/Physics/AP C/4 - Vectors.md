@@ -1,8 +1,11 @@
-- [Vector Addition](#vector-addition)
-- [Vector Basics](#vector-basics)
-- [Vector Operations](#vector-operations)
-	- [Vector Addition](#vector-addition)
-- [Vector Resolution](#vector-resolution)
+- [[#Vector Addition|Vector Addition]]
+- [[#Vector Basics|Vector Basics]]
+- [[#Vector Operations|Vector Operations]]
+	- [[#Vector Operations#Vector Addition|Vector Addition]]
+- [[#Vector Resolution|Vector Resolution]]
+
+
+
 
 # Vector Addition
 - **Vector** = Magnitude + direction (3D, 3D)

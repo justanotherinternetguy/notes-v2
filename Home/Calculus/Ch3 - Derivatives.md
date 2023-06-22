@@ -1,27 +1,27 @@
-- [Derivatives](#derivatives)
-			- [Differentiability implies continuity](#differentiability-implies-continuity)
-			- [Higher order derivs.](#higher-order-derivs)
-	- [Deriv rules](#deriv-rules)
-			- [Constant Rule](#constant-rule)
-			- [Power Rule](#power-rule)
-			- [Sum Rule](#sum-rule)
-			- [Difference Rule](#difference-rule)
-			- [Constant Multiple Rule](#constant-multiple-rule)
-			- [Product Rule](#product-rule)
-			- [Quotient Rule](#quotient-rule)
-			- [Ext. Power Rule](#ext-power-rule)
-			- [Common Derivatives](#common-derivatives)
-			- [Chain Rule](#chain-rule)
-			- [L'Hopital's Rule](#lhopitals-rule)
-	- [Derivs as Rates of Change](#derivs-as-rates-of-change)
-			- [Population Change](#population-change)
-			- [Changes in Cost and Revenue](#changes-in-cost-and-revenue)
-			- [Motion along a line](#motion-along-a-line)
-	- [Derivatives of Trig Functions](#derivatives-of-trig-functions)
-			- [Higher-order derivs.](#higher-order-derivs)
-	- [Chain Rule](#chain-rule)
-			- [Application](#application)
-	- [Power Rule for Composition of Functions](#power-rule-for-composition-of-functions)
+- [[#Derivatives|Derivatives]]
+			- [[#Differentiability implies continuity|Differentiability implies continuity]]
+			- [[#Higher order derivs.|Higher order derivs.]]
+	- [[#Derivatives#Deriv rules|Deriv rules]]
+			- [[#Constant Rule|Constant Rule]]
+			- [[#Power Rule|Power Rule]]
+			- [[#Sum Rule|Sum Rule]]
+			- [[#Difference Rule|Difference Rule]]
+			- [[#Constant Multiple Rule|Constant Multiple Rule]]
+			- [[#Product Rule|Product Rule]]
+			- [[#Quotient Rule|Quotient Rule]]
+			- [[#Ext. Power Rule|Ext. Power Rule]]
+			- [[#Common Derivatives|Common Derivatives]]
+			- [[#Chain Rule|Chain Rule]]
+			- [[#L'Hopital's Rule|L'Hopital's Rule]]
+	- [[#Derivatives#Derivs as Rates of Change|Derivs as Rates of Change]]
+			- [[#Population Change|Population Change]]
+			- [[#Changes in Cost and Revenue|Changes in Cost and Revenue]]
+			- [[#Motion along a line|Motion along a line]]
+	- [[#Derivatives#Derivatives of Trig Functions|Derivatives of Trig Functions]]
+			- [[#Higher-order derivs.|Higher-order derivs.]]
+	- [[#Derivatives#Chain Rule|Chain Rule]]
+			- [[#Application|Application]]
+	- [[#Derivatives#Power Rule for Composition of Functions|Power Rule for Composition of Functions]]
 
 
 

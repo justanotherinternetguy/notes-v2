@@ -1,5 +1,5 @@
-- [Ch26 - Phylogeny and the Tree of Life](#ch26---phylogeny-and-the-tree-of-life)
-- [Morphology](#morphology)
+- [[#Ch26 - Phylogeny and the Tree of Life|Ch26 - Phylogeny and the Tree of Life]]
+- [[#Morphology|Morphology]]
 
 
 # Ch26 - Phylogeny and the Tree of Life

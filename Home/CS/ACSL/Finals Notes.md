@@ -1,7 +1,7 @@
-- [Computer Number Systems](#computer-number-systems)
-- [Recursive Functions](#recursive-functions)
-- [Equation Notation](#equation-notation)
-	- [Prefix](#prefix)
+- [[#Computer Number Systems|Computer Number Systems]]
+- [[#Recursive Functions|Recursive Functions]]
+- [[#Equation Notation|Equation Notation]]
+	- [[#Equation Notation#Prefix|Prefix]]
 
 
 # Computer Number Systems

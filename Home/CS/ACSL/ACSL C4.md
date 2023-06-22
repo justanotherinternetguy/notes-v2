@@ -1,7 +1,8 @@
-- [Graph Theory](#graph-theory)
-	- [Adjacency Matrix](#adjacency-matrix)
-- [Digital Electronics](#digital-electronics)
-- [Assembly Language](#assembly-language)
+- [[#Graph Theory|Graph Theory]]
+	- [[#Graph Theory#Adjacency Matrix|Adjacency Matrix]]
+- [[#Digital Electronics|Digital Electronics]]
+- [[#Assembly Language|Assembly Language]]
+
 
 # Graph Theory
 - Vertex/nodes + Edge

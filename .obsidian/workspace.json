@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer Plans.md",
+                "file": "Home/Physics/AP C/Chapter 2 - 1D Kinematics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "32fa43d6c187e79b",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summer Plans.md",
+                "file": "Home/Physics/AP C/Chapter 2 - 1D Kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summer Plans.md",
+                "file": "Home/Physics/AP C/Chapter 2 - 1D Kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summer Plans.md"
+                "file": "Home/Physics/AP C/Chapter 2 - 1D Kinematics.md"
               }
             }
           },
@@ -156,24 +157,31 @@
   },
   "active": "2110da5d23ab7379",
   "lastOpenFiles": [
-    "Home/Calculus/Ch3 - Derivatives.md",
-    "Summer Plans.md",
+    "Images/Pasted image 20230622124624.png",
+    "Home/Physics/AP C/1 - Basics.md",
+    "Home/Precalc/1 - Basic Trig.md",
     "School/Alg II/1 - Linear Functions.md",
-    "Home/Physics/AP C/4 - Vectors.md",
-    "School/Spanish Grammar Master.md",
-    "School/College.md",
     "School/Alg II/0 - Interval and Set Notation.md",
-    "Home/CS/ACSL/Finals Notes.md",
-    "Home/CS/ACSL/Pasted image 20230521182959.png.md",
-    "Home/CS/ACSL/ACSL C4.md",
     "Home/Biology/Campbell/Hardy-Weinberg Problems.md",
     "Home/Biology/Campbell/Ch26 - Phylogeny and the Tree of Life.md",
     "Home/Biology/Campbell/Ch5 - Large Biological Molecules.md",
-    "Home/Math/AMC1012 Prep/2017 AMC 10A.md",
-    "Home/Physics/AP C/1 - Basics.md",
+    "Home/Calculus/Ch3 - Derivatives.md",
+    "Home/Chemistry/Chemistry Master Notes.md",
+    "Home/CS/ACSL/Finals Notes.md",
+    "Home/CS/ACSL/ACSL C4.md",
+    "Home/CTY/AP Lang/1.2.md",
+    "Home/CTY/AP Lang/3.1.md",
+    "Home/CTY/AP Lang/1.1 - The Rhetorical Situation.md",
     "Home/Physics/AP C/2 - (FILL OUT LATER).md",
     "Home/Physics/AP C/3 - 1D Kinematics.md",
-    "Home/Precalc/1 - Basic Trig.md",
+    "Home/Physics/AP C/4 - Vectors.md",
+    "Home/Physics/AP C/Chapter 2 - 1D Kinematics.md",
+    "School/Spanish Grammar Master.md",
+    "School/College.md",
+    "Images/Pasted image 20230622113413.png",
+    "Summer Plans.md",
+    "Home/CS/ACSL/Pasted image 20230521182959.png.md",
+    "Home/Math/AMC1012 Prep/2017 AMC 10A.md",
     "Images/Pasted image 20230619201434.png",
     "Images/Pasted image 20230619201221.png",
     "Images/Pasted image 20230619200523.png",
@@ -183,18 +191,11 @@
     "Images/Pasted image 20230619185951.png",
     "Images/Pasted image 20230619185937.png",
     "Images/Pasted image 20230619185925.png",
-    "Images/Pasted image 20230619185859.png",
     "School/Alg II/Untitled",
     "School/Alg II",
     "School/Untitled.md",
     "Home/Precalc",
     "School/Antigone.md",
-    "Home/CTY/AP Lang/3.1.md",
-    "Home/CTY/AP Lang/1.1 - The Rhetorical Situation.md",
-    "Home/CTY/AP Lang/1.2.md",
-    "School/Math/Final.md",
-    "School/Math/Areas.md",
-    "Home/Calculus/Multivar/Untitled.md",
     "Home/Calculus/Multivar",
     "Images/IGS Acc Finals Topics List 2 2023.pdf",
     "Home/Physics/AP C/#Week 3.md#",

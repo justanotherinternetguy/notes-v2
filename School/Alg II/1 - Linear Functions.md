@@ -1,13 +1,14 @@
-- [Domain and Range](#domain-and-range)
-- [Basic Parent Functions](#basic-parent-functions)
-	- [Absolute Value $f(x) = |x|$](#absolute-value-fx--x)
-	- [Square Root  $f(x) = \sqrt{x}$](#square-root--fx--%5Csqrtx)
-	- [Constant $f(x) = 3$](#constant-fx--3)
-	- [Exponential $f(x) = b^x$](#exponential-fx--b%5Ex)
-	- [Cubic $f(x) = x^3$](#cubic-fx--x%5E3)
-	- [Linear $f(x) = x$](#linear-fx--x)
-	- [Reciprocal $f(x) = \frac{1}{x}$](#reciprocal-fx--%5Cfrac1x)
-	- [Quadratic $f(x) = x^2$](#quadratic-fx--x%5E2)
+- [[#Domain and Range|Domain and Range]]
+- [[#Basic Parent Functions|Basic Parent Functions]]
+	- [[#Basic Parent Functions#Absolute Value $f(x) = |x|$|Absolute Value $f(x) = |x|$]]
+	- [[#Basic Parent Functions#Square Root  $f(x) = \sqrt{x}$|Square Root  $f(x) = \sqrt{x}$]]
+	- [[#Basic Parent Functions#Constant $f(x) = 3$|Constant $f(x) = 3$]]
+	- [[#Basic Parent Functions#Exponential $f(x) = b^x$|Exponential $f(x) = b^x$]]
+	- [[#Basic Parent Functions#Cubic $f(x) = x^3$|Cubic $f(x) = x^3$]]
+	- [[#Basic Parent Functions#Linear $f(x) = x$|Linear $f(x) = x$]]
+	- [[#Basic Parent Functions#Reciprocal $f(x) = \frac{1}{x}$|Reciprocal $f(x) = \frac{1}{x}$]]
+	- [[#Basic Parent Functions#Quadratic $f(x) = x^2$|Quadratic $f(x) = x^2$]]
+
 
 
 # Domain and Range
