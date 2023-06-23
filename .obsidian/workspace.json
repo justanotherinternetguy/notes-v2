@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Physics/AP C/Chapter 2 - 1D Kinematics.md",
+                "file": "Home/Physics/AP C/Chapter 3 - Vectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "32fa43d6c187e79b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Physics/AP C/Chapter 2 - 1D Kinematics.md",
+                "file": "Home/Physics/AP C/Chapter 3 - Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/Physics/AP C/Chapter 2 - 1D Kinematics.md",
+                "file": "Home/Physics/AP C/Chapter 3 - Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/Physics/AP C/Chapter 2 - 1D Kinematics.md"
+                "file": "Home/Physics/AP C/Chapter 3 - Vectors.md"
               }
             }
           },
@@ -157,6 +156,10 @@
   },
   "active": "2110da5d23ab7379",
   "lastOpenFiles": [
+    "Images/Pasted image 20230622205914.png",
+    "Home/Physics/AP C/Chapter 4 - Position and Displacement.md",
+    "Home/Physics/AP C/Chapter 2 - 1D Kinematics.md",
+    "Home/Physics/AP C/Chapter 3 - Vectors.md",
     "Images/Pasted image 20230622124624.png",
     "Home/Physics/AP C/1 - Basics.md",
     "Home/Precalc/1 - Basic Trig.md",
@@ -175,7 +178,6 @@
     "Home/Physics/AP C/2 - (FILL OUT LATER).md",
     "Home/Physics/AP C/3 - 1D Kinematics.md",
     "Home/Physics/AP C/4 - Vectors.md",
-    "Home/Physics/AP C/Chapter 2 - 1D Kinematics.md",
     "School/Spanish Grammar Master.md",
     "School/College.md",
     "Images/Pasted image 20230622113413.png",
@@ -190,12 +192,9 @@
     "Images/Pasted image 20230619190002.png",
     "Images/Pasted image 20230619185951.png",
     "Images/Pasted image 20230619185937.png",
-    "Images/Pasted image 20230619185925.png",
     "School/Alg II/Untitled",
     "School/Alg II",
-    "School/Untitled.md",
     "Home/Precalc",
-    "School/Antigone.md",
     "Home/Calculus/Multivar",
     "Images/IGS Acc Finals Topics List 2 2023.pdf",
     "Home/Physics/AP C/#Week 3.md#",

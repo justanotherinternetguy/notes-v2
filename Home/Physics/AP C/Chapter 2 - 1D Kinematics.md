@@ -11,7 +11,7 @@
 		- [[#Key Equations#Average Acceleration|Average Acceleration]]
 		- [[#Key Equations#Acceleration|Acceleration]]
 - [[#Equations for constant acceleration|Equations for constant acceleration]]
-- [[#Free-Fall accleration|Free-Fall accleration]]
+- [[#Free-Fall acceleration|Free-Fall acceleration]]
 - [[#Graphical Integration|Graphical Integration]]
 
 
@@ -61,7 +61,7 @@ $$v^2 = v^2_0 + 2a(x - x_0)$$
 $$x - x_0 = \frac{1}{2}(v_0 + v_t)$$
 $$x - x_0 = vt - \frac{1}{2}at^2$$
 
-# Free-Fall accleration
+# Free-Fall acceleration
 $$g = 9.8 m/s^2$$
 - Directions of motions are now along a vertical $y$ axis
 	- Positive $y$ is **upward**
