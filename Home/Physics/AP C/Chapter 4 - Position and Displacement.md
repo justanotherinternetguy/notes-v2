@@ -1,9 +1,14 @@
+- [Position](#Position)
+- [Displacement](#Displacement)
+- [Average and Inst. Velocity](#Average%20and%20Inst.%20Velocity)
+
+
 
 # Position
 - **Position** vector $\vec{r}$
 	- Vector that extends from a reference point (origin) to particle
 $$\vec{r} = x\hat{i} + y\hat{j} + z\hat{k}$$
-- $x, y, z$ are scalar compoenents
+- $x, y, z$ are scalar components
 
 
 # Displacement

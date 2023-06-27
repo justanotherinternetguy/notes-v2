@@ -1,8 +1,4 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "M+2 Nerd Font Propo",
-  "textFontFamily": "M+2 Nerd Font Propo",
-  "monospaceFontFamily": "M+1Code Nerd Font",
-  "baseFontSize": 22,
-  "cssTheme": "Yue"
+  "cssTheme": "Bolt"
 }

@@ -1,13 +1,11 @@
 {
   "strictLineBreaks": true,
   "showFrontmatter": true,
+  "showLineNumber": true,
   "vimMode": true,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "newFileLocation": "current",
-  "newLinkFormat": "shortest",
   "attachmentFolderPath": "Images",
-  "focusNewTab": true,
-  "showLineNumber": true,
-  "promptDelete": false
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
 }

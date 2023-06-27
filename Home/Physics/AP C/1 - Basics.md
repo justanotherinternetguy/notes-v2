@@ -46,7 +46,6 @@
 	- **Object** = no spin or rotation
 - **Location/Position** = $x$
 	- $x$ is a **real number** that indicates position on a number line
-![](Pasted%20image%2020230608182340.png)
 - **Average Velocity** = $$V_\text{avg} = \frac{\Delta x}{\Delta t} = \frac{x_2 - x_1}{t_2 - t_1}$$
 	- $V > 0$ = Movement to right
 	- $V < 0$ = Movement to left

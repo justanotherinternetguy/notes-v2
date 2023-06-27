@@ -51,38 +51,3 @@
 ### Perfect
 1. Lengthen base vowel
 2. **-ië**
-
-
-Translate the following into English:
-1. _Macili cirir orcor._
-	1. The swords cut orcs
-2. _I elda tuvë osto._
-	1. The elf discovers a city
-3. _Sílan._
-	1. I am shining
-4. _I aran tíra aiwi._
-	1. The king is watching birds
-5. _I naucor nórar._
-	1. The dwarves are running
-6. _Atani samir cöar._
-	1. Men have houses
-7. _Tirin eleni._
-	1. I watch stars
-8. _I aiwi lorir._
-	1. The birds sleep
-
-Translate the following into Quenya:
-9. I have a bird.
-	1. Samin aiwë
-10. The stars shine.
-	1. I eleni silir
-11. An orc cuts the forest.
-	1. Orco cirë i taurë
-12. The captain is sleeping.
-	1. I hesto lora
-13. Birds are eating.
-	1. Aiwi mata
-14. I am watching the house.
-	1. Tirar 
-15. The men find (or discover) the elves.
-16. Elves are going.

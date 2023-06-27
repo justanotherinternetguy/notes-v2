@@ -1,8 +1,8 @@
-- [[#Vector Operations|Vector Operations]]
-	- [[#Vector Operations#Addition (Analytical)|Addition (Analytical)]]
-	- [[#Vector Operations#Subtraction|Subtraction]]
-	- [[#Vector Operations#Multiplication by Scalar|Multiplication by Scalar]]
-- [[#Vector Resolution|Vector Resolution]]
+- [Vector Operations](#Vector%20Operations)
+	- [Addition (Analytical)](#Addition%20(Analytical))
+	- [Subtraction](#Subtraction)
+	- [Multiplication by Scalar](#Multiplication%20by%20Scalar)
+- [Vector Resolution](#Vector%20Resolution)
 
 
 
