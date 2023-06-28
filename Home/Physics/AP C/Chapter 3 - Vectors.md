@@ -1,5 +1,5 @@
 - [Vector Operations](#Vector%20Operations)
-	- [Addition (Analytical)](#Addition%20(Analytical))
+	- [Addition (Graphical)](#Addition%20(Graphical))
 	- [Subtraction](#Subtraction)
 - [Vector Resolution](#Vector%20Resolution)
 - [Adding Vectors Analytically](#Adding%20Vectors%20Analytically)
@@ -21,7 +21,7 @@
 
 # Vector Operations
 
-## Addition (Analytical)
+## Addition (Graphical)
 $$\vec{s} = \vec{a} + \vec{b}$$
 
 ![](Pasted%20image%2020230622205914.png)
