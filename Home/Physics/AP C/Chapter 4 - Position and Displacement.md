@@ -83,7 +83,8 @@ $$\vec{a} = a_x\hat{i}+a_y\hat{j}+a_z\hat{k}$$
 - Horizontal and Vertical motion will **always** be independent of each other
 - **NO acceleration** horizontally
 
-- Path of a projectile launched at $\vec{v}_0$ is...
+- Path of a projectile launched at $\vec{v}_0$ is
+
 $$\vec{v}_0 = v_{0x}\hat{i} + v_{0y} \hat{j}$$
 - Components can be found if we know the angle $\theta_0$ between $\vec{v}_0$ and the positive $x$ direction
 
