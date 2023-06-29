@@ -1,6 +1,14 @@
 - [Position](#Position)
 - [Displacement](#Displacement)
-- [Average and Inst. Velocity](#Average%20and%20Inst.%20Velocity)
+	- [Problem](#Problem)
+		- [Solution](#Solution)
+- [Average Velocity](#Average%20Velocity)
+	- [Problem](#Problem)
+		- [Solution](#Solution)
+- [Inst. Velocity](#Inst.%20Velocity)
+- [Average Accel.](#Average%20Accel.)
+- [Inst. Accel](#Inst.%20Accel)
+- [Projectile Motion](#Projectile%20Motion)
 
 
 # Position
@@ -43,3 +51,44 @@ $$\vec{v}_{\text{avg}} = \frac{\Delta \vec{r}}{\Delta t} = \frac{(12\;\text{m})\
 # Inst. Velocity
 $$\vec{v} = \frac{d\vec{r}}{dt}$$
 ![](Pasted%20image%2020230628010811.png)
+- The direction of the inst. velo $\vec{v}$ of a particle is **always tangent** to the particle's path at the given position
+$$\vec{v} = \frac{d}{dt}(x\hat{i} + y\hat{j} + z\hat{k}) = \frac{dx}{dt}\hat{i} + \frac{dy}{dt}\hat{j}+\frac{dz}{dt}\hat{k}$$
+$$\vec{v} = v_x\hat{i}+v_y\hat{j}+v_z\hat{k}$$
+![](Pasted%20image%2020230629000145.png)
+
+# Average Accel.
+- When a particle's velocity changes from $\vec{v}_1$ to $\vec{v}_2$ in $\Delta t$, the **average acceleration** $\vec{a}_{\text{avg}}$ during $\Delta t$ is
+$$\vec{a}_{\text{avg}} = \frac{\vec{v}_2 - \vec{v}_1}{\Delta t} = \frac{\Delta\vec{v}}{\Delta t}$$
+
+# Inst. Accel
+- We can shrink $\Delta t$ down to $0$...
+$$\vec{a} = \frac{d\vec{v}}{dt}$$
+- If velocity changes in **either** direction **or** magnitude, the particle **must have an acceleration**
+
+$$\vec{a} = \frac{d}{dt}(v_x\hat{i} + v_y\hat{j} + v_z\hat{k}) = \frac{dv_x}{dt}\hat{i} + \frac{dv_y}{dt}\hat{j}+\frac{dv_z}{dt}\hat{k}$$
+
+$$\vec{a} = a_x\hat{i}+a_y\hat{j}+a_z\hat{k}$$
+
+![](Pasted%20image%2020230629000711.png)
+
+# Projectile Motion
+- Acceleration is **always** gravity $\vec{g}$
+- Assume no air resistance
+- Horizontal and Vertical motion will **always** be independent of each other
+- **NO acceleration** horizontally
+
+- Path of a projectile launched at $\vec{v}_0$ is...
+$$\vec{v}_0 = v_{0x}\hat{i} + v_{0y} \hat{j}$$
+- Components can be found if we know the angle $\theta_0$ between $\vec{v}_0$ and the positive $x$ direction
+
+$$v_{0x} = v_0 \cos \theta_0$$
+$$v_{0y} = v_0 \sin \theta_0$$
+
+## Horizontal Analysis
+- At any time $t$, the proj's **horizontal displacement** $x-x_0$ from initial position $x_0$ is...
+$$x-x_0 = v_{0x}t$$
+- B/c $v_{0x} = v_0 \cos \theta_0$
+$$x - x_0 = (v_0 \cos \theta_0)t$$
+
+## Vertical Analysis
+- Substitute $-g$ for $a$ in 1D kinematic equations
