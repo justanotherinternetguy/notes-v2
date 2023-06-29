@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Bolt",
-  "baseFontSize": 19
+  "baseFontSize": 19,
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font"
 }
