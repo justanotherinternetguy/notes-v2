@@ -9,6 +9,12 @@
 - [Average Accel.](#Average%20Accel.)
 - [Inst. Accel](#Inst.%20Accel)
 - [Projectile Motion](#Projectile%20Motion)
+	- [Horizontal Analysis](#Horizontal%20Analysis)
+	- [Vertical Analysis](#Vertical%20Analysis)
+	- [Trajectory](#Trajectory)
+	- [Horizontal Range](#Horizontal%20Range)
+	- [Problem](#Problem)
+
 
 
 # Position
@@ -91,4 +97,72 @@ $$x-x_0 = v_{0x}t$$
 $$x - x_0 = (v_0 \cos \theta_0)t$$
 
 ## Vertical Analysis
+$$g = 9.8 \;\text{m/s}^2$$
+
 - Substitute $-g$ for $a$ in 1D kinematic equations
+
+$$y-y_0 = v_{0y}t - \frac{1}{2}gt^2 = \boxed{(v_0 \sin \theta_0)t - \frac{1}{2}gt^2}$$
+
+- Similarly,
+$$v_y = v_0 \sin \theta_0 - gt$$
+$$v_y^2 = (v_0 \sin \theta_0)^2 - 2g(y - y_0)$$
+- When magnitude of vertical velocity component = 0, the proj reaches the maximum height
+
+
+## Trajectory
+- Find the equation of the trajectory by eliminating time $t$
+$$y = (\tan \theta_0) x - \frac{gx^2}{2(v_0 \cos \theta_0)^2}$$
+- Parabolic
+
+## Horizontal Range
+- Horizontal distance the projectile has traveled when it returns to its **initial height**
+- To find range $R$, put $x-x_0 = R$ in horizontal motion eq.
+- Put $y-y_0 = 0$ in vertical motion rq.
+$$R = (v_0 \cos \theta_0)t$$
+$$0 = (v_0 \sin \theta_0)t - \frac{1}{2}gt^2$$
+- Eliminating $t$ yields...
+$$R = \frac{2v_0^2}{g} \sin \theta_0 \cos \theta_0$$
+- Use identity $2\theta_0 = 2 \sin \theta_0 \cos \theta_0$
+$$R = \frac{v_0^2}{g}\sin 2\theta_0$$
+- $R$ will **always** be at max when $\theta_0 = 45^{\circ}$
+	- This is b/c the above equation will be at max when $\sin 2\theta_0 = 1$, $\to$ $2\theta_0 = 90^{\circ}$
+
+## Problem
+> A rescue plane flies at 198 km/h (55.0 m/s) at a constant height h=500m towards a point directly over a victim, where a rescue capsule is to land.
+> What should be the angle $\phi$ of the pilot's line of sight to the victim when the capsule is released?
+
+![](Pasted%20image%2020230629142340.png)
+
+- Once released, the capsule will be a projectile
+	- We need to separately consider the horizontal and vertical motion (do not need to consider the actual curved path)
+
+- From the diagram:
+$$\phi = \tan^{-1} \frac{x}{h}$$
+- We already know $h = 500$, so we need to find $x$ (which is the horizontal coordinate of the victim (and of the capsule when it lands))
+$$x - x_0 = (v_0 \cos \theta_0) t$$
+- $x_0 = 0$ (origin)
+- $\vec{v}_0 = \text{plane's velocity}$
+	- $v_0 = 55$ m/s
+	- $\theta_0 = 0^{\circ}$
+- We do not know time $t$
+- To find $t$, we consider **vertical motion**
+
+$$y - y_0 = (v_0 \sin \theta_0)t - \frac{1}{2}gt^2$$
+- $y-y_0$ of the capsule is -500m (capsule will fall downward 500m to the ground)
+
+$$-500 = (55.0\;\text{m/s}) (\sin \\0^{\circ})t - \frac{1}{2}(9.8 \; \text{m/s}^2)t^2$$
+
+$$t = 10.1\;\text{s}$$
+- Plug $t$ back
+$$x - 0 = (55.0\;\text{m/s})(\cos 0^{\circ})(10.1\;\text{s})$$
+$$x = 555.5\;\text{m}$$
+- Finally,
+$$\phi = \tan^{-1}\frac{555}{500} = 48.0^{\circ}$$
+> As the capsule reaches the water, what is its velocity $\vec{v}$?
+- $v_x$ will not change from $v_{0x}$ because there **is no horizontal acceleration**
+$$v_x = 55.0 \;\text{m}$$
+$$v_y = v_0 \sin \theta_0 - gt = (55.0)(\sin 0^{\circ}) - (9.8 \;\text{m/s}^2)(10.1) = -99.0 \;\text{m/s}$$
+- At the water,
+$$\vec{v} = (55)\hat{i} - (99)\hat{j}$$
+$$v = \sqrt{55^2 + (-99)^2} \approx \boxed{113.25 \;\text{m/s}}$$
+$$\theta = \tan^{-1}(\frac{-99}{55}) = \boxed{-60.95^{\circ}}$$

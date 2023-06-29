@@ -15,7 +15,6 @@
 - [[#Graphical Integration|Graphical Integration]]
 
 
-
 # 2-1: Position, Displacement, and Average Velocity
 
 ## Key Equations
@@ -80,3 +79,5 @@ $$v_1 - v_0 = \int_{t_0}^{t_1} a \; dt$$
 $$x_1 - x_0 = \int_{t_0}^{t_1} v \; dt$$
 - Aka *area between velocity curve and time axis, from $t_0$ to $t_1$*
 ![](Pasted%20image%2020230622124624.png)
+
+
