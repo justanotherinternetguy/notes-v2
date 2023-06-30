@@ -1,19 +1,21 @@
-- [Position](#position)
-- [Displacement](#displacement)
-	- [Problem](#problem)
-		- [Solution](#solution)
-- [Average Velocity](#average-velocity)
-	- [Problem](#problem)
-		- [Solution](#solution)
-- [Inst. Velocity](#inst-velocity)
-- [Average Accel.](#average-accel)
-- [Inst. Accel](#inst-accel)
-- [Projectile Motion](#projectile-motion)
-	- [Horizontal Analysis](#horizontal-analysis)
-	- [Vertical Analysis](#vertical-analysis)
-	- [Trajectory](#trajectory)
-	- [Horizontal Range](#horizontal-range)
-	- [Problem](#problem)
+- [Position](#Position)
+- [Displacement](#Displacement)
+	- [Problem](#Problem)
+		- [Solution](#Solution)
+- [Average Velocity](#Average%20Velocity)
+	- [Problem](#Problem)
+		- [Solution](#Solution)
+- [Inst. Velocity](#Inst.%20Velocity)
+- [Average Accel.](#Average%20Accel.)
+- [Inst. Accel](#Inst.%20Accel)
+- [Projectile Motion](#Projectile%20Motion)
+	- [Horizontal Analysis](#Horizontal%20Analysis)
+	- [Vertical Analysis](#Vertical%20Analysis)
+	- [Trajectory](#Trajectory)
+	- [Horizontal Range](#Horizontal%20Range)
+	- [Problem](#Problem)
+
+
 
 
 
@@ -167,3 +169,5 @@ $$v_y = v_0 \sin \theta_0 - gt = (55.0)(\sin 0^{\circ}) - (9.8 \;\text{m/s}^2)(1
 $$\vec{v} = (55)\hat{i} - (99)\hat{j}$$
 $$v = \sqrt{55^2 + (-99)^2} \approx \boxed{113.25 \;\text{m/s}}$$
 $$\theta = \tan^{-1}(\frac{-99}{55}) = \boxed{-60.95^{\circ}}$$
+
+ 
