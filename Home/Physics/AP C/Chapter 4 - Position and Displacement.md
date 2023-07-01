@@ -17,8 +17,6 @@
 
 
 
-
-
 # Position
 - **Position** vector $\vec{r}$
 	- Vector that extends from a reference point (origin) to particle
@@ -170,4 +168,4 @@ $$\vec{v} = (55)\hat{i} - (99)\hat{j}$$
 $$v = \sqrt{55^2 + (-99)^2} \approx \boxed{113.25 \;\text{m/s}}$$
 $$\theta = \tan^{-1}(\frac{-99}{55}) = \boxed{-60.95^{\circ}}$$
 
- 
+ Uniform Circular Motion

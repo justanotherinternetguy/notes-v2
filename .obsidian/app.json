@@ -2,7 +2,7 @@
   "strictLineBreaks": true,
   "showFrontmatter": true,
   "showLineNumber": true,
-  "vimMode": false,
+  "vimMode": true,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Images",
