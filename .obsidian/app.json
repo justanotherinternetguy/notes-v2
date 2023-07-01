@@ -7,5 +7,6 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Images",
   "newFileLocation": "current",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

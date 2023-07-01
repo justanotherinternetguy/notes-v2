@@ -168,4 +168,53 @@ $$\vec{v} = (55)\hat{i} - (99)\hat{j}$$
 $$v = \sqrt{55^2 + (-99)^2} \approx \boxed{113.25 \;\text{m/s}}$$
 $$\theta = \tan^{-1}(\frac{-99}{55}) = \boxed{-60.95^{\circ}}$$
 
- Uniform Circular Motion
+# Uniform Circular Motion
+- Particle traveling around a circle/arc at a **constant** speed
+- Particle is **still accelerating** b/c velocity changes in direction
+![](Pasted%20image%2020230630232514.png)
+- $\vec{a}$ is **centripetal acceleration**
+- **Period** = time for a particle to make one revolution
+
+$$a = \frac{v^2}{r}$$
+$$T = \frac{2\pi r}{v}$$
+
+## Problem
+> What is the magnitude of acceleration, is $g$ units, of a pilot whose aircraft enters a horizontal circular turn with
+> $$\vec{v}_i = (400\hat{i} + 500\hat{j})\;\text{m/s}$$
+> and 24.0 s later leaves with
+> $$\vec{v}_f = (-400\hat{i} - 500\hat{j})\;\text{m/s}$$
+![](Pasted%20image%2020230630234646.png)
+
+$$a = \frac{2\pi v}{T}$$
+
+- To get constant speed $v$
+$$v = \sqrt{400^2 + 500^2} = 640.31\;\text{m/s}$$
+- To find $T$, note that $\vec{v}_f$ is the **reverse** of $\vec{v}_i$. This means **half a turn** has been completed.
+- If half a turn = 24s, then $T = 48$
+
+$$a = \frac{2\pi (640.31)}{48} = 83.81\;\text{m/s}^2 \approx 8.6g$$
+
+
+# Relative Motion in 1D
+- Velocity of particle depends on the **reference frame** of whoever is observing the particle
+![](Pasted%20image%2020230630235502.png)
+
+$$x_{PA} = x_{PB} + x_{BA}$$
+- Taking time derivative
+$$\frac{d}{dt} (x_{PA}) = \frac{d}{dt}(x_{PB}) + \frac{d}{dt}(x_{BA})$$
+$$v_{PA} = v_{PB} + v_{BA}$$
+- What if Car P accelerates?
+$$\frac{d}{dt}(v_{PA}) = \frac{d}{dt}(v_{PB}) + \frac{d}{dt}(v_{BA})$$
+
+- $v_{BA}$ is constant
+$$a_{PA} = a_{PB}$$
+- Observers on different frames of reference that move at constant velocity relative to each other will measure the same acceleration for a moving particle
+
+## Problem
+![](Pasted%20image%2020230701000530.png)
+> Suppose $v_{BA}$ is 52km/h and car $P$ is moving in the negative direction of the $x$ axis
+> a) If Alex measures a constant $v_{PA} = -78\;\text{km/h}$ for car $P$, what is $v_{PB}$?
+
+$$v_{PA} = v_{PB} + v_{BA}$$
+$$-78 = v_{PB} + 52$$
+$$v_{PB} = -130\;\text{km/h}$$

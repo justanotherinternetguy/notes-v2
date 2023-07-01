@@ -24,3 +24,12 @@ $$\frac{m_x}{m_0} = \frac{a_0}{a_x}$$
 
 $$m_x = m_0 \frac{a_0}{a_x} = (1.0\;\text{kg})\frac{1.0\;\text{m/s}^2}{0.25\;\text{m/s}^2} = 4.0\;\text{kg}$$
 - In this context, **the mass of a body is the characteristic that relates a force on the body to he resulting acceleration**
+
+
+# Newton's Second Law
+$$\vec{F}_{\text{net}} = m\vec{a}$$
+- Similarly,
+$$F_{\text{net, x}} = ma_x$$
+$$F_{\text{net, y}} = ma_y$$
+$$F_{\text{net, z}} = ma_z$$
+- Accel. component along a given axis is caused **only by** the sum of the force components on the **same axis**
