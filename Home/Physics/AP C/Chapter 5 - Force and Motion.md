@@ -41,39 +41,3 @@ $$F_{\text{net, z}} = ma_z$$
 $$F_g = mg$$
 $$\vec{F}_g = -F_g\hat{j} = -mg\hat{j} = m\vec{g}$$
 
-
-# Problems
-2, 4, 6, 8, 10, 12
-
-# 2
-a)
-+3x, +4y
--3x, -4y
-$a = 0$
-
-b)
-+3x, +4y
--3x, +4y
-a_y = 4
-
-c)
-+3x, +4y
-+3x, -4y
-a_x = 3
-
-# 4
-2, -6
-accel is constant
--2x, +6y
-
-# 6
-net force = 0
-0 = f_c cos phi - f_a cos phi
-0 = f_a sin theta + f_c si phi - f_b
-
-f_a = 220 N
-f_c = 170N
-theta = 47
-
-cosphi = 0.883, phi = 28.0
-f_b = 220(sin 47) + 170(sin 28) = 241N
