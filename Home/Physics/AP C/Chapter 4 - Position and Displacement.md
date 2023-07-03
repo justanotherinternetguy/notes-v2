@@ -14,6 +14,11 @@
 	- [Trajectory](#Trajectory)
 	- [Horizontal Range](#Horizontal%20Range)
 	- [Problem](#Problem)
+- [Uniform Circular Motion](#Uniform%20Circular%20Motion)
+	- [Problem](#Problem)
+- [Relative Motion in 1D](#Relative%20Motion%20in%201D)
+	- [Problem](#Problem)
+
 
 
 

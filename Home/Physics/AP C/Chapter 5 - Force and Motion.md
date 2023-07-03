@@ -18,7 +18,7 @@
 - We push on the standard body (1 kg) with 1N of force
 	- Accel. of 1 $\text{m/s}^2$
 - Push on body X with the same force
-	- Accel. of $0.25 \text{m/s}^2$
+	- Accel. of $0.25\; \text{m/s}^2$
 
 $$\frac{m_x}{m_0} = \frac{a_0}{a_x}$$
 
@@ -33,3 +33,47 @@ $$F_{\text{net, x}} = ma_x$$
 $$F_{\text{net, y}} = ma_y$$
 $$F_{\text{net, z}} = ma_z$$
 - Accel. component along a given axis is caused **only by** the sum of the force components on the **same axis**
+
+# Gravitational Force
+- Assume ground is the inertial frame, $\vec{F}_g$ pulls the body directly towards the center of Earth
+## Free fall
+- Suppose mass $m$ is in **free fall** with free-fall acceleration of magnitude $g$. If we neglect air resistance, the only force acting on the body is $\vec{F}_g$.
+$$F_g = mg$$
+$$\vec{F}_g = -F_g\hat{j} = -mg\hat{j} = m\vec{g}$$
+
+
+# Problems
+2, 4, 6, 8, 10, 12
+
+# 2
+a)
++3x, +4y
+-3x, -4y
+$a = 0$
+
+b)
++3x, +4y
+-3x, +4y
+a_y = 4
+
+c)
++3x, +4y
++3x, -4y
+a_x = 3
+
+# 4
+2, -6
+accel is constant
+-2x, +6y
+
+# 6
+net force = 0
+0 = f_c cos phi - f_a cos phi
+0 = f_a sin theta + f_c si phi - f_b
+
+f_a = 220 N
+f_c = 170N
+theta = 47
+
+cosphi = 0.883, phi = 28.0
+f_b = 220(sin 47) + 170(sin 28) = 241N
