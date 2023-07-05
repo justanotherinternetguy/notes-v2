@@ -41,3 +41,57 @@ $$F_{\text{net, z}} = ma_z$$
 $$F_g = mg$$
 $$\vec{F}_g = -F_g\hat{j} = -mg\hat{j} = m\vec{g}$$
 
+## Weight
+$$W = mg$$
+
+# Normal Force
+- When a body presses against a surface, the surface deforms and pushes on the body with normal force $\vec{F}_N$ that is **perpendicular** to the surface
+![](Pasted%20image%2020230704144320.png)
+$$F_N = mg + ma_y = m(g + a_y)$$
+$$F_N = mg$$
+![](Pasted%20image%2020230704144622.png)
+a) Magnitude of $\vec{F}_N$ is **equal** to $mg$
+b) **Greater than** $mg$ because acceleration is upward; thus net force on body must be greater upward
+
+# Tension
+- When a cord is attached to a body and pulled **taut**, the cord pulls on the body with a force $\vec{T}$ directed **away** from the body and **along** the cord
+- Tension in the cord has magnitude $T$ of force on the body
+	- If $T = 50\;\text{N}$, then the tension in the cord is $50\;\text{N}$
+![](Pasted%20image%2020230704144955.png)
+
+# Newton's Third Law
+- *When two bodies interact, the forces on the codes from each other are always equal in magnitude, and opposite in direction*
+$$F_{BC} = F_{CB}$$
+$$\vec{F}_{BC} = -\vec{F}_{CB}$$
+- **Third-law force pair** = The pair of forces applied on two interacting objects
+	- (Gravity of Sun on Earth, Gravity of Earth and Sun)
+
+# Application
+![](Pasted%20image%2020230705162855.png)
+> Block $S$ with mass $M = 3.3\;\text{kg}$. The block is free to move along a horizontal frictionless surface and connected, by a cord that wraps around a frictionless pulley, to a second block $H$ with mass $m = 2.1\;\text{kg}$. Cord and pulley are massless. The hanging block $H$ falls as $S$ accelerates to the right. Find (a) the acceleration of $S$, (b) the acceleration of $H$, and (c) the tension in the cord
+
+## What is the problem all about?
+- Must consider the force of **Earth**
+1. Cord pulls to the right on $S$ with force of magnitude $T$
+2. Cord pulls upward on $H$ with force of magnitude $T$, counteracting free-fall
+3. Earth pulls down on $S$ with gravitational force $\vec{F}_{gS}$, which has a magnitude equal to $Mg$
+4. Earth pulls down on $H$ with gravitational force $\vec{F}_{gH}$ with magnitude $mg$
+5. Table pushes up on $S$ with normal force
+- Note that blocks will move together with the same magnitude of acceleration ($a$)
+- Apply $\vec{F}_{\text{net}} = m\vec{a}$ on all bodies
+- Draw free-body diagram for $S$
+
+![](Pasted%20image%2020230705163611.png)
+![](Pasted%20image%2020230705163624.png)
+
+- How do we apply $\vec{F}_{\text{net}} = m\vec{a}$?
+- Split $\vec{F}_{\text{net}} = m\vec{a}$ into components
+$$F_{\text{net, x}} = Ma_x$$
+$$F_{\text{net, y}} = Ma_y$$
+$$F_{\text{net, z}} = Ma_z$$
+
+- Consider $S$. $S$ only moves along the $x$ axis, so
+$$F_N - F_{gS} = 0 \to F_N = F_{gS}$$
+- On the $x$ axis, there is only one force component, $T$.
+Thus $F_{\text{net, x}} = Ma_x$ becomes
+$$T = Ma$$

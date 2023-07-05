@@ -1,8 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Tokyo Night",
-  "baseFontSize": 19,
-  "interfaceFontFamily": "",
-  "textFontFamily": "",
+  "baseFontSize": 22,
+  "interfaceFontFamily": "ComicShannsMono Nerd Font",
+  "textFontFamily": "ComicShannsMono Nerd Font",
   "monospaceFontFamily": "JetBrainsMono Nerd Font"
 }
