@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Physics/AP C/Chapter 5 - Force and Motion.md",
+                "file": "School/Spot/API.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1efbe874c0a26a4e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Physics/AP C/Chapter 5 - Force and Motion.md",
+                "file": "School/Spot/API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/Physics/AP C/Chapter 5 - Force and Motion.md",
+                "file": "School/Spot/API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/Physics/AP C/Chapter 5 - Force and Motion.md"
+                "file": "School/Spot/API.md"
               }
             }
           }
@@ -149,6 +148,9 @@
   },
   "active": "b1f9b95ddd6c8b4e",
   "lastOpenFiles": [
+    "Home/Physics/AP C/Chapter 5 - Force and Motion.md",
+    "School/Spot/API.md",
+    "School/Spot",
     "Images/Pasted image 20230705163624.png",
     "Images/Pasted image 20230705163611.png",
     "Images/Pasted image 20230705162855.png",
@@ -159,7 +161,6 @@
     "Home/Physics/AP C/Chapter 3 - Vectors.md",
     "Home/Physics/AP C/Chapter 2 - 1D Kinematics.md",
     "Home/Physics/AP C/4 - Vectors.md",
-    "Home/Physics/AP C/Chapter 5 - Force and Motion.md",
     "Home/Math/Areteem/1 - Factoring.md",
     "Home/Calculus/Ch3 - Derivatives.md",
     "Home/Math/Areteem",
@@ -172,7 +173,6 @@
     "Images/IGS Acc Finals Topics List 2 2023.pdf",
     "Images/Pasted image 20230630234646.png",
     "Images/Pasted image 20230630234601.png",
-    "Images/Pasted image 20230630232514.png",
     "Home/Physics/AP C/1 - Basics.md",
     "Home/Physics/AP C/3 - 1D Kinematics.md",
     "Home/Physics/AP C/2 - (FILL OUT LATER).md"
