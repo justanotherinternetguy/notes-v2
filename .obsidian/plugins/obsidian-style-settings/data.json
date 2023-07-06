@@ -1,3 +1,10 @@
 {
-  "bolt-theme@@theme-class-select": "theme-classic"
+  "bolt-theme@@theme-class-select": "theme-classic",
+  "perso@@theme-rounded": true,
+  "perso@@light-tab-header": false,
+  "perso@@nav-folder-hue": false,
+  "perso@@active-line": false,
+  "perso@@ribbon-off": false,
+  "perso@@tab-header-off": false,
+  "perso@@formatting-off": false
 }

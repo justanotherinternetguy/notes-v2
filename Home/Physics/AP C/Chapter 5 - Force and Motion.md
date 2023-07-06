@@ -12,7 +12,6 @@
 - We can assume the ground is an inertial frame **provided we ignore the Earth's astronomical movement**
 ![](Pasted%20image%2020230630160153.png)
 
-
 # Mass
 - Acceleration is **inversely related** to mass
 - We push on the standard body (1 kg) with 1N of force
@@ -66,7 +65,7 @@ $$\vec{F}_{BC} = -\vec{F}_{CB}$$
 - **Third-law force pair** = The pair of forces applied on two interacting objects
 	- (Gravity of Sun on Earth, Gravity of Earth and Sun)
 
-# Application
+# Application - Pulleys
 ![](Pasted%20image%2020230705162855.png)
 > Block $S$ with mass $M = 3.3\;\text{kg}$. The block is free to move along a horizontal frictionless surface and connected, by a cord that wraps around a frictionless pulley, to a second block $H$ with mass $m = 2.1\;\text{kg}$. Cord and pulley are massless. The hanging block $H$ falls as $S$ accelerates to the right. Find (a) the acceleration of $S$, (b) the acceleration of $H$, and (c) the tension in the cord
 
@@ -84,7 +83,7 @@ $$\vec{F}_{BC} = -\vec{F}_{CB}$$
 ![](Pasted%20image%2020230705163611.png)
 ![](Pasted%20image%2020230705163624.png)
 
-- How do we apply $\vec{F}_{\text{net}} = m\vec{a}$?
+- How do we apply $\vec{F}_{\text{net}} = m\vec{a}$? to $S$?
 - Split $\vec{F}_{\text{net}} = m\vec{a}$ into components
 $$F_{\text{net, x}} = Ma_x$$
 $$F_{\text{net, y}} = Ma_y$$
@@ -95,3 +94,47 @@ $$F_N - F_{gS} = 0 \to F_N = F_{gS}$$
 - On the $x$ axis, there is only one force component, $T$.
 Thus $F_{\text{net, x}} = Ma_x$ becomes
 $$T = Ma$$
+
+- How do we apply $\vec{F}_{\text{net}} = m\vec{a}$ to $H$?
+- This time, acceleration is along the $y$ axis
+$$T - F_{gH} = ma_y$$
+$$T - mg = -ma$$
+- Subtract $T = Ma$ and $T - mg = -ma$
+$$a = \frac{m}{M+m}g$$
+- Substitute
+$$T = \frac{Mm}{M+m}g$$
+- Plug in numbers
+$$a = \frac{2.1}{3.3 + 2.1}(9.8) = 3.8\;\text{m/s}^2$$
+$$T = \frac{(3.3)(2.1)}{3.3 + 2.1}(9.8) = 13\;\text{N}$$
+
+# Application - Ramp
+> A cord pulls a box of sea biscuits up along a frictionless plane inclined at $\theta = 30.0^{\circ}$. The box has mass $m = 5.00\;\text{kg}$, and the force from the cord has magnitude $T = 25.0\;\text{N}$. What is $a$ along the inclined plane?
+
+![](Pasted%20image%2020230706165101.png)
+
+- Tension force $\vec{T}$ has $T = 25.0 \;\text{N}$
+- $\vec{F}_g$ is downward and has magnitude $mg = (5\;\text{kg})(9.8\;\text{m/s}^2) = 49.0\;\text{N}$
+
+$$F_{\text{net, x}} = ma_x$$
+- $\vec{T}$ is in the $+x$ direction and $mg \sin \theta$ is in the $-x$ direction?
+
+$T - mg \sin \theta = ma$
+$$25 - (5)(9.8) \cdot \sin 30^{\circ} = 5a$$
+$$a \approx 0.1 \text{m/s}^2$$
+
+
+# Problems
+## 54
+- If two bodies are connected by a taut rope or some other incompressible beam, you can treat the two bodies as one larger body
+	- (i.e both bodies must have some velocity and acceleration)
+
+## 57 (incline + pulley)
+![](Pasted%20image%2020230706170911.png)
+
+- $\theta = 30.0^{\circ}$
+- $m_1 = 3.7\;\text{kg}$
+- $m_2 = 2.3\;\text{kg}$
+
+![](2023-07-06-Note-17-15.png)
+## 58
+![](2023-07-06-Note-17-29-2.png)
