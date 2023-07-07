@@ -4,7 +4,6 @@
 - AMC 10/12
 	- Areteem
 		- II-B
-		- I-C Geom + Finite Math
 	- Practice exams + AoPS
 - Physics
 	- E&M class
