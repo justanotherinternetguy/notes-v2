@@ -19,7 +19,7 @@
 		- Time
 	- Mass (kilogram)
 		- How much "stuff" is in an object?
-		- $12 \text{amu} = {}^{12}_6C$ = 1 proton = 1 neutron
+		- $12 \;\text{amu} = {}^{12}_6C$ = 1 proton = 1 neutron
 		- Carbon-12 is very stable
 		- **Binding energy** = Smallest amount of energy to remove a particle from a system of particles (nucleus)
 
@@ -34,7 +34,6 @@
 	- Atoms can only absorb certain waves
 		- Frequency, Wavelength, Amplitude
 		- Period = inverse of frequency (distance between one crest to another)
-
 
 
 # Motion in 1D (Ch 2)
