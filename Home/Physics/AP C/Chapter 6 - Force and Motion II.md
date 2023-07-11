@@ -54,3 +54,19 @@ $$v^2 = v_0^2 + 2a(x-x_0)$$
 $$x-x_0 = \frac{v^2 - v_0^2}{2a_x}$$
 $$x-x_0 = \frac{v^2 - v_0^2}{-2\mu_kg}$$
 $$x-x_0 = \frac{0^2 - 10^2}{-2 \cdot 0.6 \cdot 9.8} \approx \boxed{8.5 \;\text{m}}$$
+
+
+
+# Drag Force
+- Air is the fluid
+- Object is blunt
+- Relative motion is fast enough that air behind gets turbulent
+- Magnitude of drag force $\vec{D}$ is
+	- $C$ is drag coefficient (typically ranges from 0.4-1.0)
+	- $\rho$ is air density (mass per volume)
+	- $A$ is **effective cross-sectional area** (area of cross section taken perpendicular from $\vec{v}$)
+$$D = \frac{1}{2}C\rho A v^2$$
+
+
+# Terminal Speed
+$$v_t = \sqrt{\frac{2F_g}{C\rho A}}$$
