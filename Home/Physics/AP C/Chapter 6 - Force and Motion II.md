@@ -70,3 +70,10 @@ $$D = \frac{1}{2}C\rho A v^2$$
 
 # Terminal Speed
 $$v_t = \sqrt{\frac{2F_g}{C\rho A}}$$
+- Any other equations can be derived
+
+# Uniform Circular Motion
+$$a = \frac{v^2}{R} \;\text{(centripetal acceleration)}$$
+- A centripetal force accelerates a body by **changing the direction** of the velocity without changing the speed
+
+$$F = m\frac{v^2}{R} \;\text{(magnitude of centripetal force)}$$
