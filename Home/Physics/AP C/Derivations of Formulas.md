@@ -2,6 +2,15 @@
 - [$v = v_0 + at$](#$v%20=%20v_0%20+%20at$)
 - [$x-x_0 = v_0t + \frac{1}{2}at^2$](#$x-x_0%20=%20v_0t%20+%20%5Cfrac%7B1%7D%7B2%7Dat%5E2$)
 - [$v^2 = v_0^2 + 2a(x-x_0)$](#$v%5E2%20=%20v_0%5E2%20+%202a(x-x_0)$)
+- [Projectile Motion](#Projectile%20Motion)
+	- [Horizontal Motion](#Horizontal%20Motion)
+	- [Vertical Motion](#Vertical%20Motion)
+	- [Trajectory](#Trajectory)
+	- [Range](#Range)
+- [Uniform Circular Motion](#Uniform%20Circular%20Motion)
+	- [Centripetal Acceleration](#Centripetal%20Acceleration)
+- [Gravity](#Gravity)
+
 
 
 # 1D Kinematics and Const. Accel.
@@ -118,3 +127,26 @@ $$\tan \phi = \frac{a_y}{a_x} = \frac{-(v^2/r)\sin\theta}{-(v^2/r)\cos\theta} = 
 - https://physicsteacher.blog/2022/05/15/deriving-centripetal-acceleration/
 
 $$T = \frac{2\pi r}{v} \;\text{(period)}$$
+
+# Gravity ($\vec{F}_g$)
+- Neglect effects of the air
+- Only force acting on a particle in free-fall is $\vec{F}_g$
+- Use Newton's 2nd law, position $y$ is upward
+$$F_{\text{net, y}} = ma_y$$
+$$-\vec{F}_g = m(-g)$$
+$$F_g = mg$$
+$$\vec{F}_g = m\vec{g}$$
+$$W = F_g = mg$$
+
+# Normal Force ($F_N$)
+$$F_N - F_g = ma_y$$
+$$F_N - mg = ma_y$$
+$$F_N = mg + ma_y = m(g + a_y)$$
+
+![](Pasted%20image%2020230712210648.png)
+- If table and block are not accelerating relative to the ground, $a_y = 0$ and
+$$F_N = mg$$
+- However, if the table + block are in an elevator moving upward **at a constant speed**,
+	- $F_N$ would still be equal to $mg$ because $a_y$ is not changing
+- **HOWEVER**, if the table + block are in an elevator moving upward **at an increasing speed**,
+	- $F_N$ would be greater than $mg$ because $a_y$ is now **positive**
