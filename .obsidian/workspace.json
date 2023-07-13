@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Physics/AP C/Chapter 6 - Force and Motion II.md",
+                "file": "Home/Physics/AP C/Derivations of Formulas.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1efbe874c0a26a4e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Physics/AP C/Chapter 6 - Force and Motion II.md",
+                "file": "Home/Physics/AP C/Derivations of Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/Physics/AP C/Chapter 6 - Force and Motion II.md",
+                "file": "Home/Physics/AP C/Derivations of Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/Physics/AP C/Chapter 6 - Force and Motion II.md"
+                "file": "Home/Physics/AP C/Derivations of Formulas.md"
               }
             }
           }
@@ -148,10 +149,14 @@
   },
   "active": "b1f9b95ddd6c8b4e",
   "lastOpenFiles": [
+    "Images/Pasted image 20230712204823.png",
+    "Images/Pasted image 20230712204142.png",
+    "Images/Pasted image 20230712203536.png",
+    "Home/Physics/AP C/Chapter 6 - Force and Motion II.md",
+    "Home/Physics/AP C/Chapter 3 - Vectors.md",
+    "Home/Physics/AP C/Chapter 2 - 1D Kinematics.md",
     "Home/Physics/AP C/Derivations of Formulas.md",
     "Home/Physics/AP C/All Formulas.md",
-    "Home/Physics/AP C/Chapter 2 - 1D Kinematics.md",
-    "Home/Physics/AP C/Chapter 6 - Force and Motion II.md",
     "Images/Pasted image 20230619185951.png",
     "Images/2023-07-10-Note-20-13.png",
     "Images/Pasted image 20230708101827.png",
@@ -159,7 +164,6 @@
     "Images/Pasted image 20230706174833.png",
     "Home/Physics/AP C/Chapter 5 - Force and Motion.md",
     "Home/Physics/AP C/Chapter 4 - Position and Displacement.md",
-    "Home/Physics/AP C/Chapter 3 - Vectors.md",
     "Home/Physics/AP C/Chapter 1 - Basics.md",
     "Home/Physics/AP C/4 - Vectors.md",
     "Home/Physics/AP C/3 - 1D Kinematics.md",
@@ -167,8 +171,6 @@
     "Images/2023-07-06-Note-17-29-2.png",
     "Images/2023-07-06-Note-17-15.png",
     "Images/Pasted image 20230706170911.png",
-    "Images/Pasted image 20230706170441.png",
-    "Images/Pasted image 20230706170424.png",
     "School/Spot/API.md",
     "School/Spot",
     "Home/Math/Areteem/1 - Factoring.md",

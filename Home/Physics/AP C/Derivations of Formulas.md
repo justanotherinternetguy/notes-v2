@@ -81,3 +81,40 @@ $$R = x = v_{x0}t$$
 $$R = v_{x0}(\frac{2v_{y0}}{g}) = \frac{2v_{x0}v_{y0}}{g} = \frac{2v_0^2\sin\theta_0\cos\theta_0}{g}$$
 $$2 \sin\theta\cos\theta = \sin 2 \theta$$
 $$\boxed{R = \frac{v_0^2 \sin 2\theta_0}{g}}$$
+
+# Uniform Circular Motion
+
+## Centripetal Acceleration
+$$a = \frac{v^2}{r}$$
+- Particle $p$ moves at a constant speed $v$ around a circle with radius $r$
+- $p$ has coordinates $x_p$ and $y_p$
+- $\vec{v}$ of a moving particle is always tangent to the particle's path at the particle's position
+- Angle $\theta$ that $\vec{v}$ makes with a vertical at $p$ **equals** the angle $\theta$ that radius $r$ makes with the $x$ axis
+![](Pasted%20image%2020230712203536.png)
+- The scalar components of $\vec{v}$ can be written as
+
+$$\vec{v} = v_x \hat{i} + v_y \hat{j} = (-v \sin \theta)\hat{i} + (v \cos \theta) \hat{j}$$
+![](Pasted%20image%2020230712204142.png)
+- Replace $\sin$ and $\cos$ with $y_p/r$ and $x_p/r$ (we defined that the two $\theta$s are equal)
+$$\vec{v} = (-\frac{vy_p}{r})\hat{i} + (\frac{vx_p}{r})\hat{j}$$
+- To find acceleration $\vec{a}$, we must take $dt$ of the equation (time derivative)
+- $v$ (speed) and $r$ do not change with time
+$$\vec{a} = \frac{d\vec{v}}{dt} = (-\frac{v}{r}\frac{dy_p}{dt})\hat{i} + (\frac{v}{r} \frac{dx_p}{dt})$$
+- The rate ${dy_p}/dt$ at which $y_p$ changes is **equal** to the velocity component $v_y$
+
+$$\frac{dy_p}{dt} = v_y$$
+$$\frac{dx_p}{dt} = v_x$$
+
+$$v_x = -v \sin \theta$$
+$$v_y = v \cos \theta$$
+- Substitute
+$$\vec{a} = (-\frac{v^2}{r} \cos \theta) + (-\frac{v^2}{r} \sin \theta)\hat{j}$$
+![](Pasted%20image%2020230712204823.png)
+
+$$\boxed{a = \sqrt{a_x^2 + a_y^2} = \frac{v^2}{r} \sqrt{(\cos \theta)^2 + (\sin \theta)^2} = \frac{v^2}{r} \sqrt{1} = \frac{v^2}{r}}$$
+$$\tan \phi = \frac{a_y}{a_x} = \frac{-(v^2/r)\sin\theta}{-(v^2/r)\cos\theta} = \tan \theta$$
+
+
+- https://physicsteacher.blog/2022/05/15/deriving-centripetal-acceleration/
+
+$$T = \frac{2\pi r}{v} \;\text{(period)}$$
