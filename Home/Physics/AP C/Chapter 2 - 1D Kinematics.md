@@ -57,7 +57,7 @@ $$a = \frac{dv}{dt} = \frac{d^2x}{dt^2}$$
 $$(\star)\; v = v_0 + at$$
 $$(\star) \; x - x_0 = v_0t + \frac{1}{2}at^2$$
 $$v^2 = v^2_0 + 2a(x - x_0)$$
-$$x - x_0 = \frac{1}{2}(v_0 + v_t)$$
+$$x - x_0 = \frac{1}{2}(v_0 + v)t$$
 $$x - x_0 = vt - \frac{1}{2}at^2$$
 
 # Free-Fall acceleration

@@ -77,3 +77,4 @@ $$a = \frac{v^2}{R} \;\text{(centripetal acceleration)}$$
 - A centripetal force accelerates a body by **changing the direction** of the velocity without changing the speed
 
 $$F = m\frac{v^2}{R} \;\text{(magnitude of centripetal force)}$$
+

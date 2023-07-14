@@ -9,8 +9,8 @@
 	- [Range](#Range)
 - [Uniform Circular Motion](#Uniform%20Circular%20Motion)
 	- [Centripetal Acceleration](#Centripetal%20Acceleration)
-- [Gravity](#Gravity)
-
+- [Gravity ($\vec{F}_g$)](#Gravity%20($%5Cvec%7BF%7D_g$))
+- [Normal Force ($F_N$)](#Normal%20Force%20($F_N$))
 
 
 # 1D Kinematics and Const. Accel.
@@ -150,3 +150,62 @@ $$F_N = mg$$
 	- $F_N$ would still be equal to $mg$ because $a_y$ is not changing
 - **HOWEVER**, if the table + block are in an elevator moving upward **at an increasing speed**,
 	- $F_N$ would be greater than $mg$ because $a_y$ is now **positive**
+
+# Tension
+![](Pasted%20image%2020230713171036.png)
+
+
+# Friction
+## Static Friction (Nonmoving)
+
+
+# Kinetic Energy
+- Assume constant acceleration
+$$K = \frac{1}{2}mv^2$$
+-----
+- Start from **work-energy theorem**
+- *The principle of work and kinetic energy (also known as the work-energy theorem) states that the work done by the sum of all forces acting on a particle equals the change in the kinetic energy of the particle*
+- $W$ = Work
+- $\Delta x$ = Displacement
+
+$$\Delta K = W = F \Delta x - ma \Delta x$$
+- Rearrange [$v^2 = v_0^2 + 2a(x-x_0)$](#$v%5E2%20=%20v_0%5E2%20+%202a(x-x_0)$)
+$$a \Delta s = \frac{v^2 - v_0^2}{2}$$
+$$\Delta K = m(\frac{v^2-v_0^2}{2})$$
+$$\Delta K = \frac{1}{2}mv^2 - \frac{1}{2}mv_0^2$$
+- $v_0$ = 0
+$$K = \frac{1}{2}mv^2$$
+
+# Work
+- Consider a bead that can slide along a frictionless wire that is stretched along the $x$ axis
+- A constant $\vec{F}$, directed at angle $\phi$, accelerates the bead along the wire
+$$F_x = ma_x$$
+- As the bead moves through displacement $\vec{d}$, the  force changes the bead's velocity from $\vec{v}_0$ to $\vec{v}$.
+
+- Constraints
+	- Force is constant
+	- Accel. is constant
+	- Object is rigid (everything moves together)
+
+
+$$v^2 = v_0^2 + 2a_xd$$
+$$v^2 - v_0^2 = 2a_xd$$
+$$\frac{v^2 - v_0^2}{2d} = a_x$$
+
+- Substitute into $F_x = ma_x$
+
+$$F_x = m(\frac{v^2 - v_0^2}{2d})$$
+$$F_x = \frac{mv^2}{2d} - \frac{mv_0^2}{2d}$$
+$$F_xd = \frac{mv^2}{2} - \frac{mv_0^2}{2}$$
+$$F_xd = \frac{1}{2}mv^2 - \frac{1}{2}mv_0^2$$
+- This tells us that the kinetic energy has been changed by $\vec{F}$, so...
+$$W = F_xd$$
+- If we know $F_x$ and $d$, we can calculate $W$
+$$F_x = F \cos \phi$$
+$$\boxed{W = Fd \cos \phi}$$
+![](Pasted%20image%2020230713201521.png)
+- Also can write this with the dot product
+$$W = \vec{F} \cdot \vec{d}$$
+- When using $\vec{F}_{\text{net}}$
+	- Substitute the magnitude $F_{\text{net}}$ for $F$
+	- Substitute the angle between the direction of $\vec{F}_\text{net}$ and $\vec{d}$ for $\phi$

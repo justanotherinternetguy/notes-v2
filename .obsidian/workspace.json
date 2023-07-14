@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "86971ac79a3a7bcb",
+        "id": "b8e247ff3405d73b",
         "type": "tabs",
         "children": [
           {
-            "id": "b1f9b95ddd6c8b4e",
+            "id": "9e1ff145fce9e152",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Physics/AP C/Chapter 5 - Force and Motion.md",
+                "file": "Home/Physics/AP C/Derivations of Formulas.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.0086555480957
+    "width": 324.0086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "1efbe874c0a26a4e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Physics/AP C/Chapter 5 - Force and Motion.md",
+                "file": "Home/Physics/AP C/Derivations of Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/Physics/AP C/Chapter 5 - Force and Motion.md",
+                "file": "Home/Physics/AP C/Derivations of Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/Physics/AP C/Chapter 5 - Force and Motion.md"
+                "file": "Home/Physics/AP C/Derivations of Formulas.md"
               }
             }
           }
@@ -146,31 +147,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1f9b95ddd6c8b4e",
+  "active": "9e1ff145fce9e152",
   "lastOpenFiles": [
-    "Home/Physics/AP C/Derivations of Formulas.md",
-    "Images/Pasted image 20230712210648.png",
+    "Images/Pasted image 20230713201521.png",
+    "Home/Physics/AP C/Chapter 7 - Kinetic Energy and Work.md",
     "Home/Physics/AP C/Chapter 6 - Force and Motion II.md",
+    "Home/Physics/AP C/Derivations of Formulas.md",
+    "Home/Physics/AP C/All Formulas.md",
+    "Images/Pasted image 20230713171036.png",
+    "Images/Pasted image 20230713171219.png",
+    "Home/Physics/AP C/Chapter 4 - Position and Displacement.md",
+    "Home/Physics/AP C/Chapter 2 - 1D Kinematics.md",
+    "Home/Physics/AP C/Chapter 5 - Force and Motion.md",
+    "Images/Pasted image 20230712210648.png",
     "Home/Physics/F=MA/Master Notes.md",
     "Home/Physics/F=MA",
     "Images/Pasted image 20230712204823.png",
     "Images/Pasted image 20230712204142.png",
     "Images/Pasted image 20230712203536.png",
     "Home/Physics/AP C/Chapter 3 - Vectors.md",
-    "Home/Physics/AP C/Chapter 2 - 1D Kinematics.md",
-    "Home/Physics/AP C/All Formulas.md",
     "Images/Pasted image 20230619185951.png",
     "Images/2023-07-10-Note-20-13.png",
     "Images/Pasted image 20230708101827.png",
     "Images/Pasted image 20230710201010.png",
-    "Images/Pasted image 20230706174833.png",
-    "Home/Physics/AP C/Chapter 5 - Force and Motion.md",
-    "Home/Physics/AP C/Chapter 4 - Position and Displacement.md",
     "Home/Physics/AP C/Chapter 1 - Basics.md",
     "Home/Physics/AP C/4 - Vectors.md",
     "Home/Physics/AP C/3 - 1D Kinematics.md",
     "Summer Plans.md",
-    "Images/2023-07-06-Note-17-29-2.png",
     "School/Spot/API.md",
     "School/Spot",
     "Home/Math/Areteem/1 - Factoring.md",
